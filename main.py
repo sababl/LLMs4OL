@@ -4,10 +4,10 @@ from nltk.corpus import wordnet as wn
 
 if __name__ == "__main__":
 
-    collect 200 random noun lemmas
+    #collect 200 random noun lemmas
     terms = {lem.name().replace('_',' ') for syn in wn.all_synsets('n') 
             for lem in syn.lemmas()}
-    terms = list(terms)[:200]
+    terms = list(terms)[:10]
     types = {}
     for t in terms:
         types[t] = type_term(t)

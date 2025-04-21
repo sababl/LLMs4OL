@@ -18,7 +18,8 @@ model = genai.GenerativeModel("gemini-2.0-flash")
 
 def type_term(term: str) -> str:
     """Return the type of a term (noun, verb, adjective, adverb)."""
-    prompt = f"{term} part of speech is a [MASK]."
+    prompt = f""" Fill the [MASK] in the following sentence with the correct part of speech. answer in the form of a single word.
+            {term} part of speech is a [MASK]."""
     response = model.generate_content(prompt)
 
     print(f"Term: {term}, Type: {response.text}")
@@ -52,7 +53,8 @@ def is_subclass(test_pairs) -> str:
     """Check if a term is a subclass of another term."""
     responses = []
     for child, parent in test_pairs:
-        prompt = f"{parent} is the superclass of {child}. This staement is [MASK]."
+        prompt = f""" Fill the [MASK] in the following sentence with True or False. answer in the form of a single word.
+                    {parent} is the superclass of {child}. This staement is [MASK]."""
         response = model.generate_content(prompt)
         responses.append((child, parent, response.text))
         print(f"Term: {child}, Parent: {parent}, Subclass: {response.text}")
