@@ -7,13 +7,14 @@ import google.generativeai as genai
 from dotenv import load_dotenv
 
 
-from itertools import combinations, islice
+from itertools import islice
 
 
 load_dotenv()
 api_key = os.getenv("GOOGLE_API_KEY")
+model_name = os.getenv("MODEL_NAME", "gemini-2.0-flash")
 genai.configure(api_key=api_key)
-model = genai.GenerativeModel("gemini-2.0-flash")
+model = genai.GenerativeModel(model_name)
 
 
 def type_term(term: str) -> str:
@@ -41,12 +42,13 @@ def create_samples(neg_seed, pos_seed, n: int) -> list:
     neg_chain = [s.lemmas()[0].name() for s in neg_syn.hypernym_paths()[0][:5]]
 
     negatives = [(a, b) for a in chain for b in neg_chain]
-    test_set = positives + negatives
-    random.shuffle(test_set)
-    print(f"Test set: {test_set}")
 
-    test_pairs = list(islice(positives, 5)) + list(islice(negatives, 5))
+    num_pos = min(n // 2, len(positives))
+    num_neg = min(n - num_pos, len(negatives))
+
+    test_pairs = random.sample(positives, num_pos) + random.sample(negatives, num_neg)
     random.shuffle(test_pairs)
+    print(f"Test pairs: {test_pairs}")
     return test_pairs
 
 def is_subclass(test_pairs) -> str:
@@ -54,7 +56,7 @@ def is_subclass(test_pairs) -> str:
     responses = []
     for child, parent in test_pairs:
         prompt = f""" Fill the [MASK] in the following sentence with True or False. answer in the form of a single word.
-                    {parent} is the superclass of {child}. This staement is [MASK]."""
+                    {parent} is the superclass of {child}. This statement is [MASK]."""
         response = model.generate_content(prompt)
         responses.append((child, parent, response.text))
         print(f"Term: {child}, Parent: {parent}, Subclass: {response.text}")
