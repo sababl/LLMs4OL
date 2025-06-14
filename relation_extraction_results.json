@@ -1,0 +1,1290 @@
+[
+  {
+    "template_idx": 0,
+    "classifier_type": "heuristic",
+    "f1_score": 0.5343265993265993,
+    "accuracy": 0.5343383584589615,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.5563380281690141,
+        "recall": 0.5096774193548387,
+        "f1-score": 0.531986531986532,
+        "support": 310.0
+      },
+      "correct": {
+        "precision": 0.5143769968051118,
+        "recall": 0.5609756097560976,
+        "f1-score": 0.5366666666666666,
+        "support": 287.0
+      },
+      "accuracy": 0.5343383584589615,
+      "macro avg": {
+        "precision": 0.535357512487063,
+        "recall": 0.5353265145554682,
+        "f1-score": 0.5343265993265993,
+        "support": 597.0
+      },
+      "weighted avg": {
+        "precision": 0.5361658070610745,
+        "recall": 0.5343383584589615,
+        "f1-score": 0.5342364459784895,
+        "support": 597.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1990,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "conceptually_related_to": 81,
+        "interacts_with": 73,
+        "result_of": 62,
+        "produced_by": 67,
+        "functionally_related_to": 69,
+        "prevents": 62,
+        "temporally_related_to": 54,
+        "measures": 71,
+        "occurs_in": 57,
+        "performs": 62,
+        "diagnoses": 63,
+        "connected_to": 54,
+        "associated_with": 71,
+        "spatially_related_to": 69,
+        "traverses": 63,
+        "method_of": 59,
+        "surrounds": 71,
+        "property_of": 63,
+        "manifestation_of": 65,
+        "exhibits": 59,
+        "uses": 61,
+        "causes": 62,
+        "indicates": 60,
+        "carries_out": 61,
+        "affects": 53,
+        "part_of": 77,
+        "process_of": 64,
+        "adjacent_to": 61,
+        "contains": 67,
+        "treats": 68,
+        "location_of": 61
+      },
+      "label_distribution": {
+        "correct": 995,
+        "incorrect": 995
+      },
+      "most_common_relations": [
+        [
+          "conceptually_related_to",
+          81
+        ],
+        [
+          "part_of",
+          77
+        ],
+        [
+          "interacts_with",
+          73
+        ],
+        [
+          "measures",
+          71
+        ],
+        [
+          "associated_with",
+          71
+        ],
+        [
+          "surrounds",
+          71
+        ],
+        [
+          "functionally_related_to",
+          69
+        ],
+        [
+          "spatially_related_to",
+          69
+        ],
+        [
+          "treats",
+          68
+        ],
+        [
+          "produced_by",
+          67
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "interacts_with",
+          37
+        ],
+        [
+          "clinical drug",
+          35
+        ],
+        [
+          "body system",
+          32
+        ],
+        [
+          "uses",
+          32
+        ],
+        [
+          "self-help or relief organization",
+          31
+        ],
+        [
+          "daily or recreational activity",
+          31
+        ],
+        [
+          "fish",
+          31
+        ],
+        [
+          "behavior",
+          31
+        ],
+        [
+          "medical device",
+          31
+        ],
+        [
+          "performs",
+          31
+        ]
+      ]
+    },
+    "dataset_size": 1990,
+    "test_size": 597
+  },
+  {
+    "template_idx": 1,
+    "classifier_type": "heuristic",
+    "f1_score": 0.48017987249544625,
+    "accuracy": 0.4806070826306914,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.47335423197492166,
+        "recall": 0.5189003436426117,
+        "f1-score": 0.49508196721311476,
+        "support": 291.0
+      },
+      "correct": {
+        "precision": 0.48905109489051096,
+        "recall": 0.44370860927152317,
+        "f1-score": 0.4652777777777778,
+        "support": 302.0
+      },
+      "accuracy": 0.4806070826306914,
+      "macro avg": {
+        "precision": 0.48120266343271634,
+        "recall": 0.4813044764570674,
+        "f1-score": 0.48017987249544625,
+        "support": 593.0
+      },
+      "weighted avg": {
+        "precision": 0.48134824985098906,
+        "recall": 0.4806070826306914,
+        "f1-score": 0.47990344240793475,
+        "support": 593.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1976,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "diagnoses": 72,
+        "surrounds": 63,
+        "treats": 69,
+        "performs": 54,
+        "produced_by": 62,
+        "adjacent_to": 72,
+        "occurs_in": 62,
+        "spatially_related_to": 55,
+        "exhibits": 62,
+        "part_of": 65,
+        "functionally_related_to": 56,
+        "location_of": 50,
+        "traverses": 65,
+        "prevents": 72,
+        "carries_out": 54,
+        "uses": 77,
+        "indicates": 67,
+        "result_of": 58,
+        "method_of": 56,
+        "interacts_with": 62,
+        "connected_to": 54,
+        "process_of": 60,
+        "temporally_related_to": 67,
+        "contains": 63,
+        "causes": 68,
+        "conceptually_related_to": 74,
+        "manifestation_of": 68,
+        "property_of": 75,
+        "associated_with": 58,
+        "measures": 77,
+        "affects": 59
+      },
+      "label_distribution": {
+        "incorrect": 988,
+        "correct": 988
+      },
+      "most_common_relations": [
+        [
+          "uses",
+          77
+        ],
+        [
+          "measures",
+          77
+        ],
+        [
+          "property_of",
+          75
+        ],
+        [
+          "conceptually_related_to",
+          74
+        ],
+        [
+          "diagnoses",
+          72
+        ],
+        [
+          "adjacent_to",
+          72
+        ],
+        [
+          "prevents",
+          72
+        ],
+        [
+          "treats",
+          69
+        ],
+        [
+          "causes",
+          68
+        ],
+        [
+          "manifestation_of",
+          68
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "derivative_of",
+          35
+        ],
+        [
+          "chemical viewed functionally",
+          34
+        ],
+        [
+          "brings_about",
+          32
+        ],
+        [
+          "experimental model of disease",
+          32
+        ],
+        [
+          "carries_out",
+          31
+        ],
+        [
+          "conceptual entity",
+          31
+        ],
+        [
+          "family group",
+          31
+        ],
+        [
+          "body space or junction",
+          31
+        ],
+        [
+          "body part, organ, or organ component",
+          30
+        ],
+        [
+          "group attribute",
+          30
+        ]
+      ]
+    },
+    "dataset_size": 1976,
+    "test_size": 593
+  },
+  {
+    "template_idx": 2,
+    "classifier_type": "heuristic",
+    "f1_score": 0.4791626409017713,
+    "accuracy": 0.479933110367893,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.4888888888888889,
+        "recall": 0.43278688524590164,
+        "f1-score": 0.4591304347826087,
+        "support": 305.0
+      },
+      "correct": {
+        "precision": 0.4725609756097561,
+        "recall": 0.5290102389078498,
+        "f1-score": 0.499194847020934,
+        "support": 293.0
+      },
+      "accuracy": 0.479933110367893,
+      "macro avg": {
+        "precision": 0.48072493224932245,
+        "recall": 0.48089856207687576,
+        "f1-score": 0.4791626409017713,
+        "support": 598.0
+      },
+      "weighted avg": {
+        "precision": 0.48088875746617,
+        "recall": 0.479933110367893,
+        "f1-score": 0.47876065683249047,
+        "support": 598.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1992,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "occurs_in": 77,
+        "connected_to": 69,
+        "location_of": 60,
+        "performs": 50,
+        "prevents": 66,
+        "affects": 57,
+        "temporally_related_to": 73,
+        "result_of": 71,
+        "manifestation_of": 63,
+        "spatially_related_to": 54,
+        "exhibits": 61,
+        "functionally_related_to": 62,
+        "conceptually_related_to": 73,
+        "adjacent_to": 65,
+        "uses": 60,
+        "surrounds": 71,
+        "indicates": 67,
+        "diagnoses": 70,
+        "traverses": 61,
+        "process_of": 76,
+        "method_of": 63,
+        "property_of": 64,
+        "causes": 72,
+        "treats": 59,
+        "associated_with": 63,
+        "part_of": 58,
+        "produced_by": 55,
+        "carries_out": 58,
+        "measures": 57,
+        "contains": 61,
+        "interacts_with": 76
+      },
+      "label_distribution": {
+        "incorrect": 996,
+        "correct": 996
+      },
+      "most_common_relations": [
+        [
+          "occurs_in",
+          77
+        ],
+        [
+          "process_of",
+          76
+        ],
+        [
+          "interacts_with",
+          76
+        ],
+        [
+          "temporally_related_to",
+          73
+        ],
+        [
+          "conceptually_related_to",
+          73
+        ],
+        [
+          "causes",
+          72
+        ],
+        [
+          "result_of",
+          71
+        ],
+        [
+          "surrounds",
+          71
+        ],
+        [
+          "diagnoses",
+          70
+        ],
+        [
+          "connected_to",
+          69
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "practices",
+          42
+        ],
+        [
+          "physiologic function",
+          35
+        ],
+        [
+          "body location or region",
+          33
+        ],
+        [
+          "neoplastic process",
+          33
+        ],
+        [
+          "branch_of",
+          32
+        ],
+        [
+          "therapeutic or preventive procedure",
+          32
+        ],
+        [
+          "manufactured object",
+          31
+        ],
+        [
+          "mammal",
+          31
+        ],
+        [
+          "hormone",
+          31
+        ],
+        [
+          "antibiotic",
+          31
+        ]
+      ]
+    },
+    "dataset_size": 1992,
+    "test_size": 598
+  },
+  {
+    "template_idx": 3,
+    "classifier_type": "heuristic",
+    "f1_score": 0.49321875414911676,
+    "accuracy": 0.4949664429530201,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.4693140794223827,
+        "recall": 0.45774647887323944,
+        "f1-score": 0.46345811051693403,
+        "support": 284.0
+      },
+      "correct": {
+        "precision": 0.5172413793103449,
+        "recall": 0.5288461538461539,
+        "f1-score": 0.5229793977812995,
+        "support": 312.0
+      },
+      "accuracy": 0.4949664429530201,
+      "macro avg": {
+        "precision": 0.49327772936636377,
+        "recall": 0.4932963163596966,
+        "f1-score": 0.49321875414911676,
+        "support": 596.0
+      },
+      "weighted avg": {
+        "precision": 0.49440353842413465,
+        "recall": 0.4949664429530201,
+        "f1-score": 0.4946169051922395,
+        "support": 596.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1986,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "treats": 66,
+        "traverses": 73,
+        "surrounds": 75,
+        "result_of": 59,
+        "occurs_in": 67,
+        "indicates": 65,
+        "property_of": 62,
+        "temporally_related_to": 67,
+        "spatially_related_to": 71,
+        "part_of": 69,
+        "diagnoses": 64,
+        "carries_out": 68,
+        "method_of": 69,
+        "prevents": 57,
+        "location_of": 56,
+        "exhibits": 58,
+        "conceptually_related_to": 63,
+        "functionally_related_to": 83,
+        "causes": 68,
+        "measures": 67,
+        "process_of": 65,
+        "adjacent_to": 55,
+        "affects": 58,
+        "produced_by": 70,
+        "connected_to": 57,
+        "contains": 62,
+        "associated_with": 63,
+        "uses": 58,
+        "performs": 39,
+        "manifestation_of": 71,
+        "interacts_with": 61
+      },
+      "label_distribution": {
+        "correct": 993,
+        "incorrect": 993
+      },
+      "most_common_relations": [
+        [
+          "functionally_related_to",
+          83
+        ],
+        [
+          "surrounds",
+          75
+        ],
+        [
+          "traverses",
+          73
+        ],
+        [
+          "spatially_related_to",
+          71
+        ],
+        [
+          "manifestation_of",
+          71
+        ],
+        [
+          "produced_by",
+          70
+        ],
+        [
+          "part_of",
+          69
+        ],
+        [
+          "method_of",
+          69
+        ],
+        [
+          "carries_out",
+          68
+        ],
+        [
+          "causes",
+          68
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "adjacent_to",
+          36
+        ],
+        [
+          "cell function",
+          35
+        ],
+        [
+          "spatially_related_to",
+          35
+        ],
+        [
+          "finding",
+          33
+        ],
+        [
+          "fungus",
+          32
+        ],
+        [
+          "body space or junction",
+          32
+        ],
+        [
+          "chemical viewed structurally",
+          32
+        ],
+        [
+          "",
+          31
+        ],
+        [
+          "result_of",
+          31
+        ],
+        [
+          "phenomenon or process",
+          31
+        ]
+      ]
+    },
+    "dataset_size": 1986,
+    "test_size": 596
+  },
+  {
+    "template_idx": 4,
+    "classifier_type": "heuristic",
+    "f1_score": 0.49134340949033395,
+    "accuracy": 0.49246231155778897,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.4854014598540146,
+        "recall": 0.45084745762711864,
+        "f1-score": 0.46748681898066785,
+        "support": 295.0
+      },
+      "correct": {
+        "precision": 0.4984520123839009,
+        "recall": 0.5331125827814569,
+        "f1-score": 0.5152,
+        "support": 302.0
+      },
+      "accuracy": 0.49246231155778897,
+      "macro avg": {
+        "precision": 0.49192673611895776,
+        "recall": 0.49198002020428777,
+        "f1-score": 0.49134340949033395,
+        "support": 597.0
+      },
+      "weighted avg": {
+        "precision": 0.4920032468959336,
+        "recall": 0.49246231155778897,
+        "f1-score": 0.4916231350071976,
+        "support": 597.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1988,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "adjacent_to": 71,
+        "part_of": 72,
+        "functionally_related_to": 63,
+        "produced_by": 65,
+        "property_of": 65,
+        "traverses": 56,
+        "connected_to": 62,
+        "exhibits": 72,
+        "associated_with": 56,
+        "diagnoses": 66,
+        "manifestation_of": 63,
+        "measures": 65,
+        "spatially_related_to": 51,
+        "result_of": 58,
+        "causes": 49,
+        "performs": 58,
+        "method_of": 59,
+        "interacts_with": 69,
+        "indicates": 66,
+        "temporally_related_to": 54,
+        "occurs_in": 73,
+        "surrounds": 85,
+        "carries_out": 72,
+        "treats": 52,
+        "uses": 77,
+        "location_of": 65,
+        "contains": 69,
+        "process_of": 73,
+        "conceptually_related_to": 54,
+        "prevents": 59,
+        "affects": 69
+      },
+      "label_distribution": {
+        "correct": 994,
+        "incorrect": 994
+      },
+      "most_common_relations": [
+        [
+          "surrounds",
+          85
+        ],
+        [
+          "uses",
+          77
+        ],
+        [
+          "occurs_in",
+          73
+        ],
+        [
+          "process_of",
+          73
+        ],
+        [
+          "part_of",
+          72
+        ],
+        [
+          "exhibits",
+          72
+        ],
+        [
+          "carries_out",
+          72
+        ],
+        [
+          "adjacent_to",
+          71
+        ],
+        [
+          "interacts_with",
+          69
+        ],
+        [
+          "contains",
+          69
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "manufactured object",
+          31
+        ],
+        [
+          "vertebrate",
+          31
+        ],
+        [
+          "reptile",
+          31
+        ],
+        [
+          "activity",
+          30
+        ],
+        [
+          "experimental model of disease",
+          29
+        ],
+        [
+          "carries_out",
+          29
+        ],
+        [
+          "immunologic factor",
+          29
+        ],
+        [
+          "mental or behavioral dysfunction",
+          29
+        ],
+        [
+          "branch_of",
+          28
+        ],
+        [
+          "cell component",
+          28
+        ]
+      ]
+    },
+    "dataset_size": 1988,
+    "test_size": 597
+  },
+  {
+    "template_idx": 5,
+    "classifier_type": "heuristic",
+    "f1_score": 0.4891129841460967,
+    "accuracy": 0.48914858096828046,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.4816053511705686,
+        "recall": 0.488135593220339,
+        "f1-score": 0.48484848484848486,
+        "support": 295.0
+      },
+      "correct": {
+        "precision": 0.49666666666666665,
+        "recall": 0.4901315789473684,
+        "f1-score": 0.49337748344370863,
+        "support": 304.0
+      },
+      "accuracy": 0.48914858096828046,
+      "macro avg": {
+        "precision": 0.48913600891861764,
+        "recall": 0.4891335860838537,
+        "f1-score": 0.4891129841460967,
+        "support": 599.0
+      },
+      "weighted avg": {
+        "precision": 0.4892491573655833,
+        "recall": 0.48914858096828046,
+        "f1-score": 0.4891770584260275,
+        "support": 599.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1994,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "associated_with": 70,
+        "treats": 56,
+        "interacts_with": 64,
+        "produced_by": 56,
+        "conceptually_related_to": 61,
+        "spatially_related_to": 73,
+        "carries_out": 59,
+        "temporally_related_to": 63,
+        "part_of": 67,
+        "causes": 55,
+        "method_of": 55,
+        "result_of": 65,
+        "measures": 57,
+        "performs": 69,
+        "indicates": 86,
+        "exhibits": 73,
+        "prevents": 73,
+        "surrounds": 59,
+        "occurs_in": 62,
+        "property_of": 72,
+        "contains": 69,
+        "adjacent_to": 56,
+        "process_of": 68,
+        "diagnoses": 56,
+        "uses": 66,
+        "manifestation_of": 74,
+        "location_of": 73,
+        "affects": 54,
+        "functionally_related_to": 65,
+        "traverses": 55,
+        "connected_to": 63
+      },
+      "label_distribution": {
+        "incorrect": 997,
+        "correct": 997
+      },
+      "most_common_relations": [
+        [
+          "indicates",
+          86
+        ],
+        [
+          "manifestation_of",
+          74
+        ],
+        [
+          "spatially_related_to",
+          73
+        ],
+        [
+          "exhibits",
+          73
+        ],
+        [
+          "prevents",
+          73
+        ],
+        [
+          "location_of",
+          73
+        ],
+        [
+          "property_of",
+          72
+        ],
+        [
+          "associated_with",
+          70
+        ],
+        [
+          "performs",
+          69
+        ],
+        [
+          "contains",
+          69
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "disrupts",
+          33
+        ],
+        [
+          "health care activity",
+          32
+        ],
+        [
+          "medical device",
+          32
+        ],
+        [
+          "functionally_related_to",
+          31
+        ],
+        [
+          "mental or behavioral dysfunction",
+          30
+        ],
+        [
+          "organism function",
+          30
+        ],
+        [
+          "enzyme",
+          30
+        ],
+        [
+          "biomedical occupation or discipline",
+          30
+        ],
+        [
+          "research activity",
+          30
+        ],
+        [
+          "therapeutic or preventive procedure",
+          30
+        ]
+      ]
+    },
+    "dataset_size": 1994,
+    "test_size": 599
+  },
+  {
+    "template_idx": 6,
+    "classifier_type": "heuristic",
+    "f1_score": 0.5054130334049455,
+    "accuracy": 0.5058626465661642,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.5089605734767025,
+        "recall": 0.47333333333333333,
+        "f1-score": 0.4905008635578584,
+        "support": 300.0
+      },
+      "correct": {
+        "precision": 0.5031446540880503,
+        "recall": 0.5387205387205387,
+        "f1-score": 0.5203252032520326,
+        "support": 297.0
+      },
+      "accuracy": 0.5058626465661642,
+      "macro avg": {
+        "precision": 0.5060526137823764,
+        "recall": 0.506026936026936,
+        "f1-score": 0.5054130334049455,
+        "support": 597.0
+      },
+      "weighted avg": {
+        "precision": 0.5060672266451619,
+        "recall": 0.5058626465661642,
+        "f1-score": 0.5053380978780757,
+        "support": 597.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1990,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "performs": 65,
+        "result_of": 82,
+        "method_of": 61,
+        "associated_with": 66,
+        "indicates": 67,
+        "treats": 62,
+        "property_of": 67,
+        "contains": 71,
+        "process_of": 74,
+        "carries_out": 64,
+        "part_of": 52,
+        "spatially_related_to": 53,
+        "adjacent_to": 56,
+        "produced_by": 67,
+        "connected_to": 59,
+        "uses": 83,
+        "temporally_related_to": 61,
+        "manifestation_of": 68,
+        "diagnoses": 52,
+        "traverses": 55,
+        "location_of": 62,
+        "measures": 62,
+        "functionally_related_to": 73,
+        "affects": 59,
+        "exhibits": 61,
+        "causes": 51,
+        "surrounds": 70,
+        "conceptually_related_to": 56,
+        "occurs_in": 72,
+        "prevents": 72,
+        "interacts_with": 67
+      },
+      "label_distribution": {
+        "correct": 995,
+        "incorrect": 995
+      },
+      "most_common_relations": [
+        [
+          "uses",
+          83
+        ],
+        [
+          "result_of",
+          82
+        ],
+        [
+          "process_of",
+          74
+        ],
+        [
+          "functionally_related_to",
+          73
+        ],
+        [
+          "occurs_in",
+          72
+        ],
+        [
+          "prevents",
+          72
+        ],
+        [
+          "contains",
+          71
+        ],
+        [
+          "surrounds",
+          70
+        ],
+        [
+          "manifestation_of",
+          68
+        ],
+        [
+          "indicates",
+          67
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "assesses_effect_of",
+          36
+        ],
+        [
+          "animal",
+          36
+        ],
+        [
+          "quantitative concept",
+          35
+        ],
+        [
+          "consists_of",
+          33
+        ],
+        [
+          "inorganic chemical",
+          31
+        ],
+        [
+          "qualitative concept",
+          31
+        ],
+        [
+          "diagnoses",
+          31
+        ],
+        [
+          "population group",
+          31
+        ],
+        [
+          "medical device",
+          30
+        ],
+        [
+          "derivative_of",
+          30
+        ]
+      ]
+    },
+    "dataset_size": 1990,
+    "test_size": 597
+  },
+  {
+    "template_idx": 7,
+    "classifier_type": "heuristic",
+    "f1_score": 0.5167899748863671,
+    "accuracy": 0.5184563758389261,
+    "detailed_report": {
+      "incorrect": {
+        "precision": 0.4840989399293286,
+        "recall": 0.49280575539568344,
+        "f1-score": 0.48841354723707664,
+        "support": 278.0
+      },
+      "correct": {
+        "precision": 0.549520766773163,
+        "recall": 0.5408805031446541,
+        "f1-score": 0.5451664025356577,
+        "support": 318.0
+      },
+      "accuracy": 0.5184563758389261,
+      "macro avg": {
+        "precision": 0.5168098533512457,
+        "recall": 0.5168431292701687,
+        "f1-score": 0.5167899748863671,
+        "support": 596.0
+      },
+      "weighted avg": {
+        "precision": 0.519005216668153,
+        "recall": 0.5184563758389261,
+        "f1-score": 0.5186944331178632,
+        "support": 596.0
+      }
+    },
+    "dataset_analysis": {
+      "total_examples": 1984,
+      "unique_relations": 31,
+      "unique_concepts": 182,
+      "relation_distribution": {
+        "uses": 59,
+        "exhibits": 79,
+        "result_of": 55,
+        "associated_with": 70,
+        "process_of": 65,
+        "causes": 65,
+        "affects": 66,
+        "traverses": 59,
+        "property_of": 73,
+        "part_of": 49,
+        "occurs_in": 52,
+        "contains": 71,
+        "diagnoses": 59,
+        "adjacent_to": 54,
+        "treats": 67,
+        "manifestation_of": 67,
+        "carries_out": 65,
+        "spatially_related_to": 56,
+        "connected_to": 64,
+        "temporally_related_to": 72,
+        "location_of": 68,
+        "measures": 64,
+        "method_of": 62,
+        "prevents": 61,
+        "conceptually_related_to": 54,
+        "indicates": 79,
+        "functionally_related_to": 61,
+        "surrounds": 72,
+        "performs": 70,
+        "interacts_with": 68,
+        "produced_by": 58
+      },
+      "label_distribution": {
+        "correct": 992,
+        "incorrect": 992
+      },
+      "most_common_relations": [
+        [
+          "exhibits",
+          79
+        ],
+        [
+          "indicates",
+          79
+        ],
+        [
+          "property_of",
+          73
+        ],
+        [
+          "temporally_related_to",
+          72
+        ],
+        [
+          "surrounds",
+          72
+        ],
+        [
+          "contains",
+          71
+        ],
+        [
+          "associated_with",
+          70
+        ],
+        [
+          "performs",
+          70
+        ],
+        [
+          "location_of",
+          68
+        ],
+        [
+          "interacts_with",
+          68
+        ]
+      ],
+      "most_common_concepts": [
+        [
+          "carbohydrate sequence",
+          33
+        ],
+        [
+          "analyzes",
+          33
+        ],
+        [
+          "self-help or relief organization",
+          33
+        ],
+        [
+          "spatial concept",
+          32
+        ],
+        [
+          "co-occurs_with",
+          31
+        ],
+        [
+          "disease or syndrome",
+          31
+        ],
+        [
+          "patient or disabled group",
+          30
+        ],
+        [
+          "anatomical structure",
+          30
+        ],
+        [
+          "social behavior",
+          29
+        ],
+        [
+          "geographic area",
+          29
+        ]
+      ]
+    },
+    "dataset_size": 1984,
+    "test_size": 596
+  }
+]
