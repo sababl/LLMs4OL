@@ -1,0 +1,1199 @@
+{
+  "A1.1": [
+    "individual",
+    "Organism",
+    "living",
+    "A1.1",
+    "generally",
+    "organism"
+  ],
+  "A1.1.3.3": [
+    "having",
+    "cellulose",
+    "Plant",
+    "plant",
+    "A1.1.3.3",
+    "organism"
+  ],
+  "A1.1.3.2": [
+    "A1.1.3.2",
+    "Fungus",
+    "characterized",
+    "eukaryotic",
+    "fungus",
+    "organism"
+  ],
+  "A1.1.4": [
+    "consisting",
+    "Virus",
+    "A1.1.4",
+    "virus",
+    "core",
+    "organism"
+  ],
+  "A1.1.2": [
+    "celled",
+    "Bacterium",
+    "bacterium",
+    "A1.1.2",
+    "typically",
+    "small"
+  ],
+  "A1.1.3.1": [
+    "animal",
+    "cells",
+    "Animal",
+    "eukaryotic",
+    "A1.1.3.1",
+    "organism"
+  ],
+  "A1.1.3.1.1": [
+    "A1.1.3.1.1",
+    "animal",
+    "vertebrate",
+    "column",
+    "Vertebrate",
+    "spinal"
+  ],
+  "A1.1.3.1.1.1": [
+    "cold",
+    "smooth",
+    "Amphibian",
+    "amphibian",
+    "blooded",
+    "A1.1.3.1.1.1"
+  ],
+  "A1.1.3.1.1.2": [
+    "A1.1.3.1.1.2",
+    "bird",
+    "having",
+    "Bird",
+    "constant",
+    "vertebrate"
+  ],
+  "A1.1.3.1.1.3": [
+    "cold",
+    "Fish",
+    "blooded",
+    "aquatic",
+    "A1.1.3.1.1.3",
+    "fish"
+  ],
+  "A1.1.3.1.1.5": [
+    "A1.1.3.1.1.5",
+    "cold",
+    "reptile",
+    "Reptile",
+    "blooded",
+    "vertebrate"
+  ],
+  "A1.1.3.1.1.4": [
+    "having",
+    "Mammal",
+    "mammal",
+    "constant",
+    "vertebrate",
+    "A1.1.3.1.1.4"
+  ],
+  "A1.1.3.1.1.4.1": [
+    "human",
+    "only",
+    "modern",
+    "A1.1.3.1.1.4.1",
+    "Human",
+    "remaining"
+  ],
+  "A1.2": [
+    "normal",
+    "part",
+    "anatomicalstructure",
+    "anatomical_structure",
+    "pathological",
+    "anatomical structure",
+    "Anatomical Structure",
+    "A1.2"
+  ],
+  "A1.2.1": [
+    "Embryonic Structure",
+    "A1.2.1",
+    "embryonic structure",
+    "embryonic_structure",
+    "structure",
+    "exists",
+    "embryonicstructure",
+    "anatomical"
+  ],
+  "A1.2.2.1": [
+    "abnormal",
+    "A1.2.2.1",
+    "congenitalabnormality",
+    "congenital_abnormality",
+    "structure",
+    "Congenital Abnormality",
+    "congenital abnormality"
+  ],
+  "A1.2.2.2": [
+    "A1.2.2.2",
+    "acquired_abnormality",
+    "abnormal",
+    "Acquired Abnormality",
+    "acquired abnormality",
+    "structure",
+    "acquiredabnormality"
+  ],
+  "A1.2.3": [
+    "fully formed anatomical structure",
+    "fully_formed_anatomical_structure",
+    "fully",
+    "Fully Formed Anatomical Structure",
+    "structure",
+    "fullyformedanatomicalstructure",
+    "A1.2.3",
+    "anatomical"
+  ],
+  "A2.1.4.1": [
+    "structures",
+    "body_system",
+    "A2.1.4.1",
+    "bodysystem",
+    "Body System",
+    "complex",
+    "anatomical",
+    "body system"
+  ],
+  "A1.2.3.1": [
+    "bodypart,organ,ororgancomponent",
+    "collection",
+    "body_part,_organ,_or_organ_component",
+    "cells",
+    "A1.2.3.1",
+    "tissues",
+    "body part, organ, or organ component",
+    "Body Part, Organ, or Organ Component"
+  ],
+  "A1.2.3.2": [
+    "Tissue",
+    "aggregation",
+    "similarly",
+    "specialized",
+    "A1.2.3.2",
+    "tissue"
+  ],
+  "A1.2.3.3": [
+    "functional",
+    "Cell",
+    "fundamental",
+    "cell",
+    "structural",
+    "A1.2.3.3"
+  ],
+  "A1.2.3.4": [
+    "part",
+    "intercellular",
+    "Cell Component",
+    "A1.2.3.4",
+    "cellcomponent",
+    "cell_component",
+    "cell component",
+    "cell"
+  ],
+  "A1.2.3.5": [
+    "geneorgenome",
+    "A1.2.3.5",
+    "Gene or Genome",
+    "gene_or_genome",
+    "specific",
+    "case",
+    "sequence",
+    "gene or genome"
+  ],
+  "A2.1.5.2": [
+    "body_location_or_region",
+    "area",
+    "subdivision",
+    "bodylocationorregion",
+    "Body Location or Region",
+    "region",
+    "body location or region",
+    "A2.1.5.2"
+  ],
+  "A2.1.5.1": [
+    "enclosed",
+    "area",
+    "surrounded",
+    "body space or junction",
+    "A2.1.5.1",
+    "bodyspaceorjunction",
+    "body_space_or_junction",
+    "Body Space or Junction"
+  ],
+  "A1.4.2": [
+    "extracellular",
+    "bodysubstance",
+    "A1.4.2",
+    "body_substance",
+    "mixtures",
+    "material",
+    "Body Substance",
+    "body substance"
+  ],
+  "A2.3": [
+    "Organism Attribute",
+    "organism attribute",
+    "A2.3",
+    "property",
+    "major",
+    "organismattribute",
+    "organism_attribute",
+    "organism"
+  ],
+  "A2.2": [
+    "A2.2",
+    "discovered",
+    "Finding",
+    "direct",
+    "finding",
+    "observation"
+  ],
+  "A2.2.1": [
+    "outcome",
+    "test",
+    "A2.2.1",
+    "specific",
+    "laboratory or test result",
+    "Laboratory or Test Result",
+    "laboratory_or_test_result",
+    "laboratoryortestresult"
+  ],
+  "B2.3": [
+    "B2.3",
+    "traumatic",
+    "Injury or Poisoning",
+    "injury",
+    "injury_or_poisoning",
+    "wound",
+    "injuryorpoisoning",
+    "injury or poisoning"
+  ],
+  "B2.2.1": [
+    "state",
+    "Biologic Function",
+    "biologic_function",
+    "biologic function",
+    "activity",
+    "biologicfunction",
+    "B2.2.1",
+    "process"
+  ],
+  "B2.2.1.1": [
+    "normal",
+    "physiologic function",
+    "B2.2.1.1",
+    "physiologicfunction",
+    "physiologic_function",
+    "Physiologic Function",
+    "activity",
+    "process"
+  ],
+  "B2.2.1.1.1": [
+    "B2.2.1.1.1",
+    "organism_function",
+    "function",
+    "physiologic",
+    "Organism Function",
+    "organismfunction",
+    "organism function",
+    "organism"
+  ],
+  "B2.2.1.1.1.1": [
+    "mental_process",
+    "function",
+    "B2.2.1.1.1.1",
+    "mental process",
+    "Mental Process",
+    "mentalprocess",
+    "involving",
+    "physiologic"
+  ],
+  "B2.2.1.1.2": [
+    "organ_or_tissue_function",
+    "function",
+    "organ or tissue function",
+    "organortissuefunction",
+    "Organ or Tissue Function",
+    "particular",
+    "B2.2.1.1.2",
+    "physiologic"
+  ],
+  "B2.2.1.1.3": [
+    "B2.2.1.1.3",
+    "cell_function",
+    "function",
+    "cellfunction",
+    "cell function",
+    "Cell Function",
+    "inherent",
+    "physiologic"
+  ],
+  "B2.2.1.1.4": [
+    "B2.2.1.1.4",
+    "molecularfunction",
+    "function",
+    "occurring",
+    "molecular_function",
+    "molecular function",
+    "physiologic",
+    "Molecular Function"
+  ],
+  "B2.2.1.1.4.1": [
+    "maintenance",
+    "genetic_function",
+    "geneticfunction",
+    "Genetic Function",
+    "functions",
+    "genetic function",
+    "B2.2.1.1.4.1",
+    "related"
+  ],
+  "B2.2.1.2": [
+    "pathologic function",
+    "disordered",
+    "B2.2.1.2",
+    "pathologicfunction",
+    "pathologic_function",
+    "Pathologic Function",
+    "activity",
+    "process"
+  ],
+  "B2.2.1.2.1": [
+    "disease or syndrome",
+    "interferes",
+    "Disease or Syndrome",
+    "B2.2.1.2.1",
+    "diseaseorsyndrome",
+    "condition",
+    "disease_or_syndrome",
+    "alters"
+  ],
+  "B2.2.1.2.1.1": [
+    "mental_or_behavioral_dysfunction",
+    "clinically",
+    "significant",
+    "mental or behavioral dysfunction",
+    "mentalorbehavioraldysfunction",
+    "dysfunction",
+    "Mental or Behavioral Dysfunction",
+    "B2.2.1.2.1.1"
+  ],
+  "B2.2.1.2.2": [
+    "pathologic",
+    "cell or molecular dysfunction",
+    "function",
+    "Cell or Molecular Dysfunction",
+    "inherent",
+    "cellormoleculardysfunction",
+    "cell_or_molecular_dysfunction",
+    "B2.2.1.2.2"
+  ],
+  "B2.2.1.2.3": [
+    "B2.2.1.2.3",
+    "human",
+    "representation",
+    "experimental model of disease",
+    "experimental_model_of_disease",
+    "organism",
+    "Experimental Model of Disease",
+    "experimentalmodelofdisease"
+  ],
+  "B": [
+    "grouping",
+    "type",
+    "Event",
+    "event",
+    "broad"
+  ],
+  "B1": [
+    "Activity",
+    "B1",
+    "operations",
+    "operation",
+    "series",
+    "activity"
+  ],
+  "B1.1": [
+    "B1.1",
+    "behavior",
+    "Behavior",
+    "social",
+    "activities",
+    "psycho"
+  ],
+  "B1.1.1": [
+    "social behavior",
+    "socialbehavior",
+    "Social Behavior",
+    "behavior",
+    "result",
+    "direct",
+    "B1.1.1",
+    "social_behavior"
+  ],
+  "B1.1.2": [
+    "human",
+    "behavior",
+    "individual behavior",
+    "B1.1.2",
+    "individual_behavior",
+    "Individual Behavior",
+    "individualbehavior",
+    "exhibited"
+  ],
+  "B1.2": [
+    "dailyorrecreationalactivity",
+    "B1.2",
+    "daily_or_recreational_activity",
+    "daily or recreational activity",
+    "carried",
+    "Daily or Recreational Activity",
+    "activity",
+    "recreation"
+  ],
+  "B1.3": [
+    "part",
+    "occupationalactivity",
+    "occupational activity",
+    "occupational_activity",
+    "carried",
+    "Occupational Activity",
+    "B1.3",
+    "activity"
+  ],
+  "B1.3.1": [
+    "practice",
+    "healthcareactivity",
+    "B1.3.1",
+    "health care activity",
+    "relating",
+    "health_care_activity",
+    "Health Care Activity",
+    "activity"
+  ],
+  "B1.3.1.1": [
+    "laboratoryprocedure",
+    "laboratory_procedure",
+    "B1.3.1.1",
+    "laboratory procedure",
+    "method",
+    "procedure",
+    "Laboratory Procedure",
+    "technique"
+  ],
+  "B1.3.1.2": [
+    "diagnosticprocedure",
+    "Diagnostic Procedure",
+    "diagnostic_procedure",
+    "method",
+    "procedure",
+    "diagnostic procedure",
+    "technique",
+    "B1.3.1.2"
+  ],
+  "B1.3.1.3": [
+    "B1.3.1.3",
+    "therapeutic_or_preventive_procedure",
+    "therapeuticorpreventiveprocedure",
+    "therapeutic or preventive procedure",
+    "method",
+    "procedure",
+    "Therapeutic or Preventive Procedure",
+    "technique"
+  ],
+  "B1.3.2": [
+    "research activity",
+    "part",
+    "B1.3.2",
+    "research_activity",
+    "researchactivity",
+    "carried",
+    "Research Activity",
+    "activity"
+  ],
+  "B1.3.2.1": [
+    "molecular biology research technique",
+    "molecularbiologyresearchtechnique",
+    "used",
+    "Molecular Biology Research Technique",
+    "B1.3.2.1",
+    "techniques",
+    "study",
+    "molecular_biology_research_technique"
+  ],
+  "B1.3.3": [
+    "governmentalorregulatoryactivity",
+    "governmental or regulatory activity",
+    "governmental_or_regulatory_activity",
+    "B1.3.3",
+    "carried",
+    "Governmental or Regulatory Activity",
+    "officially",
+    "activity"
+  ],
+  "B1.3.4": [
+    "educational_activity",
+    "organization",
+    "B1.3.4",
+    "educationalactivity",
+    "Educational Activity",
+    "related",
+    "educational activity",
+    "activity"
+  ],
+  "B1.4": [
+    "machine activity",
+    "machineactivity",
+    "B1.4",
+    "Machine Activity",
+    "carried",
+    "primarily",
+    "activity",
+    "machine_activity"
+  ],
+  "B2": [
+    "B2",
+    "state",
+    "phenomenon or process",
+    "Phenomenon or Process",
+    "phenomenon_or_process",
+    "occurs",
+    "phenomenonorprocess",
+    "process"
+  ],
+  "B2.1": [
+    "Human-caused Phenomenon or Process",
+    "human-caused_phenomenon_or_process",
+    "B2.1",
+    "result",
+    "human-caused phenomenon or process",
+    "human-causedphenomenonorprocess",
+    "phenomenon",
+    "process"
+  ],
+  "B2.1.1": [
+    "change",
+    "natural",
+    "environment",
+    "environmental effect of humans",
+    "environmental_effect_of_humans",
+    "Environmental Effect of Humans",
+    "environmentaleffectofhumans",
+    "B2.1.1"
+  ],
+  "B2.2": [
+    "natural_phenomenon_or_process",
+    "natural phenomenon or process",
+    "naturalphenomenonorprocess",
+    "B2.2",
+    "Natural Phenomenon or Process",
+    "phenomenon",
+    "occurs",
+    "process"
+  ],
+  "A": [
+    "entity",
+    "grouping",
+    "type",
+    "Entity",
+    "broad"
+  ],
+  "A1": [
+    "perceptible",
+    "physical object",
+    "sense",
+    "A1",
+    "object",
+    "physicalobject",
+    "Physical Object",
+    "physical_object"
+  ],
+  "A1.3": [
+    "Manufactured Object",
+    "made",
+    "manufacturedobject",
+    "object",
+    "manufactured_object",
+    "physical",
+    "A1.3",
+    "manufactured object"
+  ],
+  "A1.3.1": [
+    "Medical Device",
+    "used",
+    "manufactured",
+    "A1.3.1",
+    "object",
+    "medical device",
+    "medicaldevice",
+    "medical_device"
+  ],
+  "A1.3.2": [
+    "used",
+    "A1.3.2",
+    "researchdevice",
+    "research device",
+    "manufactured",
+    "Research Device",
+    "object",
+    "research_device"
+  ],
+  "A2": [
+    "conceptual_entity",
+    "conceptual entity",
+    "type",
+    "grouping",
+    "A2",
+    "conceptualentity",
+    "Conceptual Entity",
+    "broad"
+  ],
+  "A2.1": [
+    "concept",
+    "idea or concept",
+    "abstract",
+    "A2.1",
+    "social",
+    "ideaorconcept",
+    "idea_or_concept",
+    "Idea or Concept"
+  ],
+  "A2.1.1": [
+    "concept",
+    "Temporal Concept",
+    "time",
+    "pertains",
+    "temporal_concept",
+    "temporalconcept",
+    "temporal concept",
+    "A2.1.1"
+  ],
+  "A2.1.2": [
+    "concept",
+    "Qualitative Concept",
+    "A2.1.2",
+    "assessment",
+    "qualitativeconcept",
+    "some",
+    "qualitative concept",
+    "qualitative_concept"
+  ],
+  "A2.1.3": [
+    "concept",
+    "Quantitative Concept",
+    "quantitative_concept",
+    "quantitative concept",
+    "quantitativeconcept",
+    "dimensions",
+    "involves",
+    "A2.1.3"
+  ],
+  "A2.1.5": [
+    "space",
+    "location",
+    "spatialconcept",
+    "region",
+    "spatial concept",
+    "Spatial Concept",
+    "spatial_concept",
+    "A2.1.5"
+  ],
+  "A2.1.5.4": [
+    "geographicarea",
+    "geographic area",
+    "location",
+    "geographic_area",
+    "geographic",
+    "A2.1.5.4",
+    "generally",
+    "Geographic Area"
+  ],
+  "A2.1.5.3": [
+    "molecularsequence",
+    "molecular_sequence",
+    "Molecular Sequence",
+    "grouping",
+    "type",
+    "molecular sequence",
+    "A2.1.5.3",
+    "broad"
+  ],
+  "A2.1.5.3.1": [
+    "Nucleotide Sequence",
+    "nucleotide_sequence",
+    "A2.1.5.3.1",
+    "purines",
+    "nucleotide sequence",
+    "pyrimidines",
+    "sequence",
+    "nucleotidesequence"
+  ],
+  "A2.1.5.3.2": [
+    "A2.1.5.3.2",
+    "Amino Acid Sequence",
+    "amino",
+    "aminoacidsequence",
+    "acids",
+    "amino_acid_sequence",
+    "amino acid sequence",
+    "sequence"
+  ],
+  "A2.1.5.3.3": [
+    "carbohydrate_sequence",
+    "carbohydrate sequence",
+    "A2.1.5.3.3",
+    "carbohydrates",
+    "within",
+    "Carbohydrate Sequence",
+    "carbohydratesequence",
+    "sequence"
+  ],
+  "A2.4.2": [
+    "resulting",
+    "regulation_or_law",
+    "regulationorlaw",
+    "product",
+    "intellectual",
+    "Regulation or Law",
+    "A2.4.2",
+    "regulation or law"
+  ],
+  "A2.6": [
+    "occupationordiscipline",
+    "vocation",
+    "occupation_or_discipline",
+    "occupation or discipline",
+    "Occupation or Discipline",
+    "A2.6",
+    "academic",
+    "discipline"
+  ],
+  "A2.6.1": [
+    "Biomedical Occupation or Discipline",
+    "vocation",
+    "A2.6.1",
+    "biomedical_occupation_or_discipline",
+    "biomedical occupation or discipline",
+    "academic",
+    "biomedicaloccupationordiscipline",
+    "discipline"
+  ],
+  "A2.7": [
+    "uniting",
+    "organization",
+    "common",
+    "A2.7",
+    "result",
+    "Organization"
+  ],
+  "A2.7.1": [
+    "health care related organization",
+    "healthcarerelatedorganization",
+    "health_care_related_organization",
+    "A2.7.1",
+    "established",
+    "organization",
+    "Health Care Related Organization",
+    "carries"
+  ],
+  "A2.7.2": [
+    "professional society",
+    "uniting",
+    "organization",
+    "Professional Society",
+    "those",
+    "A2.7.2",
+    "professionalsociety",
+    "professional_society"
+  ],
+  "A2.7.3": [
+    "self-help or relief organization",
+    "Self-help or Relief Organization",
+    "self-help_or_relief_organization",
+    "organization",
+    "whose",
+    "purpose",
+    "A2.7.3",
+    "self-helporrelieforganization"
+  ],
+  "A2.9": [
+    "entity",
+    "Group",
+    "group",
+    "referring",
+    "A2.9",
+    "conceptual"
+  ],
+  "A2.9.1": [
+    "classified",
+    "individual",
+    "A2.9.1",
+    "individuals",
+    "professional_or_occupational_group",
+    "Professional or Occupational Group",
+    "professionaloroccupationalgroup",
+    "professional or occupational group"
+  ],
+  "A2.9.2": [
+    "classified",
+    "individuals",
+    "A2.9.2",
+    "population group",
+    "indivdual",
+    "populationgroup",
+    "population_group",
+    "Population Group"
+  ],
+  "A2.9.3": [
+    "family_group",
+    "classified",
+    "A2.9.3",
+    "individual",
+    "individuals",
+    "familygroup",
+    "family group",
+    "Family Group"
+  ],
+  "A2.9.4": [
+    "classified",
+    "age_group",
+    "individual",
+    "individuals",
+    "age group",
+    "Age Group",
+    "A2.9.4",
+    "agegroup"
+  ],
+  "A2.9.5": [
+    "classified",
+    "patient or disabled group",
+    "patient_or_disabled_group",
+    "patientordisabledgroup",
+    "individual",
+    "individuals",
+    "Patient or Disabled Group",
+    "A2.9.5"
+  ],
+  "A2.8": [
+    "Group Attribute",
+    "groupattribute",
+    "group_attribute",
+    "entity",
+    "refers",
+    "A2.8",
+    "group attribute",
+    "conceptual"
+  ],
+  "A1.4.1": [
+    "A1.4.1",
+    "chemical",
+    "substances",
+    "definite",
+    "Chemical",
+    "compounds"
+  ],
+  "A1.4.1.2": [
+    "chemical",
+    "chemicalviewedstructurally",
+    "A1.4.1.2",
+    "Chemical Viewed Structurally",
+    "chemical viewed structurally",
+    "viewed",
+    "chemicals",
+    "chemical_viewed_structurally"
+  ],
+  "A1.4.1.2.1": [
+    "carbon",
+    "organic_chemical",
+    "organicchemical",
+    "general",
+    "Organic Chemical",
+    "A1.4.1.2.1",
+    "class",
+    "organic chemical"
+  ],
+  "A1.4.1.2.1.5": [
+    "compound",
+    "A1.4.1.2.1.5",
+    "nucleic_acid,_nucleoside,_or_nucleotide",
+    "high",
+    "nucleic acid, nucleoside, or nucleotide",
+    "nucleicacid,nucleoside,ornucleotide",
+    "complex",
+    "Nucleic Acid, Nucleoside, or Nucleotide"
+  ],
+  "A1.4.1.2.1.7": [
+    "A1.4.1.2.1.7",
+    "amino_acid,_peptide,_or_protein",
+    "amino acid, peptide, or protein",
+    "amino",
+    "chains",
+    "acids",
+    "aminoacid,peptide,orprotein",
+    "Amino Acid, Peptide, or Protein"
+  ],
+  "A1.4.1.1": [
+    "chemical viewed functionally",
+    "chemical",
+    "viewed",
+    "chemical_viewed_functionally",
+    "perspective",
+    "A1.4.1.1",
+    "chemicalviewedfunctionally",
+    "Chemical Viewed Functionally"
+  ],
+  "A1.4.1.1.1": [
+    "pharmacologicsubstance",
+    "used",
+    "Pharmacologic Substance",
+    "A1.4.1.1.1",
+    "pharmacologic_substance",
+    "substance",
+    "pharmacologic substance",
+    "treatment"
+  ],
+  "A1.4.1.1.2": [
+    "biomedical_or_dental_material",
+    "used",
+    "biomedicalordentalmaterial",
+    "biomedicine",
+    "substance",
+    "A1.4.1.1.2",
+    "biomedical or dental material",
+    "Biomedical or Dental Material"
+  ],
+  "A1.4.1.1.3": [
+    "Biologically Active Substance",
+    "A1.4.1.1.3",
+    "biologically active substance",
+    "substance",
+    "endogenous",
+    "generally",
+    "biologicallyactivesubstance",
+    "biologically_active_substance"
+  ],
+  "A1.4.1.1.3.2": [
+    "chemical",
+    "animals",
+    "hormone",
+    "Hormone",
+    "A1.4.1.1.3.2",
+    "usually"
+  ],
+  "A1.4.1.1.3.3": [
+    "enzyme",
+    "chemical",
+    "Enzyme",
+    "A1.4.1.1.3.3",
+    "complex",
+    "usually"
+  ],
+  "A1.4.1.1.3.4": [
+    "A1.4.1.1.3.4",
+    "vitamin",
+    "Vitamin",
+    "substance",
+    "organic",
+    "usually"
+  ],
+  "A1.4.1.1.3.5": [
+    "active",
+    "Immunologic Factor",
+    "A1.4.1.1.3.5",
+    "substance",
+    "immunologic factor",
+    "biologically",
+    "immunologic_factor",
+    "immunologicfactor"
+  ],
+  "A1.4.1.1.4": [
+    "indicator, reagent, or diagnostic aid",
+    "indicator,_reagent,_or_diagnostic_aid",
+    "interest",
+    "A1.4.1.1.4",
+    "substance",
+    "primarily",
+    "indicator,reagent,ordiagnosticaid",
+    "Indicator, Reagent, or Diagnostic Aid"
+  ],
+  "A1.4.1.1.5": [
+    "concern",
+    "hazardous or poisonous substance",
+    "substance",
+    "hazardousorpoisonoussubstance",
+    "because",
+    "hazardous_or_poisonous_substance",
+    "A1.4.1.1.5",
+    "Hazardous or Poisonous Substance"
+  ],
+  "A1.4": [
+    "Substance",
+    "fairly",
+    "A1.4",
+    "substance",
+    "material",
+    "definite"
+  ],
+  "A1.4.3": [
+    "Food",
+    "food",
+    "substance",
+    "containing",
+    "generally",
+    "A1.4.3"
+  ],
+  "A2.1.4": [
+    "concept",
+    "functional concept",
+    "Functional Concept",
+    "interest",
+    "A2.1.4",
+    "functional_concept",
+    "because",
+    "functionalconcept"
+  ],
+  "A2.4": [
+    "resulting",
+    "intellectual_product",
+    "conceptual",
+    "entity",
+    "Intellectual Product",
+    "A2.4",
+    "intellectual product",
+    "intellectualproduct"
+  ],
+  "A2.5": [
+    "used",
+    "system",
+    "Language",
+    "language",
+    "communication",
+    "A2.5"
+  ],
+  "A2.2.2": [
+    "Sign or Symptom",
+    "A2.2.2",
+    "disease",
+    "signorsymptom",
+    "sign_or_symptom",
+    "observable",
+    "manifestation",
+    "sign or symptom"
+  ],
+  "A2.4.1": [
+    "Classification",
+    "A2.4.1",
+    "system",
+    "classification",
+    "term",
+    "terms"
+  ],
+  "A1.2.2": [
+    "abnormal",
+    "anatomicalabnormality",
+    "anatomical abnormality",
+    "anatomical_abnormality",
+    "Anatomical Abnormality",
+    "A1.2.2",
+    "structure"
+  ],
+  "B2.2.1.2.1.2": [
+    "neoplasticprocess",
+    "B2.2.1.2.1.2",
+    "abnormal",
+    "neoplastic process",
+    "Neoplastic Process",
+    "neoplastic_process",
+    "tissue",
+    "growth"
+  ],
+  "A1.4.1.1.3.6": [
+    "Receptor",
+    "A1.4.1.1.3.6",
+    "specific",
+    "structure",
+    "site",
+    "receptor"
+  ],
+  "A1.1.1": [
+    "member",
+    "A1.1.1",
+    "three",
+    "domains",
+    "Archaeon",
+    "archaeon"
+  ],
+  "A1.4.1.1.1.1": [
+    "antibiotic",
+    "active",
+    "compound",
+    "Antibiotic",
+    "pharmacologically",
+    "A1.4.1.1.1.1"
+  ],
+  "A1.4.1.2.3": [
+    "fundamental",
+    "A1.4.1.2.3",
+    "presently",
+    "known",
+    "Element, Ion, or Isotope",
+    "element,_ion,_or_isotope",
+    "element,ion,orisotope",
+    "element, ion, or isotope"
+  ],
+  "A1.4.1.2.2": [
+    "chemical",
+    "A1.4.1.2.2",
+    "inorganic_chemical",
+    "inorganic chemical",
+    "their",
+    "elements",
+    "inorganicchemical",
+    "Inorganic Chemical"
+  ],
+  "A1.3.3": [
+    "preparation",
+    "pharmaceutical",
+    "produced",
+    "clinical_drug",
+    "Clinical Drug",
+    "clinical drug",
+    "clinicaldrug",
+    "A1.3.3"
+  ],
+  "A2.3.1": [
+    "clinicalattribute",
+    "property",
+    "clinical attribute",
+    "A2.3.1",
+    "measurable",
+    "clinical_attribute",
+    "Clinical Attribute",
+    "observable"
+  ],
+  "A1.3.1.1": [
+    "medical",
+    "A1.3.1.1",
+    "contains",
+    "drugdeliverydevice",
+    "Drug Delivery Device",
+    "drug delivery device",
+    "device",
+    "drug_delivery_device"
+  ],
+  "A1.1.3": [
+    "Eukaryote",
+    "A1.1.3",
+    "life",
+    "three",
+    "domains",
+    "eukaryote"
+  ]
+}

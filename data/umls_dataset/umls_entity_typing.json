@@ -1,0 +1,2675 @@
+[
+  {
+    "term": ", bromates and bromides",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: , bromates and bromides",
+    "domain": "UMLS"
+  },
+  {
+    "term": ", hernias incarcerate",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: , hernias incarcerate",
+    "domain": "UMLS"
+  },
+  {
+    "term": "abnormality",
+    "semantic_type": "Congenital Abnormality",
+    "tree_number": "A1.2.2.1",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis.",
+    "ui": "T019",
+    "context": "Medical term from UMLS domain: abnormality",
+    "domain": "UMLS"
+  },
+  {
+    "term": "acid",
+    "semantic_type": "Virus",
+    "tree_number": "A1.1.4",
+    "definition": "An organism consisting of a core of a single nucleic acid enclosed in a protective coat of protein. A virus may replicate only inside a host living cell. A virus exhibits some but not all of the usual characteristics of living things.",
+    "ui": "T005",
+    "context": "Medical term from UMLS domain: acid",
+    "domain": "UMLS"
+  },
+  {
+    "term": "acquired",
+    "semantic_type": "Acquired Abnormality",
+    "tree_number": "A1.2.2.2",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, found in or deriving from a previously normal structure. Acquired abnormalities are distinguished from diseases even though they may result in pathological functioning (e.g., \"hernias incarcerate\").",
+    "ui": "T020",
+    "context": "Medical term from UMLS domain: acquired",
+    "domain": "UMLS"
+  },
+  {
+    "term": "acquired abnormality",
+    "semantic_type": "Congenital Abnormality",
+    "tree_number": "A1.2.2.1",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis.",
+    "ui": "T019",
+    "context": "Medical term from UMLS domain: acquired abnormality",
+    "domain": "UMLS"
+  },
+  {
+    "term": "active",
+    "semantic_type": "Biologically Active Substance",
+    "tree_number": "A1.4.1.1.3",
+    "definition": "A generally endogenous substance produced or required by an organism, of primary interest because of its role in the biologic functioning of the organism that produces it.",
+    "ui": "T123",
+    "context": "Medical term from UMLS domain: active",
+    "domain": "UMLS"
+  },
+  {
+    "term": "activity",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "age",
+    "semantic_type": "Injury or Poisoning",
+    "tree_number": "B2.3",
+    "definition": "A traumatic wound, injury, or poisoning caused by an external agent or force.",
+    "ui": "T037",
+    "context": "Medical term from UMLS domain: age",
+    "domain": "UMLS"
+  },
+  {
+    "term": "age group",
+    "semantic_type": "Group",
+    "tree_number": "A2.9",
+    "definition": "A conceptual entity referring to the classification of individuals according to certain shared characteristics.",
+    "ui": "T096",
+    "context": "Medical term from UMLS domain: age group",
+    "domain": "UMLS"
+  },
+  {
+    "term": "aid",
+    "semantic_type": "Indicator, Reagent, or Diagnostic Aid",
+    "tree_number": "A1.4.1.1.4",
+    "definition": "A substance primarily of interest for its use in laboratory or diagnostic tests and procedures to detect, measure, examine, or analyze other chemicals, processes, or conditions.",
+    "ui": "T130",
+    "context": "Medical term from UMLS domain: aid",
+    "domain": "UMLS"
+  },
+  {
+    "term": "amino",
+    "semantic_type": "Molecular Sequence",
+    "tree_number": "A2.1.5.3",
+    "definition": "A broad type for grouping the collected sequences of amino acids, carbohydrates, and nucleotide sequences. Descriptions of these sequences are generally reported in the published literature and/or are deposited in and maintained by databanks such as GenBank, European Molecular Biology Laboratory (EMBL), National Biomedical Research Foundation (NBRF), or other sequence repositories.",
+    "ui": "T085",
+    "context": "Medical term from UMLS domain: amino",
+    "domain": "UMLS"
+  },
+  {
+    "term": "amino acid sequence",
+    "semantic_type": "Molecular Sequence",
+    "tree_number": "A2.1.5.3",
+    "definition": "A broad type for grouping the collected sequences of amino acids, carbohydrates, and nucleotide sequences. Descriptions of these sequences are generally reported in the published literature and/or are deposited in and maintained by databanks such as GenBank, European Molecular Biology Laboratory (EMBL), National Biomedical Research Foundation (NBRF), or other sequence repositories.",
+    "ui": "T085",
+    "context": "Medical term from UMLS domain: amino acid sequence",
+    "domain": "UMLS"
+  },
+  {
+    "term": "amino acid, peptide, or protein",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: amino acid, peptide, or protein",
+    "domain": "UMLS"
+  },
+  {
+    "term": "amphibian",
+    "semantic_type": "Amphibian",
+    "tree_number": "A1.1.3.1.1.1",
+    "definition": "A cold-blooded, smooth-skinned vertebrate which characteristically hatches as an aquatic larva, breathing by gills. When mature, the amphibian breathes with lungs.",
+    "ui": "T011",
+    "context": "Medical term from UMLS domain: amphibian",
+    "domain": "UMLS"
+  },
+  {
+    "term": "anatomical",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: anatomical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "anatomical abnormality",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: anatomical abnormality",
+    "domain": "UMLS"
+  },
+  {
+    "term": "anatomical structure",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: anatomical structure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "anatomy",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: anatomy",
+    "domain": "UMLS"
+  },
+  {
+    "term": "and",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: and",
+    "domain": "UMLS"
+  },
+  {
+    "term": "animal",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: animal",
+    "domain": "UMLS"
+  },
+  {
+    "term": "antibiotic",
+    "semantic_type": "Antibiotic",
+    "tree_number": "A1.4.1.1.1.1",
+    "definition": "A pharmacologically active compound produced by growing microorganisms which kill or inhibit growth of other microorganisms.",
+    "ui": "T195",
+    "context": "Medical term from UMLS domain: antibiotic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "archaeon",
+    "semantic_type": "Archaeon",
+    "tree_number": "A1.1.1",
+    "definition": "A member of one of the three domains of life, formerly called Archaebacteria under the taxon Bacteria, but now considered separate and distinct. Archaea are characterized by: 1) the presence of characteristic tRNAs and ribosomal RNAs; 2) the absence of peptidoglycan cell walls; 3) the presence of ether-linked lipids built from branched-chain subunits; and 4) their occurrence in unusual habitats. While archaea resemble bacteria in morphology and genomic organization, they resemble eukarya in their method of genomic replication.",
+    "ui": "T194",
+    "context": "Medical term from UMLS domain: archaeon",
+    "domain": "UMLS"
+  },
+  {
+    "term": "area",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: area",
+    "domain": "UMLS"
+  },
+  {
+    "term": "attribute",
+    "semantic_type": "Organism Attribute",
+    "tree_number": "A2.3",
+    "definition": "A property of the organism or its major parts.",
+    "ui": "T032",
+    "context": "Medical term from UMLS domain: attribute",
+    "domain": "UMLS"
+  },
+  {
+    "term": "bacteria",
+    "semantic_type": "Archaeon",
+    "tree_number": "A1.1.1",
+    "definition": "A member of one of the three domains of life, formerly called Archaebacteria under the taxon Bacteria, but now considered separate and distinct. Archaea are characterized by: 1) the presence of characteristic tRNAs and ribosomal RNAs; 2) the absence of peptidoglycan cell walls; 3) the presence of ether-linked lipids built from branched-chain subunits; and 4) their occurrence in unusual habitats. While archaea resemble bacteria in morphology and genomic organization, they resemble eukarya in their method of genomic replication.",
+    "ui": "T194",
+    "context": "Medical term from UMLS domain: bacteria",
+    "domain": "UMLS"
+  },
+  {
+    "term": "bacterium",
+    "semantic_type": "Bacterium",
+    "tree_number": "A1.1.2",
+    "definition": "A small, typically one-celled, prokaryotic micro-organism.",
+    "ui": "T007",
+    "context": "Medical term from UMLS domain: bacterium",
+    "domain": "UMLS"
+  },
+  {
+    "term": "behavior",
+    "semantic_type": "Mental or Behavioral Dysfunction",
+    "tree_number": "B2.2.1.2.1.1",
+    "definition": "A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.",
+    "ui": "T048",
+    "context": "Medical term from UMLS domain: behavior",
+    "domain": "UMLS"
+  },
+  {
+    "term": "behavioral",
+    "semantic_type": "Mental or Behavioral Dysfunction",
+    "tree_number": "B2.2.1.2.1.1",
+    "definition": "A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.",
+    "ui": "T048",
+    "context": "Medical term from UMLS domain: behavioral",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biologic",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: biologic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biologic function",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: biologic function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biologically",
+    "semantic_type": "Biologically Active Substance",
+    "tree_number": "A1.4.1.1.3",
+    "definition": "A generally endogenous substance produced or required by an organism, of primary interest because of its role in the biologic functioning of the organism that produces it.",
+    "ui": "T123",
+    "context": "Medical term from UMLS domain: biologically",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biologically active substance",
+    "semantic_type": "Body Substance",
+    "tree_number": "A1.4.2",
+    "definition": "Extracellular material, or mixtures of cells and extracellular material, produced, excreted, or accreted by the body. Included here are substances such as saliva, dental enamel, sweat, and gastric acid.",
+    "ui": "T031",
+    "context": "Medical term from UMLS domain: biologically active substance",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biology",
+    "semantic_type": "Molecular Biology Research Technique",
+    "tree_number": "B1.3.2.1",
+    "definition": "Any of the techniques used in the study of or the directed modification of the gene complement of a living organism.",
+    "ui": "T063",
+    "context": "Medical term from UMLS domain: biology",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biomedical",
+    "semantic_type": "Molecular Sequence",
+    "tree_number": "A2.1.5.3",
+    "definition": "A broad type for grouping the collected sequences of amino acids, carbohydrates, and nucleotide sequences. Descriptions of these sequences are generally reported in the published literature and/or are deposited in and maintained by databanks such as GenBank, European Molecular Biology Laboratory (EMBL), National Biomedical Research Foundation (NBRF), or other sequence repositories.",
+    "ui": "T085",
+    "context": "Medical term from UMLS domain: biomedical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biomedical occupation or discipline",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: biomedical occupation or discipline",
+    "domain": "UMLS"
+  },
+  {
+    "term": "biomedical or dental material",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: biomedical or dental material",
+    "domain": "UMLS"
+  },
+  {
+    "term": "bird",
+    "semantic_type": "Bird",
+    "tree_number": "A1.1.3.1.1.2",
+    "definition": "A vertebrate having a constant body temperature and characterized by the presence of feathers.",
+    "ui": "T012",
+    "context": "Medical term from UMLS domain: bird",
+    "domain": "UMLS"
+  },
+  {
+    "term": "blood",
+    "semantic_type": "Amphibian",
+    "tree_number": "A1.1.3.1.1.1",
+    "definition": "A cold-blooded, smooth-skinned vertebrate which characteristically hatches as an aquatic larva, breathing by gills. When mature, the amphibian breathes with lungs.",
+    "ui": "T011",
+    "context": "Medical term from UMLS domain: blood",
+    "domain": "UMLS"
+  },
+  {
+    "term": "body",
+    "semantic_type": "Bird",
+    "tree_number": "A1.1.3.1.1.2",
+    "definition": "A vertebrate having a constant body temperature and characterized by the presence of feathers.",
+    "ui": "T012",
+    "context": "Medical term from UMLS domain: body",
+    "domain": "UMLS"
+  },
+  {
+    "term": "body location or region",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: body location or region",
+    "domain": "UMLS"
+  },
+  {
+    "term": "body part, organ, or organ component",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: body part, organ, or organ component",
+    "domain": "UMLS"
+  },
+  {
+    "term": "body space or junction",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: body space or junction",
+    "domain": "UMLS"
+  },
+  {
+    "term": "body substance",
+    "semantic_type": "Body System",
+    "tree_number": "A2.1.4.1",
+    "definition": "A complex of anatomical structures that performs a common function.",
+    "ui": "T022",
+    "context": "Medical term from UMLS domain: body substance",
+    "domain": "UMLS"
+  },
+  {
+    "term": "body system",
+    "semantic_type": "Body System",
+    "tree_number": "A2.1.4.1",
+    "definition": "A complex of anatomical structures that performs a common function.",
+    "ui": "T022",
+    "context": "Medical term from UMLS domain: body system",
+    "domain": "UMLS"
+  },
+  {
+    "term": "brain",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: brain",
+    "domain": "UMLS"
+  },
+  {
+    "term": "bromates",
+    "semantic_type": "Chemical Viewed Structurally",
+    "tree_number": "A1.4.1.2",
+    "definition": "A chemical or chemicals viewed from the perspective of their structural characteristics. Included here are concepts which can mean either a salt, an ion, or a compound (e.g., \"Bromates\" and \"Bromides\").",
+    "ui": "T104",
+    "context": "Medical term from UMLS domain: bromates",
+    "domain": "UMLS"
+  },
+  {
+    "term": "bromides",
+    "semantic_type": "Chemical Viewed Structurally",
+    "tree_number": "A1.4.1.2",
+    "definition": "A chemical or chemicals viewed from the perspective of their structural characteristics. Included here are concepts which can mean either a salt, an ion, or a compound (e.g., \"Bromates\" and \"Bromides\").",
+    "ui": "T104",
+    "context": "Medical term from UMLS domain: bromides",
+    "domain": "UMLS"
+  },
+  {
+    "term": "cancer",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: cancer",
+    "domain": "UMLS"
+  },
+  {
+    "term": "carbohydrate",
+    "semantic_type": "Molecular Sequence",
+    "tree_number": "A2.1.5.3",
+    "definition": "A broad type for grouping the collected sequences of amino acids, carbohydrates, and nucleotide sequences. Descriptions of these sequences are generally reported in the published literature and/or are deposited in and maintained by databanks such as GenBank, European Molecular Biology Laboratory (EMBL), National Biomedical Research Foundation (NBRF), or other sequence repositories.",
+    "ui": "T085",
+    "context": "Medical term from UMLS domain: carbohydrate",
+    "domain": "UMLS"
+  },
+  {
+    "term": "carbohydrate sequence",
+    "semantic_type": "Molecular Sequence",
+    "tree_number": "A2.1.5.3",
+    "definition": "A broad type for grouping the collected sequences of amino acids, carbohydrates, and nucleotide sequences. Descriptions of these sequences are generally reported in the published literature and/or are deposited in and maintained by databanks such as GenBank, European Molecular Biology Laboratory (EMBL), National Biomedical Research Foundation (NBRF), or other sequence repositories.",
+    "ui": "T085",
+    "context": "Medical term from UMLS domain: carbohydrate sequence",
+    "domain": "UMLS"
+  },
+  {
+    "term": "care",
+    "semantic_type": "Health Care Activity",
+    "tree_number": "B1.3.1",
+    "definition": "An activity of or relating to the practice of medicine or involving the care of patients.",
+    "ui": "T058",
+    "context": "Medical term from UMLS domain: care",
+    "domain": "UMLS"
+  },
+  {
+    "term": "cell",
+    "semantic_type": "Plant",
+    "tree_number": "A1.1.3.3",
+    "definition": "An organism having cellulose cell walls, growing by synthesis of inorganic substances, generally distinguished by the presence of chlorophyll, and lacking the power of locomotion. Plant parts are included here as well.",
+    "ui": "T002",
+    "context": "Medical term from UMLS domain: cell",
+    "domain": "UMLS"
+  },
+  {
+    "term": "cell component",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: cell component",
+    "domain": "UMLS"
+  },
+  {
+    "term": "cell function",
+    "semantic_type": "Cell",
+    "tree_number": "A1.2.3.3",
+    "definition": "The fundamental structural and functional unit of living organisms.",
+    "ui": "T025",
+    "context": "Medical term from UMLS domain: cell function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "cell or molecular dysfunction",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: cell or molecular dysfunction",
+    "domain": "UMLS"
+  },
+  {
+    "term": "chemical",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: chemical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "chemical viewed functionally",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: chemical viewed functionally",
+    "domain": "UMLS"
+  },
+  {
+    "term": "chemical viewed structurally",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: chemical viewed structurally",
+    "domain": "UMLS"
+  },
+  {
+    "term": "classification",
+    "semantic_type": "Group",
+    "tree_number": "A2.9",
+    "definition": "A conceptual entity referring to the classification of individuals according to certain shared characteristics.",
+    "ui": "T096",
+    "context": "Medical term from UMLS domain: classification",
+    "domain": "UMLS"
+  },
+  {
+    "term": "clinic",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: clinic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "clinical",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: clinical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "clinical attribute",
+    "semantic_type": "Organism Attribute",
+    "tree_number": "A2.3",
+    "definition": "A property of the organism or its major parts.",
+    "ui": "T032",
+    "context": "Medical term from UMLS domain: clinical attribute",
+    "domain": "UMLS"
+  },
+  {
+    "term": "clinical drug",
+    "semantic_type": "Clinical Drug",
+    "tree_number": "A1.3.3",
+    "definition": "A pharmaceutical preparation as produced by the manufacturer. The name usually includes the substance, its strength, and the form, but may include the substance and only one of the other two items.",
+    "ui": "T200",
+    "context": "Medical term from UMLS domain: clinical drug",
+    "domain": "UMLS"
+  },
+  {
+    "term": "component",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: component",
+    "domain": "UMLS"
+  },
+  {
+    "term": "concept",
+    "semantic_type": "Entity",
+    "tree_number": "A",
+    "definition": "A broad type for grouping physical and conceptual entities.",
+    "ui": "T071",
+    "context": "Medical term from UMLS domain: concept",
+    "domain": "UMLS"
+  },
+  {
+    "term": "conceptual",
+    "semantic_type": "Entity",
+    "tree_number": "A",
+    "definition": "A broad type for grouping physical and conceptual entities.",
+    "ui": "T071",
+    "context": "Medical term from UMLS domain: conceptual",
+    "domain": "UMLS"
+  },
+  {
+    "term": "conceptual entity",
+    "semantic_type": "Entity",
+    "tree_number": "A",
+    "definition": "A broad type for grouping physical and conceptual entities.",
+    "ui": "T071",
+    "context": "Medical term from UMLS domain: conceptual entity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "condition",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: condition",
+    "domain": "UMLS"
+  },
+  {
+    "term": "congenital",
+    "semantic_type": "Congenital Abnormality",
+    "tree_number": "A1.2.2.1",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis.",
+    "ui": "T019",
+    "context": "Medical term from UMLS domain: congenital",
+    "domain": "UMLS"
+  },
+  {
+    "term": "congenital abnormality",
+    "semantic_type": "Congenital Abnormality",
+    "tree_number": "A1.2.2.1",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis.",
+    "ui": "T019",
+    "context": "Medical term from UMLS domain: congenital abnormality",
+    "domain": "UMLS"
+  },
+  {
+    "term": "daily",
+    "semantic_type": "Daily or Recreational Activity",
+    "tree_number": "B1.2",
+    "definition": "An activity carried out for recreation or exercise, or as part of daily life.",
+    "ui": "T056",
+    "context": "Medical term from UMLS domain: daily",
+    "domain": "UMLS"
+  },
+  {
+    "term": "daily or recreational activity",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: daily or recreational activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "delivery",
+    "semantic_type": "Health Care Related Organization",
+    "tree_number": "A2.7.1",
+    "definition": "An established organization which carries out specific functions related to health care delivery or research in the life sciences.",
+    "ui": "T093",
+    "context": "Medical term from UMLS domain: delivery",
+    "domain": "UMLS"
+  },
+  {
+    "term": "dental",
+    "semantic_type": "Body Substance",
+    "tree_number": "A1.4.2",
+    "definition": "Extracellular material, or mixtures of cells and extracellular material, produced, excreted, or accreted by the body. Included here are substances such as saliva, dental enamel, sweat, and gastric acid.",
+    "ui": "T031",
+    "context": "Medical term from UMLS domain: dental",
+    "domain": "UMLS"
+  },
+  {
+    "term": "device",
+    "semantic_type": "Medical Device",
+    "tree_number": "A1.3.1",
+    "definition": "A manufactured object used primarily in the diagnosis, treatment, or prevention of physiologic or anatomic disorders.",
+    "ui": "T074",
+    "context": "Medical term from UMLS domain: device",
+    "domain": "UMLS"
+  },
+  {
+    "term": "diagnosis",
+    "semantic_type": "Medical Device",
+    "tree_number": "A1.3.1",
+    "definition": "A manufactured object used primarily in the diagnosis, treatment, or prevention of physiologic or anatomic disorders.",
+    "ui": "T074",
+    "context": "Medical term from UMLS domain: diagnosis",
+    "domain": "UMLS"
+  },
+  {
+    "term": "diagnostic",
+    "semantic_type": "Diagnostic Procedure",
+    "tree_number": "B1.3.1.2",
+    "definition": "A procedure, method, or technique used to determine the nature or identity of a disease or disorder. This excludes procedures which are primarily carried out on specimens in a laboratory.",
+    "ui": "T060",
+    "context": "Medical term from UMLS domain: diagnostic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "diagnostic procedure",
+    "semantic_type": "Laboratory Procedure",
+    "tree_number": "B1.3.1.1",
+    "definition": "A procedure, method, or technique used to determine the composition, quantity, or concentration of a specimen, and which is carried out in a clinical laboratory. Included here are procedures which measure the times and rates of reactions.",
+    "ui": "T059",
+    "context": "Medical term from UMLS domain: diagnostic procedure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "disabled",
+    "semantic_type": "Patient or Disabled Group",
+    "tree_number": "A2.9.5",
+    "definition": "An individual or individuals classified according to a disability, disease, condition or treatment.",
+    "ui": "T101",
+    "context": "Medical term from UMLS domain: disabled",
+    "domain": "UMLS"
+  },
+  {
+    "term": "discipline",
+    "semantic_type": "Occupation or Discipline",
+    "tree_number": "A2.6",
+    "definition": "A vocation, academic discipline, or field of study, or a subpart of an occupation or discipline.",
+    "ui": "T090",
+    "context": "Medical term from UMLS domain: discipline",
+    "domain": "UMLS"
+  },
+  {
+    "term": "disease",
+    "semantic_type": "Acquired Abnormality",
+    "tree_number": "A1.2.2.2",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, found in or deriving from a previously normal structure. Acquired abnormalities are distinguished from diseases even though they may result in pathological functioning (e.g., \"hernias incarcerate\").",
+    "ui": "T020",
+    "context": "Medical term from UMLS domain: disease",
+    "domain": "UMLS"
+  },
+  {
+    "term": "disease or syndrome",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: disease or syndrome",
+    "domain": "UMLS"
+  },
+  {
+    "term": "disorder",
+    "semantic_type": "Pathologic Function",
+    "tree_number": "B2.2.1.2",
+    "definition": "A disordered process, activity, or state of the organism as a whole, of a body system or systems, or of multiple organs or tissues. Included here are normal responses to a negative stimulus as well as patholologic conditions or states that are less specific than a disease. Pathologic functions frequently have systemic effects.",
+    "ui": "T046",
+    "context": "Medical term from UMLS domain: disorder",
+    "domain": "UMLS"
+  },
+  {
+    "term": "doctor",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: doctor",
+    "domain": "UMLS"
+  },
+  {
+    "term": "drug",
+    "semantic_type": "Hazardous or Poisonous Substance",
+    "tree_number": "A1.4.1.1.5",
+    "definition": "A substance of concern because of its potentially hazardous or toxic effects. This would include most drugs of abuse, as well as agents that require special handling because of their toxicity.",
+    "ui": "T131",
+    "context": "Medical term from UMLS domain: drug",
+    "domain": "UMLS"
+  },
+  {
+    "term": "drug delivery device",
+    "semantic_type": "Medical Device",
+    "tree_number": "A1.3.1",
+    "definition": "A manufactured object used primarily in the diagnosis, treatment, or prevention of physiologic or anatomic disorders.",
+    "ui": "T074",
+    "context": "Medical term from UMLS domain: drug delivery device",
+    "domain": "UMLS"
+  },
+  {
+    "term": "dysfunction",
+    "semantic_type": "Mental or Behavioral Dysfunction",
+    "tree_number": "B2.2.1.2.1.1",
+    "definition": "A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.",
+    "ui": "T048",
+    "context": "Medical term from UMLS domain: dysfunction",
+    "domain": "UMLS"
+  },
+  {
+    "term": "educational",
+    "semantic_type": "Educational Activity",
+    "tree_number": "B1.3.4",
+    "definition": "An activity related to the organization and provision of education.",
+    "ui": "T065",
+    "context": "Medical term from UMLS domain: educational",
+    "domain": "UMLS"
+  },
+  {
+    "term": "educational activity",
+    "semantic_type": "Activity",
+    "tree_number": "B1",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "ui": "T052",
+    "context": "Medical term from UMLS domain: educational activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "effect",
+    "semantic_type": "Pathologic Function",
+    "tree_number": "B2.2.1.2",
+    "definition": "A disordered process, activity, or state of the organism as a whole, of a body system or systems, or of multiple organs or tissues. Included here are normal responses to a negative stimulus as well as patholologic conditions or states that are less specific than a disease. Pathologic functions frequently have systemic effects.",
+    "ui": "T046",
+    "context": "Medical term from UMLS domain: effect",
+    "domain": "UMLS"
+  },
+  {
+    "term": "element",
+    "semantic_type": "Organic Chemical",
+    "tree_number": "A1.4.1.2.1",
+    "definition": "The general class of carbon-containing compounds, usually based on carbon chains or rings, and also containing hydrogen (hydrocarbons), with or without nitrogen, oxygen, or other elements in which the bonding between elements is generally covalent.",
+    "ui": "T109",
+    "context": "Medical term from UMLS domain: element",
+    "domain": "UMLS"
+  },
+  {
+    "term": "element, ion, or isotope",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: element, ion, or isotope",
+    "domain": "UMLS"
+  },
+  {
+    "term": "embryonic",
+    "semantic_type": "Embryonic Structure",
+    "tree_number": "A1.2.1",
+    "definition": "An anatomical structure that exists only before the organism is fully formed; in mammals, for example, a structure that exists only prior to the birth of the organism. This structure may be normal or abnormal.",
+    "ui": "T018",
+    "context": "Medical term from UMLS domain: embryonic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "embryonic structure",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: embryonic structure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "entity",
+    "semantic_type": "Diagnostic Procedure",
+    "tree_number": "B1.3.1.2",
+    "definition": "A procedure, method, or technique used to determine the nature or identity of a disease or disorder. This excludes procedures which are primarily carried out on specimens in a laboratory.",
+    "ui": "T060",
+    "context": "Medical term from UMLS domain: entity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "environmental",
+    "semantic_type": "Environmental Effect of Humans",
+    "tree_number": "B2.1.1",
+    "definition": "A change in the natural environment that is a result of the activities of human beings.",
+    "ui": "T069",
+    "context": "Medical term from UMLS domain: environmental",
+    "domain": "UMLS"
+  },
+  {
+    "term": "environmental effect of humans",
+    "semantic_type": "Experimental Model of Disease",
+    "tree_number": "B2.2.1.2.3",
+    "definition": "A representation in a non-human organism of a human disease for the purpose of research into its mechanism or treatment.",
+    "ui": "T050",
+    "context": "Medical term from UMLS domain: environmental effect of humans",
+    "domain": "UMLS"
+  },
+  {
+    "term": "enzyme",
+    "semantic_type": "Enzyme",
+    "tree_number": "A1.4.1.1.3.3",
+    "definition": "A complex chemical, usually a protein, that is produced by living cells and which catalyzes specific biochemical reactions. There are six main types of enzymes: oxidoreductases, transferases, hydrolases, lyases, isomerases, and ligases.",
+    "ui": "T126",
+    "context": "Medical term from UMLS domain: enzyme",
+    "domain": "UMLS"
+  },
+  {
+    "term": "eukaryote",
+    "semantic_type": "Eukaryote",
+    "tree_number": "A1.1.3",
+    "definition": "One of the three domains of life (the others being Bacteria and Archaea), also called Eukarya. These are organisms whose cells are enclosed in membranes and possess a nucleus. They comprise almost all multicellular and many unicellular organisms, and are traditionally divided into groups (sometimes called kingdoms) including Animals, Plants, Fungi, various Algae, and other taxa that were previously part of the old kingdom Protista.",
+    "ui": "T204",
+    "context": "Medical term from UMLS domain: eukaryote",
+    "domain": "UMLS"
+  },
+  {
+    "term": "event",
+    "semantic_type": "Event",
+    "tree_number": "B",
+    "definition": "A broad type for grouping activities, processes and states.",
+    "ui": "T051",
+    "context": "Medical term from UMLS domain: event",
+    "domain": "UMLS"
+  },
+  {
+    "term": "examination",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: examination",
+    "domain": "UMLS"
+  },
+  {
+    "term": "experimental",
+    "semantic_type": "Experimental Model of Disease",
+    "tree_number": "B2.2.1.2.3",
+    "definition": "A representation in a non-human organism of a human disease for the purpose of research into its mechanism or treatment.",
+    "ui": "T050",
+    "context": "Medical term from UMLS domain: experimental",
+    "domain": "UMLS"
+  },
+  {
+    "term": "experimental model of disease",
+    "semantic_type": "Disease or Syndrome",
+    "tree_number": "B2.2.1.2.1",
+    "definition": "A condition which alters or interferes with a normal process, state, or activity of an organism. It is usually characterized by the abnormal functioning of one or more of the host's systems, parts, or organs. Included here is a complex of symptoms descriptive of a disorder.",
+    "ui": "T047",
+    "context": "Medical term from UMLS domain: experimental model of disease",
+    "domain": "UMLS"
+  },
+  {
+    "term": "factor",
+    "semantic_type": "Immunologic Factor",
+    "tree_number": "A1.4.1.1.3.5",
+    "definition": "A biologically active substance whose activities affect or play a role in the functioning of the immune system.",
+    "ui": "T129",
+    "context": "Medical term from UMLS domain: factor",
+    "domain": "UMLS"
+  },
+  {
+    "term": "family",
+    "semantic_type": "Family Group",
+    "tree_number": "A2.9.3",
+    "definition": "An individual or individuals classified according to their family relationships or relative position in the family unit.",
+    "ui": "T099",
+    "context": "Medical term from UMLS domain: family",
+    "domain": "UMLS"
+  },
+  {
+    "term": "family group",
+    "semantic_type": "Group",
+    "tree_number": "A2.9",
+    "definition": "A conceptual entity referring to the classification of individuals according to certain shared characteristics.",
+    "ui": "T096",
+    "context": "Medical term from UMLS domain: family group",
+    "domain": "UMLS"
+  },
+  {
+    "term": "fever",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: fever",
+    "domain": "UMLS"
+  },
+  {
+    "term": "finding",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: finding",
+    "domain": "UMLS"
+  },
+  {
+    "term": "fish",
+    "semantic_type": "Fish",
+    "tree_number": "A1.1.3.1.1.3",
+    "definition": "A cold-blooded aquatic vertebrate characterized by fins and breathing by gills. Included here are fishes having either a bony skeleton, such as a perch, or a cartilaginous skeleton, such as a shark, or those lacking a jaw, such as a lamprey or hagfish.",
+    "ui": "T013",
+    "context": "Medical term from UMLS domain: fish",
+    "domain": "UMLS"
+  },
+  {
+    "term": "food",
+    "semantic_type": "Food",
+    "tree_number": "A1.4.3",
+    "definition": "Any substance generally containing nutrients, such as carbohydrates, proteins, and fats, that can be ingested by a living organism and metabolized into energy and body tissue. Some foods are naturally occurring, others are either partially or entirely made by humans.",
+    "ui": "T168",
+    "context": "Medical term from UMLS domain: food",
+    "domain": "UMLS"
+  },
+  {
+    "term": "formed",
+    "semantic_type": "Embryonic Structure",
+    "tree_number": "A1.2.1",
+    "definition": "An anatomical structure that exists only before the organism is fully formed; in mammals, for example, a structure that exists only prior to the birth of the organism. This structure may be normal or abnormal.",
+    "ui": "T018",
+    "context": "Medical term from UMLS domain: formed",
+    "domain": "UMLS"
+  },
+  {
+    "term": "fully",
+    "semantic_type": "Embryonic Structure",
+    "tree_number": "A1.2.1",
+    "definition": "An anatomical structure that exists only before the organism is fully formed; in mammals, for example, a structure that exists only prior to the birth of the organism. This structure may be normal or abnormal.",
+    "ui": "T018",
+    "context": "Medical term from UMLS domain: fully",
+    "domain": "UMLS"
+  },
+  {
+    "term": "fully formed anatomical structure",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: fully formed anatomical structure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "function",
+    "semantic_type": "Acquired Abnormality",
+    "tree_number": "A1.2.2.2",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, found in or deriving from a previously normal structure. Acquired abnormalities are distinguished from diseases even though they may result in pathological functioning (e.g., \"hernias incarcerate\").",
+    "ui": "T020",
+    "context": "Medical term from UMLS domain: function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "functional",
+    "semantic_type": "Cell",
+    "tree_number": "A1.2.3.3",
+    "definition": "The fundamental structural and functional unit of living organisms.",
+    "ui": "T025",
+    "context": "Medical term from UMLS domain: functional",
+    "domain": "UMLS"
+  },
+  {
+    "term": "functional concept",
+    "semantic_type": "Conceptual Entity",
+    "tree_number": "A2",
+    "definition": "A broad type for grouping abstract entities or concepts.",
+    "ui": "T077",
+    "context": "Medical term from UMLS domain: functional concept",
+    "domain": "UMLS"
+  },
+  {
+    "term": "functionally",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: functionally",
+    "domain": "UMLS"
+  },
+  {
+    "term": "fungus",
+    "semantic_type": "Fungus",
+    "tree_number": "A1.1.3.2",
+    "definition": "A eukaryotic organism characterized by the absence of chlorophyll and the presence of a rigid cell wall. Included here are both slime molds and true fungi such as yeasts, molds, mildews, and mushrooms.",
+    "ui": "T004",
+    "context": "Medical term from UMLS domain: fungus",
+    "domain": "UMLS"
+  },
+  {
+    "term": "gene",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: gene",
+    "domain": "UMLS"
+  },
+  {
+    "term": "gene or genome",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: gene or genome",
+    "domain": "UMLS"
+  },
+  {
+    "term": "genetic",
+    "semantic_type": "Genetic Function",
+    "tree_number": "B2.2.1.1.4.1",
+    "definition": "Functions of or related to the maintenance, translation or expression of the genetic material.",
+    "ui": "T045",
+    "context": "Medical term from UMLS domain: genetic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "genetic function",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: genetic function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "genome",
+    "semantic_type": "Gene or Genome",
+    "tree_number": "A1.2.3.5",
+    "definition": "A specific sequence, or in the case of the genome the complete sequence, of nucleotides along a molecule of DNA or RNA (in the case of some viruses) which represent the functional units of heredity.",
+    "ui": "T028",
+    "context": "Medical term from UMLS domain: genome",
+    "domain": "UMLS"
+  },
+  {
+    "term": "geographic",
+    "semantic_type": "Geographic Area",
+    "tree_number": "A2.1.5.4",
+    "definition": "A geographic location, generally having definite boundaries.",
+    "ui": "T083",
+    "context": "Medical term from UMLS domain: geographic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "geographic area",
+    "semantic_type": "Geographic Area",
+    "tree_number": "A2.1.5.4",
+    "definition": "A geographic location, generally having definite boundaries.",
+    "ui": "T083",
+    "context": "Medical term from UMLS domain: geographic area",
+    "domain": "UMLS"
+  },
+  {
+    "term": "governmental",
+    "semantic_type": "Governmental or Regulatory Activity",
+    "tree_number": "B1.3.3",
+    "definition": "An activity carried out by officially constituted governments, or an activity related to the creation or enforcement of the rules or regulations governing some field of endeavor.",
+    "ui": "T064",
+    "context": "Medical term from UMLS domain: governmental",
+    "domain": "UMLS"
+  },
+  {
+    "term": "governmental or regulatory activity",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: governmental or regulatory activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "group",
+    "semantic_type": "Event",
+    "tree_number": "B",
+    "definition": "A broad type for grouping activities, processes and states.",
+    "ui": "T051",
+    "context": "Medical term from UMLS domain: group",
+    "domain": "UMLS"
+  },
+  {
+    "term": "group attribute",
+    "semantic_type": "Organism Attribute",
+    "tree_number": "A2.3",
+    "definition": "A property of the organism or its major parts.",
+    "ui": "T032",
+    "context": "Medical term from UMLS domain: group attribute",
+    "domain": "UMLS"
+  },
+  {
+    "term": "hazardous",
+    "semantic_type": "Hazardous or Poisonous Substance",
+    "tree_number": "A1.4.1.1.5",
+    "definition": "A substance of concern because of its potentially hazardous or toxic effects. This would include most drugs of abuse, as well as agents that require special handling because of their toxicity.",
+    "ui": "T131",
+    "context": "Medical term from UMLS domain: hazardous",
+    "domain": "UMLS"
+  },
+  {
+    "term": "hazardous or poisonous substance",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: hazardous or poisonous substance",
+    "domain": "UMLS"
+  },
+  {
+    "term": "healing",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: healing",
+    "domain": "UMLS"
+  },
+  {
+    "term": "health",
+    "semantic_type": "Health Care Activity",
+    "tree_number": "B1.3.1",
+    "definition": "An activity of or relating to the practice of medicine or involving the care of patients.",
+    "ui": "T058",
+    "context": "Medical term from UMLS domain: health",
+    "domain": "UMLS"
+  },
+  {
+    "term": "health care activity",
+    "semantic_type": "Activity",
+    "tree_number": "B1",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "ui": "T052",
+    "context": "Medical term from UMLS domain: health care activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "health care related organization",
+    "semantic_type": "Health Care Activity",
+    "tree_number": "B1.3.1",
+    "definition": "An activity of or relating to the practice of medicine or involving the care of patients.",
+    "ui": "T058",
+    "context": "Medical term from UMLS domain: health care related organization",
+    "domain": "UMLS"
+  },
+  {
+    "term": "heart",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: heart",
+    "domain": "UMLS"
+  },
+  {
+    "term": "hernias",
+    "semantic_type": "Acquired Abnormality",
+    "tree_number": "A1.2.2.2",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, found in or deriving from a previously normal structure. Acquired abnormalities are distinguished from diseases even though they may result in pathological functioning (e.g., \"hernias incarcerate\").",
+    "ui": "T020",
+    "context": "Medical term from UMLS domain: hernias",
+    "domain": "UMLS"
+  },
+  {
+    "term": "hormone",
+    "semantic_type": "Hormone",
+    "tree_number": "A1.4.1.1.3.2",
+    "definition": "In animals, a chemical usually secreted by an endocrine gland whose products are released into the circulating fluid. Hormones act as chemical messengers and regulate various physiologic processes such as growth, reproduction, metabolism, etc. They usually fall into two broad classes, steroid hormones and peptide hormones.",
+    "ui": "T125",
+    "context": "Medical term from UMLS domain: hormone",
+    "domain": "UMLS"
+  },
+  {
+    "term": "hospital",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: hospital",
+    "domain": "UMLS"
+  },
+  {
+    "term": "human",
+    "semantic_type": "Human",
+    "tree_number": "A1.1.3.1.1.4.1",
+    "definition": "Modern man, the only remaining species of the Homo genus.",
+    "ui": "T016",
+    "context": "Medical term from UMLS domain: human",
+    "domain": "UMLS"
+  },
+  {
+    "term": "human-caused",
+    "semantic_type": "Human-caused Phenomenon or Process",
+    "tree_number": "B2.1",
+    "definition": "A phenomenon or process that is a result of the activities of human beings.",
+    "ui": "T068",
+    "context": "Medical term from UMLS domain: human-caused",
+    "domain": "UMLS"
+  },
+  {
+    "term": "human-caused phenomenon or process",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: human-caused phenomenon or process",
+    "domain": "UMLS"
+  },
+  {
+    "term": "humans",
+    "semantic_type": "Behavior",
+    "tree_number": "B1.1",
+    "definition": "Any of the psycho-social activities of humans or animals that can be observed directly by others or can be made systematically observable by the use of special strategies.",
+    "ui": "T053",
+    "context": "Medical term from UMLS domain: humans",
+    "domain": "UMLS"
+  },
+  {
+    "term": "idea",
+    "semantic_type": "Idea or Concept",
+    "tree_number": "A2.1",
+    "definition": "An abstract concept, such as a social, religious or philosophical concept.",
+    "ui": "T078",
+    "context": "Medical term from UMLS domain: idea",
+    "domain": "UMLS"
+  },
+  {
+    "term": "idea or concept",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: idea or concept",
+    "domain": "UMLS"
+  },
+  {
+    "term": "immunologic",
+    "semantic_type": "Immunologic Factor",
+    "tree_number": "A1.4.1.1.3.5",
+    "definition": "A biologically active substance whose activities affect or play a role in the functioning of the immune system.",
+    "ui": "T129",
+    "context": "Medical term from UMLS domain: immunologic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "immunologic factor",
+    "semantic_type": "Immunologic Factor",
+    "tree_number": "A1.4.1.1.3.5",
+    "definition": "A biologically active substance whose activities affect or play a role in the functioning of the immune system.",
+    "ui": "T129",
+    "context": "Medical term from UMLS domain: immunologic factor",
+    "domain": "UMLS"
+  },
+  {
+    "term": "incarcerate",
+    "semantic_type": "Acquired Abnormality",
+    "tree_number": "A1.2.2.2",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, found in or deriving from a previously normal structure. Acquired abnormalities are distinguished from diseases even though they may result in pathological functioning (e.g., \"hernias incarcerate\").",
+    "ui": "T020",
+    "context": "Medical term from UMLS domain: incarcerate",
+    "domain": "UMLS"
+  },
+  {
+    "term": "indicator",
+    "semantic_type": "Indicator, Reagent, or Diagnostic Aid",
+    "tree_number": "A1.4.1.1.4",
+    "definition": "A substance primarily of interest for its use in laboratory or diagnostic tests and procedures to detect, measure, examine, or analyze other chemicals, processes, or conditions.",
+    "ui": "T130",
+    "context": "Medical term from UMLS domain: indicator",
+    "domain": "UMLS"
+  },
+  {
+    "term": "indicator, reagent, or diagnostic aid",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: indicator, reagent, or diagnostic aid",
+    "domain": "UMLS"
+  },
+  {
+    "term": "individual",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: individual",
+    "domain": "UMLS"
+  },
+  {
+    "term": "individual behavior",
+    "semantic_type": "Mental or Behavioral Dysfunction",
+    "tree_number": "B2.2.1.2.1.1",
+    "definition": "A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.",
+    "ui": "T048",
+    "context": "Medical term from UMLS domain: individual behavior",
+    "domain": "UMLS"
+  },
+  {
+    "term": "infection",
+    "semantic_type": "Disease or Syndrome",
+    "tree_number": "B2.2.1.2.1",
+    "definition": "A condition which alters or interferes with a normal process, state, or activity of an organism. It is usually characterized by the abnormal functioning of one or more of the host's systems, parts, or organs. Included here is a complex of symptoms descriptive of a disorder.",
+    "ui": "T047",
+    "context": "Medical term from UMLS domain: infection",
+    "domain": "UMLS"
+  },
+  {
+    "term": "inflammation",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: inflammation",
+    "domain": "UMLS"
+  },
+  {
+    "term": "injury",
+    "semantic_type": "Injury or Poisoning",
+    "tree_number": "B2.3",
+    "definition": "A traumatic wound, injury, or poisoning caused by an external agent or force.",
+    "ui": "T037",
+    "context": "Medical term from UMLS domain: injury",
+    "domain": "UMLS"
+  },
+  {
+    "term": "injury or poisoning",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: injury or poisoning",
+    "domain": "UMLS"
+  },
+  {
+    "term": "inorganic",
+    "semantic_type": "Plant",
+    "tree_number": "A1.1.3.3",
+    "definition": "An organism having cellulose cell walls, growing by synthesis of inorganic substances, generally distinguished by the presence of chlorophyll, and lacking the power of locomotion. Plant parts are included here as well.",
+    "ui": "T002",
+    "context": "Medical term from UMLS domain: inorganic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "inorganic chemical",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: inorganic chemical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "intellectual",
+    "semantic_type": "Regulation or Law",
+    "tree_number": "A2.4.2",
+    "definition": "An intellectual product resulting from legislative or regulatory activity.",
+    "ui": "T089",
+    "context": "Medical term from UMLS domain: intellectual",
+    "domain": "UMLS"
+  },
+  {
+    "term": "intellectual product",
+    "semantic_type": "Regulation or Law",
+    "tree_number": "A2.4.2",
+    "definition": "An intellectual product resulting from legislative or regulatory activity.",
+    "ui": "T089",
+    "context": "Medical term from UMLS domain: intellectual product",
+    "domain": "UMLS"
+  },
+  {
+    "term": "ion",
+    "semantic_type": "Plant",
+    "tree_number": "A1.1.3.3",
+    "definition": "An organism having cellulose cell walls, growing by synthesis of inorganic substances, generally distinguished by the presence of chlorophyll, and lacking the power of locomotion. Plant parts are included here as well.",
+    "ui": "T002",
+    "context": "Medical term from UMLS domain: ion",
+    "domain": "UMLS"
+  },
+  {
+    "term": "isotope",
+    "semantic_type": "Element, Ion, or Isotope",
+    "tree_number": "A1.4.1.2.3",
+    "definition": "One of the 109 presently known fundamental substances that comprise all matter at and above the atomic level. This includes elemental metals, rare gases, and most abundant naturally occurring radioactive elements, as well as the ionic counterparts of elements (NA+, Cl-), and the less abundant isotopic forms. This does not include organic ions such as iodoacetate to which the type 'Organic Chemical' is assigned.",
+    "ui": "T196",
+    "context": "Medical term from UMLS domain: isotope",
+    "domain": "UMLS"
+  },
+  {
+    "term": "junction",
+    "semantic_type": "Body Space or Junction",
+    "tree_number": "A2.1.5.1",
+    "definition": "An area enclosed or surrounded by body parts or organs or the place where two anatomical structures meet or connect.",
+    "ui": "T030",
+    "context": "Medical term from UMLS domain: junction",
+    "domain": "UMLS"
+  },
+  {
+    "term": "kidney",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: kidney",
+    "domain": "UMLS"
+  },
+  {
+    "term": "laboratory",
+    "semantic_type": "Laboratory or Test Result",
+    "tree_number": "A2.2.1",
+    "definition": "The outcome of a specific test to measure an attribute or to determine the presence, absence, or degree of a condition.",
+    "ui": "T034",
+    "context": "Medical term from UMLS domain: laboratory",
+    "domain": "UMLS"
+  },
+  {
+    "term": "laboratory or test result",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: laboratory or test result",
+    "domain": "UMLS"
+  },
+  {
+    "term": "laboratory procedure",
+    "semantic_type": "Laboratory or Test Result",
+    "tree_number": "A2.2.1",
+    "definition": "The outcome of a specific test to measure an attribute or to determine the presence, absence, or degree of a condition.",
+    "ui": "T034",
+    "context": "Medical term from UMLS domain: laboratory procedure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "language",
+    "semantic_type": "Language",
+    "tree_number": "A2.5",
+    "definition": "The system of communication used by a particular nation or people.",
+    "ui": "T171",
+    "context": "Medical term from UMLS domain: language",
+    "domain": "UMLS"
+  },
+  {
+    "term": "law",
+    "semantic_type": "Regulation or Law",
+    "tree_number": "A2.4.2",
+    "definition": "An intellectual product resulting from legislative or regulatory activity.",
+    "ui": "T089",
+    "context": "Medical term from UMLS domain: law",
+    "domain": "UMLS"
+  },
+  {
+    "term": "liver",
+    "semantic_type": "Health Care Related Organization",
+    "tree_number": "A2.7.1",
+    "definition": "An established organization which carries out specific functions related to health care delivery or research in the life sciences.",
+    "ui": "T093",
+    "context": "Medical term from UMLS domain: liver",
+    "domain": "UMLS"
+  },
+  {
+    "term": "location",
+    "semantic_type": "Congenital Abnormality",
+    "tree_number": "A1.2.2.1",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis.",
+    "ui": "T019",
+    "context": "Medical term from UMLS domain: location",
+    "domain": "UMLS"
+  },
+  {
+    "term": "lung",
+    "semantic_type": "Amphibian",
+    "tree_number": "A1.1.3.1.1.1",
+    "definition": "A cold-blooded, smooth-skinned vertebrate which characteristically hatches as an aquatic larva, breathing by gills. When mature, the amphibian breathes with lungs.",
+    "ui": "T011",
+    "context": "Medical term from UMLS domain: lung",
+    "domain": "UMLS"
+  },
+  {
+    "term": "machine",
+    "semantic_type": "Activity",
+    "tree_number": "B1",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "ui": "T052",
+    "context": "Medical term from UMLS domain: machine",
+    "domain": "UMLS"
+  },
+  {
+    "term": "machine activity",
+    "semantic_type": "Activity",
+    "tree_number": "B1",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "ui": "T052",
+    "context": "Medical term from UMLS domain: machine activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "mammal",
+    "semantic_type": "Mammal",
+    "tree_number": "A1.1.3.1.1.4",
+    "definition": "A vertebrate having a constant body temperature and characterized by the presence of hair, mammary glands and sweat glands.",
+    "ui": "T015",
+    "context": "Medical term from UMLS domain: mammal",
+    "domain": "UMLS"
+  },
+  {
+    "term": "manufactured",
+    "semantic_type": "Manufactured Object",
+    "tree_number": "A1.3",
+    "definition": "A physical object made by human beings.",
+    "ui": "T073",
+    "context": "Medical term from UMLS domain: manufactured",
+    "domain": "UMLS"
+  },
+  {
+    "term": "manufactured object",
+    "semantic_type": "Physical Object",
+    "tree_number": "A1",
+    "definition": "An object perceptible to the sense of vision or touch.",
+    "ui": "T072",
+    "context": "Medical term from UMLS domain: manufactured object",
+    "domain": "UMLS"
+  },
+  {
+    "term": "material",
+    "semantic_type": "Body Substance",
+    "tree_number": "A1.4.2",
+    "definition": "Extracellular material, or mixtures of cells and extracellular material, produced, excreted, or accreted by the body. Included here are substances such as saliva, dental enamel, sweat, and gastric acid.",
+    "ui": "T031",
+    "context": "Medical term from UMLS domain: material",
+    "domain": "UMLS"
+  },
+  {
+    "term": "medical",
+    "semantic_type": "Medical Device",
+    "tree_number": "A1.3.1",
+    "definition": "A manufactured object used primarily in the diagnosis, treatment, or prevention of physiologic or anatomic disorders.",
+    "ui": "T074",
+    "context": "Medical term from UMLS domain: medical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "medical device",
+    "semantic_type": "Medical Device",
+    "tree_number": "A1.3.1",
+    "definition": "A manufactured object used primarily in the diagnosis, treatment, or prevention of physiologic or anatomic disorders.",
+    "ui": "T074",
+    "context": "Medical term from UMLS domain: medical device",
+    "domain": "UMLS"
+  },
+  {
+    "term": "medication",
+    "semantic_type": "Pharmacologic Substance",
+    "tree_number": "A1.4.1.1.1",
+    "definition": "A substance used in the treatment or prevention of pathologic disorders. This includes substances that occur naturally in the body and are administered therapeutically.",
+    "ui": "T121",
+    "context": "Medical term from UMLS domain: medication",
+    "domain": "UMLS"
+  },
+  {
+    "term": "mental",
+    "semantic_type": "Cell",
+    "tree_number": "A1.2.3.3",
+    "definition": "The fundamental structural and functional unit of living organisms.",
+    "ui": "T025",
+    "context": "Medical term from UMLS domain: mental",
+    "domain": "UMLS"
+  },
+  {
+    "term": "mental or behavioral dysfunction",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: mental or behavioral dysfunction",
+    "domain": "UMLS"
+  },
+  {
+    "term": "mental process",
+    "semantic_type": "Mental Process",
+    "tree_number": "B2.2.1.1.1.1",
+    "definition": "A physiologic function involving the mind or cognitive processing.",
+    "ui": "T041",
+    "context": "Medical term from UMLS domain: mental process",
+    "domain": "UMLS"
+  },
+  {
+    "term": "model",
+    "semantic_type": "Experimental Model of Disease",
+    "tree_number": "B2.2.1.2.3",
+    "definition": "A representation in a non-human organism of a human disease for the purpose of research into its mechanism or treatment.",
+    "ui": "T050",
+    "context": "Medical term from UMLS domain: model",
+    "domain": "UMLS"
+  },
+  {
+    "term": "molecular",
+    "semantic_type": "Molecular Function",
+    "tree_number": "B2.2.1.1.4",
+    "definition": "A physiologic function occurring at the molecular level.",
+    "ui": "T044",
+    "context": "Medical term from UMLS domain: molecular",
+    "domain": "UMLS"
+  },
+  {
+    "term": "molecular biology research technique",
+    "semantic_type": "Molecular Function",
+    "tree_number": "B2.2.1.1.4",
+    "definition": "A physiologic function occurring at the molecular level.",
+    "ui": "T044",
+    "context": "Medical term from UMLS domain: molecular biology research technique",
+    "domain": "UMLS"
+  },
+  {
+    "term": "molecular function",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: molecular function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "molecular sequence",
+    "semantic_type": "Molecular Function",
+    "tree_number": "B2.2.1.1.4",
+    "definition": "A physiologic function occurring at the molecular level.",
+    "ui": "T044",
+    "context": "Medical term from UMLS domain: molecular sequence",
+    "domain": "UMLS"
+  },
+  {
+    "term": "natural",
+    "semantic_type": "Phenomenon or Process",
+    "tree_number": "B2",
+    "definition": "A process or state which occurs naturally or as a result of an activity.",
+    "ui": "T067",
+    "context": "Medical term from UMLS domain: natural",
+    "domain": "UMLS"
+  },
+  {
+    "term": "natural phenomenon or process",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: natural phenomenon or process",
+    "domain": "UMLS"
+  },
+  {
+    "term": "neoplastic",
+    "semantic_type": "Neoplastic Process",
+    "tree_number": "B2.2.1.2.1.2",
+    "definition": "A new and abnormal growth of tissue in which the growth is uncontrolled and progressive. The growths may be malignant or benign.",
+    "ui": "T191",
+    "context": "Medical term from UMLS domain: neoplastic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "neoplastic process",
+    "semantic_type": "Mental Process",
+    "tree_number": "B2.2.1.1.1.1",
+    "definition": "A physiologic function involving the mind or cognitive processing.",
+    "ui": "T041",
+    "context": "Medical term from UMLS domain: neoplastic process",
+    "domain": "UMLS"
+  },
+  {
+    "term": "nucleic",
+    "semantic_type": "Virus",
+    "tree_number": "A1.1.4",
+    "definition": "An organism consisting of a core of a single nucleic acid enclosed in a protective coat of protein. A virus may replicate only inside a host living cell. A virus exhibits some but not all of the usual characteristics of living things.",
+    "ui": "T005",
+    "context": "Medical term from UMLS domain: nucleic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "nucleic acid, nucleoside, or nucleotide",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: nucleic acid, nucleoside, or nucleotide",
+    "domain": "UMLS"
+  },
+  {
+    "term": "nucleoside",
+    "semantic_type": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "tree_number": "A1.4.1.2.1.5",
+    "definition": "A complex compound of high molecular weight occurring in living cells. These are basically of two types, ribonucleic (RNA) and deoxyribonucleic (DNA) acids. Nucleic acids are made of nucleotides (nitrogen-containing base, a 5-carbon sugar, and one or more phosphate group) linked together by a phosphodiester bond between the 5' and 3' carbon atoms. Nucleosides are compounds composed of a purine or pyrimidine base (usually adenine, cytosine, guanine, thymine, uracil) linked to either a ribose or a deoxyribose sugar.",
+    "ui": "T114",
+    "context": "Medical term from UMLS domain: nucleoside",
+    "domain": "UMLS"
+  },
+  {
+    "term": "nucleotide",
+    "semantic_type": "Gene or Genome",
+    "tree_number": "A1.2.3.5",
+    "definition": "A specific sequence, or in the case of the genome the complete sequence, of nucleotides along a molecule of DNA or RNA (in the case of some viruses) which represent the functional units of heredity.",
+    "ui": "T028",
+    "context": "Medical term from UMLS domain: nucleotide",
+    "domain": "UMLS"
+  },
+  {
+    "term": "nucleotide sequence",
+    "semantic_type": "Molecular Sequence",
+    "tree_number": "A2.1.5.3",
+    "definition": "A broad type for grouping the collected sequences of amino acids, carbohydrates, and nucleotide sequences. Descriptions of these sequences are generally reported in the published literature and/or are deposited in and maintained by databanks such as GenBank, European Molecular Biology Laboratory (EMBL), National Biomedical Research Foundation (NBRF), or other sequence repositories.",
+    "ui": "T085",
+    "context": "Medical term from UMLS domain: nucleotide sequence",
+    "domain": "UMLS"
+  },
+  {
+    "term": "nurse",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: nurse",
+    "domain": "UMLS"
+  },
+  {
+    "term": "object",
+    "semantic_type": "Physical Object",
+    "tree_number": "A1",
+    "definition": "An object perceptible to the sense of vision or touch.",
+    "ui": "T072",
+    "context": "Medical term from UMLS domain: object",
+    "domain": "UMLS"
+  },
+  {
+    "term": "occupation",
+    "semantic_type": "Occupational Activity",
+    "tree_number": "B1.3",
+    "definition": "An activity carried out as part of an occupation or job.",
+    "ui": "T057",
+    "context": "Medical term from UMLS domain: occupation",
+    "domain": "UMLS"
+  },
+  {
+    "term": "occupation or discipline",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: occupation or discipline",
+    "domain": "UMLS"
+  },
+  {
+    "term": "occupational",
+    "semantic_type": "Occupational Activity",
+    "tree_number": "B1.3",
+    "definition": "An activity carried out as part of an occupation or job.",
+    "ui": "T057",
+    "context": "Medical term from UMLS domain: occupational",
+    "domain": "UMLS"
+  },
+  {
+    "term": "occupational activity",
+    "semantic_type": "Activity",
+    "tree_number": "B1",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "ui": "T052",
+    "context": "Medical term from UMLS domain: occupational activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "operation",
+    "semantic_type": "Activity",
+    "tree_number": "B1",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "ui": "T052",
+    "context": "Medical term from UMLS domain: operation",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organ",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: organ",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organ or tissue function",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: organ or tissue function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organic",
+    "semantic_type": "Plant",
+    "tree_number": "A1.1.3.3",
+    "definition": "An organism having cellulose cell walls, growing by synthesis of inorganic substances, generally distinguished by the presence of chlorophyll, and lacking the power of locomotion. Plant parts are included here as well.",
+    "ui": "T002",
+    "context": "Medical term from UMLS domain: organic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organic chemical",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: organic chemical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organism",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: organism",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organism attribute",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: organism attribute",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organism function",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: organism function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "organization",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: organization",
+    "domain": "UMLS"
+  },
+  {
+    "term": "pain",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: pain",
+    "domain": "UMLS"
+  },
+  {
+    "term": "part",
+    "semantic_type": "Plant",
+    "tree_number": "A1.1.3.3",
+    "definition": "An organism having cellulose cell walls, growing by synthesis of inorganic substances, generally distinguished by the presence of chlorophyll, and lacking the power of locomotion. Plant parts are included here as well.",
+    "ui": "T002",
+    "context": "Medical term from UMLS domain: part",
+    "domain": "UMLS"
+  },
+  {
+    "term": "pathologic",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: pathologic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "pathologic function",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: pathologic function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "pathology",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: pathology",
+    "domain": "UMLS"
+  },
+  {
+    "term": "patient",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: patient",
+    "domain": "UMLS"
+  },
+  {
+    "term": "patient or disabled group",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: patient or disabled group",
+    "domain": "UMLS"
+  },
+  {
+    "term": "peptide",
+    "semantic_type": "Amino Acid, Peptide, or Protein",
+    "tree_number": "A1.4.1.2.1.7",
+    "definition": "Amino acids and chains of amino acids connected by peptide linkages.",
+    "ui": "T116",
+    "context": "Medical term from UMLS domain: peptide",
+    "domain": "UMLS"
+  },
+  {
+    "term": "pharmacologic",
+    "semantic_type": "Chemical Viewed Functionally",
+    "tree_number": "A1.4.1.1",
+    "definition": "A chemical viewed from the perspective of its functional characteristics or pharmacological activities.",
+    "ui": "T120",
+    "context": "Medical term from UMLS domain: pharmacologic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "pharmacologic substance",
+    "semantic_type": "Body Substance",
+    "tree_number": "A1.4.2",
+    "definition": "Extracellular material, or mixtures of cells and extracellular material, produced, excreted, or accreted by the body. Included here are substances such as saliva, dental enamel, sweat, and gastric acid.",
+    "ui": "T031",
+    "context": "Medical term from UMLS domain: pharmacologic substance",
+    "domain": "UMLS"
+  },
+  {
+    "term": "phenomenon",
+    "semantic_type": "Phenomenon or Process",
+    "tree_number": "B2",
+    "definition": "A process or state which occurs naturally or as a result of an activity.",
+    "ui": "T067",
+    "context": "Medical term from UMLS domain: phenomenon",
+    "domain": "UMLS"
+  },
+  {
+    "term": "phenomenon or process",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: phenomenon or process",
+    "domain": "UMLS"
+  },
+  {
+    "term": "physical",
+    "semantic_type": "Therapeutic or Preventive Procedure",
+    "tree_number": "B1.3.1.3",
+    "definition": "A procedure, method, or technique designed to prevent a disease or a disorder, or to improve physical function, or used in the process of treating a disease or injury.",
+    "ui": "T061",
+    "context": "Medical term from UMLS domain: physical",
+    "domain": "UMLS"
+  },
+  {
+    "term": "physical object",
+    "semantic_type": "Physical Object",
+    "tree_number": "A1",
+    "definition": "An object perceptible to the sense of vision or touch.",
+    "ui": "T072",
+    "context": "Medical term from UMLS domain: physical object",
+    "domain": "UMLS"
+  },
+  {
+    "term": "physiologic",
+    "semantic_type": "Physiologic Function",
+    "tree_number": "B2.2.1.1",
+    "definition": "A normal process, activity, or state of the body.",
+    "ui": "T039",
+    "context": "Medical term from UMLS domain: physiologic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "physiologic function",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: physiologic function",
+    "domain": "UMLS"
+  },
+  {
+    "term": "physiology",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: physiology",
+    "domain": "UMLS"
+  },
+  {
+    "term": "plant",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: plant",
+    "domain": "UMLS"
+  },
+  {
+    "term": "poisoning",
+    "semantic_type": "Injury or Poisoning",
+    "tree_number": "B2.3",
+    "definition": "A traumatic wound, injury, or poisoning caused by an external agent or force.",
+    "ui": "T037",
+    "context": "Medical term from UMLS domain: poisoning",
+    "domain": "UMLS"
+  },
+  {
+    "term": "poisonous",
+    "semantic_type": "Hazardous or Poisonous Substance",
+    "tree_number": "A1.4.1.1.5",
+    "definition": "A substance of concern because of its potentially hazardous or toxic effects. This would include most drugs of abuse, as well as agents that require special handling because of their toxicity.",
+    "ui": "T131",
+    "context": "Medical term from UMLS domain: poisonous",
+    "domain": "UMLS"
+  },
+  {
+    "term": "population",
+    "semantic_type": "Population Group",
+    "tree_number": "A2.9.2",
+    "definition": "An indivdual or individuals classified according to their sex, racial origin, religion, common place of living, financial or social status, or some other cultural or behavioral attribute.",
+    "ui": "T098",
+    "context": "Medical term from UMLS domain: population",
+    "domain": "UMLS"
+  },
+  {
+    "term": "population group",
+    "semantic_type": "Group",
+    "tree_number": "A2.9",
+    "definition": "A conceptual entity referring to the classification of individuals according to certain shared characteristics.",
+    "ui": "T096",
+    "context": "Medical term from UMLS domain: population group",
+    "domain": "UMLS"
+  },
+  {
+    "term": "preventive",
+    "semantic_type": "Therapeutic or Preventive Procedure",
+    "tree_number": "B1.3.1.3",
+    "definition": "A procedure, method, or technique designed to prevent a disease or a disorder, or to improve physical function, or used in the process of treating a disease or injury.",
+    "ui": "T061",
+    "context": "Medical term from UMLS domain: preventive",
+    "domain": "UMLS"
+  },
+  {
+    "term": "procedure",
+    "semantic_type": "Laboratory Procedure",
+    "tree_number": "B1.3.1.1",
+    "definition": "A procedure, method, or technique used to determine the composition, quantity, or concentration of a specimen, and which is carried out in a clinical laboratory. Included here are procedures which measure the times and rates of reactions.",
+    "ui": "T059",
+    "context": "Medical term from UMLS domain: procedure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "process",
+    "semantic_type": "Biologic Function",
+    "tree_number": "B2.2.1",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "ui": "T038",
+    "context": "Medical term from UMLS domain: process",
+    "domain": "UMLS"
+  },
+  {
+    "term": "product",
+    "semantic_type": "Regulation or Law",
+    "tree_number": "A2.4.2",
+    "definition": "An intellectual product resulting from legislative or regulatory activity.",
+    "ui": "T089",
+    "context": "Medical term from UMLS domain: product",
+    "domain": "UMLS"
+  },
+  {
+    "term": "professional",
+    "semantic_type": "Professional Society",
+    "tree_number": "A2.7.2",
+    "definition": "An organization uniting those who have a common vocation or who are involved with a common field of study.",
+    "ui": "T094",
+    "context": "Medical term from UMLS domain: professional",
+    "domain": "UMLS"
+  },
+  {
+    "term": "professional or occupational group",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: professional or occupational group",
+    "domain": "UMLS"
+  },
+  {
+    "term": "professional society",
+    "semantic_type": "Professional Society",
+    "tree_number": "A2.7.2",
+    "definition": "An organization uniting those who have a common vocation or who are involved with a common field of study.",
+    "ui": "T094",
+    "context": "Medical term from UMLS domain: professional society",
+    "domain": "UMLS"
+  },
+  {
+    "term": "protein",
+    "semantic_type": "Virus",
+    "tree_number": "A1.1.4",
+    "definition": "An organism consisting of a core of a single nucleic acid enclosed in a protective coat of protein. A virus may replicate only inside a host living cell. A virus exhibits some but not all of the usual characteristics of living things.",
+    "ui": "T005",
+    "context": "Medical term from UMLS domain: protein",
+    "domain": "UMLS"
+  },
+  {
+    "term": "qualitative",
+    "semantic_type": "Qualitative Concept",
+    "tree_number": "A2.1.2",
+    "definition": "A concept which is an assessment of some quality, rather than a direct measurement.",
+    "ui": "T080",
+    "context": "Medical term from UMLS domain: qualitative",
+    "domain": "UMLS"
+  },
+  {
+    "term": "qualitative concept",
+    "semantic_type": "Conceptual Entity",
+    "tree_number": "A2",
+    "definition": "A broad type for grouping abstract entities or concepts.",
+    "ui": "T077",
+    "context": "Medical term from UMLS domain: qualitative concept",
+    "domain": "UMLS"
+  },
+  {
+    "term": "quantitative",
+    "semantic_type": "Quantitative Concept",
+    "tree_number": "A2.1.3",
+    "definition": "A concept which involves the dimensions, quantity or capacity of something using some unit of measure, or which involves the quantitative comparison of entities.",
+    "ui": "T081",
+    "context": "Medical term from UMLS domain: quantitative",
+    "domain": "UMLS"
+  },
+  {
+    "term": "quantitative concept",
+    "semantic_type": "Conceptual Entity",
+    "tree_number": "A2",
+    "definition": "A broad type for grouping abstract entities or concepts.",
+    "ui": "T077",
+    "context": "Medical term from UMLS domain: quantitative concept",
+    "domain": "UMLS"
+  },
+  {
+    "term": "reagent",
+    "semantic_type": "Indicator, Reagent, or Diagnostic Aid",
+    "tree_number": "A1.4.1.1.4",
+    "definition": "A substance primarily of interest for its use in laboratory or diagnostic tests and procedures to detect, measure, examine, or analyze other chemicals, processes, or conditions.",
+    "ui": "T130",
+    "context": "Medical term from UMLS domain: reagent",
+    "domain": "UMLS"
+  },
+  {
+    "term": "receptor",
+    "semantic_type": "Receptor",
+    "tree_number": "A1.4.1.1.3.6",
+    "definition": "A specific structure or site on the cell surface or within its cytoplasm that recognizes and binds with other specific molecules. These include the proteins on the surface of an immunocompetent cell that binds with antigens, or proteins found on the surface molecules that bind with hormones or neurotransmitters and react with other molecules that respond in a specific way.",
+    "ui": "T192",
+    "context": "Medical term from UMLS domain: receptor",
+    "domain": "UMLS"
+  },
+  {
+    "term": "recovery",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: recovery",
+    "domain": "UMLS"
+  },
+  {
+    "term": "recreational",
+    "semantic_type": "Daily or Recreational Activity",
+    "tree_number": "B1.2",
+    "definition": "An activity carried out for recreation or exercise, or as part of daily life.",
+    "ui": "T056",
+    "context": "Medical term from UMLS domain: recreational",
+    "domain": "UMLS"
+  },
+  {
+    "term": "region",
+    "semantic_type": "Body Location or Region",
+    "tree_number": "A2.1.5.2",
+    "definition": "An area, subdivision, or region of the body demarcated for the purpose of topographical description.",
+    "ui": "T029",
+    "context": "Medical term from UMLS domain: region",
+    "domain": "UMLS"
+  },
+  {
+    "term": "regulation",
+    "semantic_type": "Governmental or Regulatory Activity",
+    "tree_number": "B1.3.3",
+    "definition": "An activity carried out by officially constituted governments, or an activity related to the creation or enforcement of the rules or regulations governing some field of endeavor.",
+    "ui": "T064",
+    "context": "Medical term from UMLS domain: regulation",
+    "domain": "UMLS"
+  },
+  {
+    "term": "regulation or law",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: regulation or law",
+    "domain": "UMLS"
+  },
+  {
+    "term": "regulatory",
+    "semantic_type": "Governmental or Regulatory Activity",
+    "tree_number": "B1.3.3",
+    "definition": "An activity carried out by officially constituted governments, or an activity related to the creation or enforcement of the rules or regulations governing some field of endeavor.",
+    "ui": "T064",
+    "context": "Medical term from UMLS domain: regulatory",
+    "domain": "UMLS"
+  },
+  {
+    "term": "related",
+    "semantic_type": "Genetic Function",
+    "tree_number": "B2.2.1.1.4.1",
+    "definition": "Functions of or related to the maintenance, translation or expression of the genetic material.",
+    "ui": "T045",
+    "context": "Medical term from UMLS domain: related",
+    "domain": "UMLS"
+  },
+  {
+    "term": "relief",
+    "semantic_type": "Self-help or Relief Organization",
+    "tree_number": "A2.7.3",
+    "definition": "An organization whose purpose and function is to provide assistance to the needy or to offer support to those sharing similar problems.",
+    "ui": "T095",
+    "context": "Medical term from UMLS domain: relief",
+    "domain": "UMLS"
+  },
+  {
+    "term": "reptile",
+    "semantic_type": "Reptile",
+    "tree_number": "A1.1.3.1.1.5",
+    "definition": "A cold-blooded vertebrate having an external covering of scales or horny plates. Reptiles breathe by means of lungs and are generally egg-laying.",
+    "ui": "T014",
+    "context": "Medical term from UMLS domain: reptile",
+    "domain": "UMLS"
+  },
+  {
+    "term": "research",
+    "semantic_type": "Experimental Model of Disease",
+    "tree_number": "B2.2.1.2.3",
+    "definition": "A representation in a non-human organism of a human disease for the purpose of research into its mechanism or treatment.",
+    "ui": "T050",
+    "context": "Medical term from UMLS domain: research",
+    "domain": "UMLS"
+  },
+  {
+    "term": "research activity",
+    "semantic_type": "Activity",
+    "tree_number": "B1",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "ui": "T052",
+    "context": "Medical term from UMLS domain: research activity",
+    "domain": "UMLS"
+  },
+  {
+    "term": "research device",
+    "semantic_type": "Research Activity",
+    "tree_number": "B1.3.2",
+    "definition": "An activity carried out as part of research or experimentation.",
+    "ui": "T062",
+    "context": "Medical term from UMLS domain: research device",
+    "domain": "UMLS"
+  },
+  {
+    "term": "result",
+    "semantic_type": "Congenital Abnormality",
+    "tree_number": "A1.2.2.1",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis.",
+    "ui": "T019",
+    "context": "Medical term from UMLS domain: result",
+    "domain": "UMLS"
+  },
+  {
+    "term": "self-help",
+    "semantic_type": "Self-help or Relief Organization",
+    "tree_number": "A2.7.3",
+    "definition": "An organization whose purpose and function is to provide assistance to the needy or to offer support to those sharing similar problems.",
+    "ui": "T095",
+    "context": "Medical term from UMLS domain: self-help",
+    "domain": "UMLS"
+  },
+  {
+    "term": "self-help or relief organization",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: self-help or relief organization",
+    "domain": "UMLS"
+  },
+  {
+    "term": "sequence",
+    "semantic_type": "Gene or Genome",
+    "tree_number": "A1.2.3.5",
+    "definition": "A specific sequence, or in the case of the genome the complete sequence, of nucleotides along a molecule of DNA or RNA (in the case of some viruses) which represent the functional units of heredity.",
+    "ui": "T028",
+    "context": "Medical term from UMLS domain: sequence",
+    "domain": "UMLS"
+  },
+  {
+    "term": "sign",
+    "semantic_type": "Mental or Behavioral Dysfunction",
+    "tree_number": "B2.2.1.2.1.1",
+    "definition": "A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.",
+    "ui": "T048",
+    "context": "Medical term from UMLS domain: sign",
+    "domain": "UMLS"
+  },
+  {
+    "term": "sign or symptom",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: sign or symptom",
+    "domain": "UMLS"
+  },
+  {
+    "term": "social",
+    "semantic_type": "Behavior",
+    "tree_number": "B1.1",
+    "definition": "Any of the psycho-social activities of humans or animals that can be observed directly by others or can be made systematically observable by the use of special strategies.",
+    "ui": "T053",
+    "context": "Medical term from UMLS domain: social",
+    "domain": "UMLS"
+  },
+  {
+    "term": "social behavior",
+    "semantic_type": "Mental or Behavioral Dysfunction",
+    "tree_number": "B2.2.1.2.1.1",
+    "definition": "A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.",
+    "ui": "T048",
+    "context": "Medical term from UMLS domain: social behavior",
+    "domain": "UMLS"
+  },
+  {
+    "term": "society",
+    "semantic_type": "Professional Society",
+    "tree_number": "A2.7.2",
+    "definition": "An organization uniting those who have a common vocation or who are involved with a common field of study.",
+    "ui": "T094",
+    "context": "Medical term from UMLS domain: society",
+    "domain": "UMLS"
+  },
+  {
+    "term": "space",
+    "semantic_type": "Body Space or Junction",
+    "tree_number": "A2.1.5.1",
+    "definition": "An area enclosed or surrounded by body parts or organs or the place where two anatomical structures meet or connect.",
+    "ui": "T030",
+    "context": "Medical term from UMLS domain: space",
+    "domain": "UMLS"
+  },
+  {
+    "term": "spatial",
+    "semantic_type": "Spatial Concept",
+    "tree_number": "A2.1.5",
+    "definition": "A location, region, or space, generally having definite boundaries.",
+    "ui": "T082",
+    "context": "Medical term from UMLS domain: spatial",
+    "domain": "UMLS"
+  },
+  {
+    "term": "spatial concept",
+    "semantic_type": "Conceptual Entity",
+    "tree_number": "A2",
+    "definition": "A broad type for grouping abstract entities or concepts.",
+    "ui": "T077",
+    "context": "Medical term from UMLS domain: spatial concept",
+    "domain": "UMLS"
+  },
+  {
+    "term": "structurally",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: structurally",
+    "domain": "UMLS"
+  },
+  {
+    "term": "structure",
+    "semantic_type": "Anatomical Structure",
+    "tree_number": "A1.2",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "ui": "T017",
+    "context": "Medical term from UMLS domain: structure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "substance",
+    "semantic_type": "Plant",
+    "tree_number": "A1.1.3.3",
+    "definition": "An organism having cellulose cell walls, growing by synthesis of inorganic substances, generally distinguished by the presence of chlorophyll, and lacking the power of locomotion. Plant parts are included here as well.",
+    "ui": "T002",
+    "context": "Medical term from UMLS domain: substance",
+    "domain": "UMLS"
+  },
+  {
+    "term": "surgery",
+    "semantic_type": "Therapeutic or Preventive Procedure",
+    "tree_number": "B1.3.1.3",
+    "definition": "A procedure, method, or technique designed to prevent a disease or a disorder, or to improve physical function, or used in the process of treating a disease or injury.",
+    "ui": "T061",
+    "context": "Medical term from UMLS domain: surgery",
+    "domain": "UMLS"
+  },
+  {
+    "term": "symptom",
+    "semantic_type": "Disease or Syndrome",
+    "tree_number": "B2.2.1.2.1",
+    "definition": "A condition which alters or interferes with a normal process, state, or activity of an organism. It is usually characterized by the abnormal functioning of one or more of the host's systems, parts, or organs. Included here is a complex of symptoms descriptive of a disorder.",
+    "ui": "T047",
+    "context": "Medical term from UMLS domain: symptom",
+    "domain": "UMLS"
+  },
+  {
+    "term": "syndrome",
+    "semantic_type": "Disease or Syndrome",
+    "tree_number": "B2.2.1.2.1",
+    "definition": "A condition which alters or interferes with a normal process, state, or activity of an organism. It is usually characterized by the abnormal functioning of one or more of the host's systems, parts, or organs. Included here is a complex of symptoms descriptive of a disorder.",
+    "ui": "T047",
+    "context": "Medical term from UMLS domain: syndrome",
+    "domain": "UMLS"
+  },
+  {
+    "term": "system",
+    "semantic_type": "Body System",
+    "tree_number": "A2.1.4.1",
+    "definition": "A complex of anatomical structures that performs a common function.",
+    "ui": "T022",
+    "context": "Medical term from UMLS domain: system",
+    "domain": "UMLS"
+  },
+  {
+    "term": "technique",
+    "semantic_type": "Laboratory Procedure",
+    "tree_number": "B1.3.1.1",
+    "definition": "A procedure, method, or technique used to determine the composition, quantity, or concentration of a specimen, and which is carried out in a clinical laboratory. Included here are procedures which measure the times and rates of reactions.",
+    "ui": "T059",
+    "context": "Medical term from UMLS domain: technique",
+    "domain": "UMLS"
+  },
+  {
+    "term": "temporal",
+    "semantic_type": "Temporal Concept",
+    "tree_number": "A2.1.1",
+    "definition": "A concept which pertains to time or duration.",
+    "ui": "T079",
+    "context": "Medical term from UMLS domain: temporal",
+    "domain": "UMLS"
+  },
+  {
+    "term": "temporal concept",
+    "semantic_type": "Conceptual Entity",
+    "tree_number": "A2",
+    "definition": "A broad type for grouping abstract entities or concepts.",
+    "ui": "T077",
+    "context": "Medical term from UMLS domain: temporal concept",
+    "domain": "UMLS"
+  },
+  {
+    "term": "test",
+    "semantic_type": "Laboratory or Test Result",
+    "tree_number": "A2.2.1",
+    "definition": "The outcome of a specific test to measure an attribute or to determine the presence, absence, or degree of a condition.",
+    "ui": "T034",
+    "context": "Medical term from UMLS domain: test",
+    "domain": "UMLS"
+  },
+  {
+    "term": "therapeutic",
+    "semantic_type": "Therapeutic or Preventive Procedure",
+    "tree_number": "B1.3.1.3",
+    "definition": "A procedure, method, or technique designed to prevent a disease or a disorder, or to improve physical function, or used in the process of treating a disease or injury.",
+    "ui": "T061",
+    "context": "Medical term from UMLS domain: therapeutic",
+    "domain": "UMLS"
+  },
+  {
+    "term": "therapeutic or preventive procedure",
+    "semantic_type": "Organism",
+    "tree_number": "A1.1",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "ui": "T001",
+    "context": "Medical term from UMLS domain: therapeutic or preventive procedure",
+    "domain": "UMLS"
+  },
+  {
+    "term": "therapy",
+    "semantic_type": "Therapeutic or Preventive Procedure",
+    "tree_number": "B1.3.1.3",
+    "definition": "A procedure, method, or technique designed to prevent a disease or a disorder, or to improve physical function, or used in the process of treating a disease or injury.",
+    "ui": "T061",
+    "context": "Medical term from UMLS domain: therapy",
+    "domain": "UMLS"
+  },
+  {
+    "term": "tissue",
+    "semantic_type": "Body Part, Organ, or Organ Component",
+    "tree_number": "A1.2.3.1",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "ui": "T023",
+    "context": "Medical term from UMLS domain: tissue",
+    "domain": "UMLS"
+  },
+  {
+    "term": "trauma",
+    "semantic_type": "Injury or Poisoning",
+    "tree_number": "B2.3",
+    "definition": "A traumatic wound, injury, or poisoning caused by an external agent or force.",
+    "ui": "T037",
+    "context": "Medical term from UMLS domain: trauma",
+    "domain": "UMLS"
+  },
+  {
+    "term": "treatment",
+    "semantic_type": "Experimental Model of Disease",
+    "tree_number": "B2.2.1.2.3",
+    "definition": "A representation in a non-human organism of a human disease for the purpose of research into its mechanism or treatment.",
+    "ui": "T050",
+    "context": "Medical term from UMLS domain: treatment",
+    "domain": "UMLS"
+  },
+  {
+    "term": "tumor",
+    "semantic_type": "Finding",
+    "tree_number": "A2.2",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "ui": "T033",
+    "context": "Medical term from UMLS domain: tumor",
+    "domain": "UMLS"
+  },
+  {
+    "term": "vertebrate",
+    "semantic_type": "Vertebrate",
+    "tree_number": "A1.1.3.1.1",
+    "definition": "An animal which has a spinal column.",
+    "ui": "T010",
+    "context": "Medical term from UMLS domain: vertebrate",
+    "domain": "UMLS"
+  },
+  {
+    "term": "viewed",
+    "semantic_type": "Chemical",
+    "tree_number": "A1.4.1",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "ui": "T103",
+    "context": "Medical term from UMLS domain: viewed",
+    "domain": "UMLS"
+  },
+  {
+    "term": "virus",
+    "semantic_type": "Virus",
+    "tree_number": "A1.1.4",
+    "definition": "An organism consisting of a core of a single nucleic acid enclosed in a protective coat of protein. A virus may replicate only inside a host living cell. A virus exhibits some but not all of the usual characteristics of living things.",
+    "ui": "T005",
+    "context": "Medical term from UMLS domain: virus",
+    "domain": "UMLS"
+  },
+  {
+    "term": "vitamin",
+    "semantic_type": "Vitamin",
+    "tree_number": "A1.4.1.1.3.4",
+    "definition": "A substance, usually an organic chemical complex, present in natural products or made synthetically, which is essential in the diet of man or other higher animals. Included here are vitamin precursors, provitamins, and vitamin supplements.",
+    "ui": "T127",
+    "context": "Medical term from UMLS domain: vitamin",
+    "domain": "UMLS"
+  },
+  {
+    "term": "wound",
+    "semantic_type": "Injury or Poisoning",
+    "tree_number": "B2.3",
+    "definition": "A traumatic wound, injury, or poisoning caused by an external agent or force.",
+    "ui": "T037",
+    "context": "Medical term from UMLS domain: wound",
+    "domain": "UMLS"
+  }
+]

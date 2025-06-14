@@ -1,0 +1,545 @@
+{
+  "Acquired Abnormality": [
+    "Anatomical Abnormality"
+  ],
+  "Activity": [
+    "Event"
+  ],
+  "Age Group": [
+    "Group"
+  ],
+  "Amino Acid Sequence": [
+    "Molecular Sequence"
+  ],
+  "Amino Acid, Peptide, or Protein": [
+    "Organic Chemical"
+  ],
+  "Amphibian": [
+    "Vertebrate"
+  ],
+  "Anatomical Abnormality": [
+    "Anatomical Structure"
+  ],
+  "Anatomical Structure": [
+    "Physical Object"
+  ],
+  "Animal": [
+    "Eukaryote"
+  ],
+  "Antibiotic": [
+    "Pharmacologic Substance"
+  ],
+  "Archaeon": [
+    "Organism"
+  ],
+  "Bacterium": [
+    "Organism"
+  ],
+  "Behavior": [
+    "Activity"
+  ],
+  "Biologic Function": [
+    "Natural Phenomenon or Process"
+  ],
+  "Biologically Active Substance": [
+    "Chemical Viewed Functionally"
+  ],
+  "Biomedical Occupation or Discipline": [
+    "Occupation or Discipline"
+  ],
+  "Biomedical or Dental Material": [
+    "Chemical Viewed Functionally"
+  ],
+  "Bird": [
+    "Vertebrate"
+  ],
+  "Body Location or Region": [
+    "Spatial Concept"
+  ],
+  "Body Part, Organ, or Organ Component": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Body Space or Junction": [
+    "Spatial Concept"
+  ],
+  "Body Substance": [
+    "Substance"
+  ],
+  "Body System": [
+    "Functional Concept"
+  ],
+  "Carbohydrate Sequence": [
+    "Molecular Sequence"
+  ],
+  "Cell Component": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Cell Function": [
+    "Physiologic Function"
+  ],
+  "Cell or Molecular Dysfunction": [
+    "Pathologic Function"
+  ],
+  "Cell": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Chemical Viewed Functionally": [
+    "Chemical"
+  ],
+  "Chemical Viewed Structurally": [
+    "Chemical"
+  ],
+  "Chemical": [
+    "Substance"
+  ],
+  "Classification": [
+    "Intellectual Product"
+  ],
+  "Clinical Attribute": [
+    "Organism Attribute"
+  ],
+  "Clinical Drug": [
+    "Manufactured Object"
+  ],
+  "Conceptual Entity": [
+    "Entity"
+  ],
+  "Congenital Abnormality": [
+    "Anatomical Abnormality"
+  ],
+  "Daily or Recreational Activity": [
+    "Activity"
+  ],
+  "Diagnostic Procedure": [
+    "Health Care Activity"
+  ],
+  "Disease or Syndrome": [
+    "Pathologic Function"
+  ],
+  "Drug Delivery Device": [
+    "Medical Device"
+  ],
+  "Educational Activity": [
+    "Occupational Activity"
+  ],
+  "Element, Ion, or Isotope": [
+    "Chemical Viewed Structurally"
+  ],
+  "Embryonic Structure": [
+    "Anatomical Structure"
+  ],
+  "Entity": [
+    ""
+  ],
+  "Environmental Effect of Humans": [
+    "Human-caused Phenomenon or Process"
+  ],
+  "Enzyme": [
+    "Biologically Active Substance"
+  ],
+  "Eukaryote": [
+    "Organism"
+  ],
+  "Event": [
+    ""
+  ],
+  "Experimental Model of Disease": [
+    "Pathologic Function"
+  ],
+  "Family Group": [
+    "Group"
+  ],
+  "Finding": [
+    "Conceptual Entity"
+  ],
+  "Fish": [
+    "Vertebrate"
+  ],
+  "Food": [
+    "Substance"
+  ],
+  "Fully Formed Anatomical Structure": [
+    "Anatomical Structure"
+  ],
+  "Functional Concept": [
+    "Idea or Concept"
+  ],
+  "Fungus": [
+    "Eukaryote"
+  ],
+  "Gene or Genome": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Genetic Function": [
+    "Molecular Function"
+  ],
+  "Geographic Area": [
+    "Spatial Concept"
+  ],
+  "Governmental or Regulatory Activity": [
+    "Occupational Activity"
+  ],
+  "Group Attribute": [
+    "Conceptual Entity"
+  ],
+  "Group": [
+    "Conceptual Entity"
+  ],
+  "Hazardous or Poisonous Substance": [
+    "Chemical Viewed Functionally"
+  ],
+  "Health Care Activity": [
+    "Occupational Activity"
+  ],
+  "Health Care Related Organization": [
+    "Organization"
+  ],
+  "Hormone": [
+    "Biologically Active Substance"
+  ],
+  "Human-caused Phenomenon or Process": [
+    "Phenomenon or Process"
+  ],
+  "Human": [
+    "Mammal"
+  ],
+  "Idea or Concept": [
+    "Conceptual Entity"
+  ],
+  "Immunologic Factor": [
+    "Biologically Active Substance"
+  ],
+  "Indicator, Reagent, or Diagnostic Aid": [
+    "Chemical Viewed Functionally"
+  ],
+  "Individual Behavior": [
+    "Behavior"
+  ],
+  "Injury or Poisoning": [
+    "Phenomenon or Process"
+  ],
+  "Inorganic Chemical": [
+    "Chemical Viewed Structurally"
+  ],
+  "Intellectual Product": [
+    "Conceptual Entity"
+  ],
+  "Laboratory Procedure": [
+    "Health Care Activity"
+  ],
+  "Laboratory or Test Result": [
+    "Finding"
+  ],
+  "Language": [
+    "Conceptual Entity"
+  ],
+  "Machine Activity": [
+    "Activity"
+  ],
+  "Mammal": [
+    "Vertebrate"
+  ],
+  "Manufactured Object": [
+    "Physical Object"
+  ],
+  "Medical Device": [
+    "Manufactured Object"
+  ],
+  "Mental Process": [
+    "Organism Function"
+  ],
+  "Mental or Behavioral Dysfunction": [
+    "Disease or Syndrome"
+  ],
+  "Molecular Biology Research Technique": [
+    "Research Activity"
+  ],
+  "Molecular Function": [
+    "Physiologic Function"
+  ],
+  "Molecular Sequence": [
+    "Spatial Concept"
+  ],
+  "Natural Phenomenon or Process": [
+    "Phenomenon or Process"
+  ],
+  "Neoplastic Process": [
+    "Disease or Syndrome"
+  ],
+  "Nucleic Acid, Nucleoside, or Nucleotide": [
+    "Organic Chemical"
+  ],
+  "Nucleotide Sequence": [
+    "Molecular Sequence"
+  ],
+  "Occupation or Discipline": [
+    "Conceptual Entity"
+  ],
+  "Occupational Activity": [
+    "Activity"
+  ],
+  "Organ or Tissue Function": [
+    "Physiologic Function"
+  ],
+  "Organic Chemical": [
+    "Chemical Viewed Structurally"
+  ],
+  "Organism Attribute": [
+    "Conceptual Entity"
+  ],
+  "Organism Function": [
+    "Physiologic Function"
+  ],
+  "Organism": [
+    "Physical Object"
+  ],
+  "Organization": [
+    "Conceptual Entity"
+  ],
+  "Pathologic Function": [
+    "Biologic Function"
+  ],
+  "Patient or Disabled Group": [
+    "Group"
+  ],
+  "Pharmacologic Substance": [
+    "Chemical Viewed Functionally"
+  ],
+  "Phenomenon or Process": [
+    "Event"
+  ],
+  "Physical Object": [
+    "Entity"
+  ],
+  "Physiologic Function": [
+    "Biologic Function"
+  ],
+  "Plant": [
+    "Eukaryote"
+  ],
+  "Population Group": [
+    "Group"
+  ],
+  "Professional Society": [
+    "Organization"
+  ],
+  "Professional or Occupational Group": [
+    "Group"
+  ],
+  "Qualitative Concept": [
+    "Idea or Concept"
+  ],
+  "Quantitative Concept": [
+    "Idea or Concept"
+  ],
+  "Receptor": [
+    "Biologically Active Substance"
+  ],
+  "Regulation or Law": [
+    "Intellectual Product"
+  ],
+  "Reptile": [
+    "Vertebrate"
+  ],
+  "Research Activity": [
+    "Occupational Activity"
+  ],
+  "Research Device": [
+    "Manufactured Object"
+  ],
+  "Self-help or Relief Organization": [
+    "Organization"
+  ],
+  "Sign or Symptom": [
+    "Finding"
+  ],
+  "Social Behavior": [
+    "Behavior"
+  ],
+  "Spatial Concept": [
+    "Idea or Concept"
+  ],
+  "Substance": [
+    "Physical Object"
+  ],
+  "Temporal Concept": [
+    "Idea or Concept"
+  ],
+  "Therapeutic or Preventive Procedure": [
+    "Health Care Activity"
+  ],
+  "Tissue": [
+    "Fully Formed Anatomical Structure"
+  ],
+  "Vertebrate": [
+    "Animal"
+  ],
+  "Virus": [
+    "Organism"
+  ],
+  "Vitamin": [
+    "Biologically Active Substance"
+  ],
+  "adjacent_to": [
+    "spatially_related_to"
+  ],
+  "affects": [
+    "functionally_related_to"
+  ],
+  "analyzes": [
+    "conceptually_related_to"
+  ],
+  "assesses_effect_of": [
+    "analyzes"
+  ],
+  "associated_with": [
+    ""
+  ],
+  "branch_of": [
+    "physically_related_to"
+  ],
+  "brings_about": [
+    "functionally_related_to"
+  ],
+  "carries_out": [
+    "performs"
+  ],
+  "causes": [
+    "brings_about"
+  ],
+  "co-occurs_with": [
+    "temporally_related_to"
+  ],
+  "complicates": [
+    "affects"
+  ],
+  "conceptual_part_of": [
+    "conceptually_related_to"
+  ],
+  "conceptually_related_to": [
+    "associated_with"
+  ],
+  "connected_to": [
+    "physically_related_to"
+  ],
+  "consists_of": [
+    "physically_related_to"
+  ],
+  "contains": [
+    "physically_related_to"
+  ],
+  "degree_of": [
+    "conceptually_related_to"
+  ],
+  "derivative_of": [
+    "conceptually_related_to"
+  ],
+  "developmental_form_of": [
+    "conceptually_related_to"
+  ],
+  "diagnoses": [
+    "conceptually_related_to"
+  ],
+  "disrupts": [
+    "affects"
+  ],
+  "evaluation_of": [
+    "conceptually_related_to"
+  ],
+  "exhibits": [
+    "performs"
+  ],
+  "functionally_related_to": [
+    "associated_with"
+  ],
+  "indicates": [
+    "functionally_related_to"
+  ],
+  "ingredient_of": [
+    "physically_related_to"
+  ],
+  "interacts_with": [
+    "affects"
+  ],
+  "interconnects": [
+    "physically_related_to"
+  ],
+  "isa": [
+    ""
+  ],
+  "issue_in": [
+    "conceptually_related_to"
+  ],
+  "location_of": [
+    "spatially_related_to"
+  ],
+  "manages": [
+    "affects"
+  ],
+  "manifestation_of": [
+    "functionally_related_to"
+  ],
+  "measurement_of": [
+    "conceptually_related_to"
+  ],
+  "measures": [
+    "conceptually_related_to"
+  ],
+  "method_of": [
+    "conceptually_related_to"
+  ],
+  "occurs_in": [
+    "functionally_related_to"
+  ],
+  "part_of": [
+    "physically_related_to"
+  ],
+  "performs": [
+    "functionally_related_to"
+  ],
+  "physically_related_to": [
+    "associated_with"
+  ],
+  "practices": [
+    "performs"
+  ],
+  "precedes": [
+    "temporally_related_to"
+  ],
+  "prevents": [
+    "affects"
+  ],
+  "process_of": [
+    "occurs_in"
+  ],
+  "produces": [
+    "brings_about"
+  ],
+  "property_of": [
+    "conceptually_related_to"
+  ],
+  "result_of": [
+    "functionally_related_to"
+  ],
+  "spatially_related_to": [
+    "associated_with"
+  ],
+  "surrounds": [
+    "spatially_related_to"
+  ],
+  "temporally_related_to": [
+    "associated_with"
+  ],
+  "traverses": [
+    "spatially_related_to"
+  ],
+  "treats": [
+    "affects"
+  ],
+  "tributary_of": [
+    "physically_related_to"
+  ],
+  "uses": [
+    "functionally_related_to"
+  ]
+}

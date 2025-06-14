@@ -1,0 +1,602 @@
+[
+  {
+    "child": "Plant",
+    "parent": "Eukaryote",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Biologically Active Substance",
+    "parent": "Chemical Viewed Functionally",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Anatomical Structure",
+    "parent": "Vitamin",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Machine Activity",
+    "parent": "Age Group",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Biologic Function",
+    "parent": "Molecular Function",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Health Care Activity",
+    "parent": "Genetic Function",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Physiologic Function",
+    "parent": "Biologic Function",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Family Group",
+    "parent": "Health Care Activity",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Neoplastic Process",
+    "parent": "Disease or Syndrome",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Mental Process",
+    "parent": "Organism Function",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Inorganic Chemical",
+    "parent": "Chemical Viewed Structurally",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Vertebrate",
+    "parent": "Animal",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Geographic Area",
+    "parent": "Mental Process",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Temporal Concept",
+    "parent": "Neoplastic Process",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Daily or Recreational Activity",
+    "parent": "Human",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Natural Phenomenon or Process",
+    "parent": "Food",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Activity",
+    "parent": "Amino Acid, Peptide, or Protein",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Classification",
+    "parent": "Intellectual Product",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Organic Chemical",
+    "parent": "Chemical Viewed Structurally",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Indicator, Reagent, or Diagnostic Aid",
+    "parent": "Chemical Viewed Functionally",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Organization",
+    "parent": "Conceptual Entity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Temporal Concept",
+    "parent": "Idea or Concept",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Hormone",
+    "parent": "Biologic Function",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Physiologic Function",
+    "parent": "Governmental or Regulatory Activity",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Enzyme",
+    "parent": "Finding",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Idea or Concept",
+    "parent": "Mental Process",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Clinical Attribute",
+    "parent": "Organism Attribute",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Environmental Effect of Humans",
+    "parent": "Anatomical Structure",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Therapeutic or Preventive Procedure",
+    "parent": "Health Care Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Daily or Recreational Activity",
+    "parent": "Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Intellectual Product",
+    "parent": "Conceptual Entity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Archaeon",
+    "parent": "Organism",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Organism",
+    "parent": "Language",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Human",
+    "parent": "Mammal",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Experimental Model of Disease",
+    "parent": "Pathologic Function",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Governmental or Regulatory Activity",
+    "parent": "Occupational Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Organism",
+    "parent": "Physical Object",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Environmental Effect of Humans",
+    "parent": "Indicator, Reagent, or Diagnostic Aid",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Body Substance",
+    "parent": "Substance",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Amphibian",
+    "parent": "Eukaryote",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Amino Acid Sequence",
+    "parent": "Immunologic Factor",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Body Location or Region",
+    "parent": "Hormone",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Human",
+    "parent": "Spatial Concept",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Laboratory Procedure",
+    "parent": "Health Care Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Physiologic Function",
+    "parent": "Professional or Occupational Group",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Reptile",
+    "parent": "Vertebrate",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Molecular Sequence",
+    "parent": "Patient or Disabled Group",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Spatial Concept",
+    "parent": "Laboratory or Test Result",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Activity",
+    "parent": "Event",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Bird",
+    "parent": "Body System",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Environmental Effect of Humans",
+    "parent": "Human-caused Phenomenon or Process",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Organism Function",
+    "parent": "Idea or Concept",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Vitamin",
+    "parent": "Biologically Active Substance",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Organ or Tissue Function",
+    "parent": "Bird",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Classification",
+    "parent": "Vertebrate",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Organization",
+    "parent": "Congenital Abnormality",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Health Care Related Organization",
+    "parent": "Organization",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Embryonic Structure",
+    "parent": "Archaeon",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Molecular Function",
+    "parent": "Physiologic Function",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Conceptual Entity",
+    "parent": "Entity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Machine Activity",
+    "parent": "Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Health Care Activity",
+    "parent": "Occupational Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Chemical Viewed Functionally",
+    "parent": "Chemical",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Social Behavior",
+    "parent": "Behavior",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Indicator, Reagent, or Diagnostic Aid",
+    "parent": "Fish",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Receptor",
+    "parent": "Regulation or Law",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Molecular Biology Research Technique",
+    "parent": "Research Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Family Group",
+    "parent": "Laboratory or Test Result",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Occupational Activity",
+    "parent": "Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Chemical",
+    "parent": "Substance",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Self-help or Relief Organization",
+    "parent": "Indicator, Reagent, or Diagnostic Aid",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Vertebrate",
+    "parent": "Experimental Model of Disease",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Molecular Function",
+    "parent": "Body Space or Junction",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Mental or Behavioral Dysfunction",
+    "parent": "Indicator, Reagent, or Diagnostic Aid",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Vitamin",
+    "parent": "Chemical Viewed Structurally",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Age Group",
+    "parent": "Group",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Clinical Attribute",
+    "parent": "Hazardous or Poisonous Substance",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Tissue",
+    "parent": "Fully Formed Anatomical Structure",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Professional Society",
+    "parent": "Organization",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Congenital Abnormality",
+    "parent": "Anatomical Abnormality",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Body System",
+    "parent": "Functional Concept",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Self-help or Relief Organization",
+    "parent": "Embryonic Structure",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Professional or Occupational Group",
+    "parent": "Group",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Embryonic Structure",
+    "parent": "Acquired Abnormality",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Behavior",
+    "parent": "Activity",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Eukaryote",
+    "parent": "Organism",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Human-caused Phenomenon or Process",
+    "parent": "Phenomenon or Process",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Geographic Area",
+    "parent": "Spatial Concept",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Biologic Function",
+    "parent": "Manufactured Object",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Medical Device",
+    "parent": "Manufactured Object",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Natural Phenomenon or Process",
+    "parent": "Phenomenon or Process",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Disease or Syndrome",
+    "parent": "Pathologic Function",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Pharmacologic Substance",
+    "parent": "Gene or Genome",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Behavior",
+    "parent": "Organ or Tissue Function",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Fully Formed Anatomical Structure",
+    "parent": "Anatomical Structure",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Plant",
+    "parent": "Bacterium",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Nucleotide Sequence",
+    "parent": "Body Location or Region",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Entity",
+    "parent": "Immunologic Factor",
+    "relationship": "isa",
+    "label": "negative"
+  },
+  {
+    "child": "Population Group",
+    "parent": "Group",
+    "relationship": "isa",
+    "label": "positive"
+  },
+  {
+    "child": "Drug Delivery Device",
+    "parent": "Medical Device",
+    "relationship": "isa",
+    "label": "positive"
+  }
+]

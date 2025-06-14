@@ -1,0 +1,1145 @@
+{
+  "Organism": {
+    "ui": "T001",
+    "name": "Organism",
+    "definition": "Generally, a living individual, including all plants and animals.",
+    "parents": [
+      "Physical Object"
+    ],
+    "tree_number": "A1.1"
+  },
+  "Plant": {
+    "ui": "T002",
+    "name": "Plant",
+    "definition": "An organism having cellulose cell walls, growing by synthesis of inorganic substances, generally distinguished by the presence of chlorophyll, and lacking the power of locomotion. Plant parts are included here as well.",
+    "parents": [
+      "Eukaryote"
+    ],
+    "tree_number": "A1.1.3.3"
+  },
+  "Fungus": {
+    "ui": "T004",
+    "name": "Fungus",
+    "definition": "A eukaryotic organism characterized by the absence of chlorophyll and the presence of a rigid cell wall. Included here are both slime molds and true fungi such as yeasts, molds, mildews, and mushrooms.",
+    "parents": [
+      "Eukaryote"
+    ],
+    "tree_number": "A1.1.3.2"
+  },
+  "Virus": {
+    "ui": "T005",
+    "name": "Virus",
+    "definition": "An organism consisting of a core of a single nucleic acid enclosed in a protective coat of protein. A virus may replicate only inside a host living cell. A virus exhibits some but not all of the usual characteristics of living things.",
+    "parents": [
+      "Organism"
+    ],
+    "tree_number": "A1.1.4"
+  },
+  "Bacterium": {
+    "ui": "T007",
+    "name": "Bacterium",
+    "definition": "A small, typically one-celled, prokaryotic micro-organism.",
+    "parents": [
+      "Organism"
+    ],
+    "tree_number": "A1.1.2"
+  },
+  "Animal": {
+    "ui": "T008",
+    "name": "Animal",
+    "definition": "An organism with eukaryotic cells, and lacking stiff cell walls, plastids and photosynthetic pigments.",
+    "parents": [
+      "Eukaryote"
+    ],
+    "tree_number": "A1.1.3.1"
+  },
+  "Vertebrate": {
+    "ui": "T010",
+    "name": "Vertebrate",
+    "definition": "An animal which has a spinal column.",
+    "parents": [
+      "Animal"
+    ],
+    "tree_number": "A1.1.3.1.1"
+  },
+  "Amphibian": {
+    "ui": "T011",
+    "name": "Amphibian",
+    "definition": "A cold-blooded, smooth-skinned vertebrate which characteristically hatches as an aquatic larva, breathing by gills. When mature, the amphibian breathes with lungs.",
+    "parents": [
+      "Vertebrate"
+    ],
+    "tree_number": "A1.1.3.1.1.1"
+  },
+  "Bird": {
+    "ui": "T012",
+    "name": "Bird",
+    "definition": "A vertebrate having a constant body temperature and characterized by the presence of feathers.",
+    "parents": [
+      "Vertebrate"
+    ],
+    "tree_number": "A1.1.3.1.1.2"
+  },
+  "Fish": {
+    "ui": "T013",
+    "name": "Fish",
+    "definition": "A cold-blooded aquatic vertebrate characterized by fins and breathing by gills. Included here are fishes having either a bony skeleton, such as a perch, or a cartilaginous skeleton, such as a shark, or those lacking a jaw, such as a lamprey or hagfish.",
+    "parents": [
+      "Vertebrate"
+    ],
+    "tree_number": "A1.1.3.1.1.3"
+  },
+  "Reptile": {
+    "ui": "T014",
+    "name": "Reptile",
+    "definition": "A cold-blooded vertebrate having an external covering of scales or horny plates. Reptiles breathe by means of lungs and are generally egg-laying.",
+    "parents": [
+      "Vertebrate"
+    ],
+    "tree_number": "A1.1.3.1.1.5"
+  },
+  "Mammal": {
+    "ui": "T015",
+    "name": "Mammal",
+    "definition": "A vertebrate having a constant body temperature and characterized by the presence of hair, mammary glands and sweat glands.",
+    "parents": [
+      "Vertebrate"
+    ],
+    "tree_number": "A1.1.3.1.1.4"
+  },
+  "Human": {
+    "ui": "T016",
+    "name": "Human",
+    "definition": "Modern man, the only remaining species of the Homo genus.",
+    "parents": [
+      "Mammal"
+    ],
+    "tree_number": "A1.1.3.1.1.4.1"
+  },
+  "Anatomical Structure": {
+    "ui": "T017",
+    "name": "Anatomical Structure",
+    "definition": "A normal or pathological part of the anatomy or structural organization of an organism.",
+    "parents": [
+      "Physical Object"
+    ],
+    "tree_number": "A1.2"
+  },
+  "Embryonic Structure": {
+    "ui": "T018",
+    "name": "Embryonic Structure",
+    "definition": "An anatomical structure that exists only before the organism is fully formed; in mammals, for example, a structure that exists only prior to the birth of the organism. This structure may be normal or abnormal.",
+    "parents": [
+      "Anatomical Structure"
+    ],
+    "tree_number": "A1.2.1"
+  },
+  "Congenital Abnormality": {
+    "ui": "T019",
+    "name": "Congenital Abnormality",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, present at birth or evolving over time as a result of a defect in embryogenesis.",
+    "parents": [
+      "Anatomical Abnormality"
+    ],
+    "tree_number": "A1.2.2.1"
+  },
+  "Acquired Abnormality": {
+    "ui": "T020",
+    "name": "Acquired Abnormality",
+    "definition": "An abnormal structure, or one that is abnormal in size or location, found in or deriving from a previously normal structure. Acquired abnormalities are distinguished from diseases even though they may result in pathological functioning (e.g., \"hernias incarcerate\").",
+    "parents": [
+      "Anatomical Abnormality"
+    ],
+    "tree_number": "A1.2.2.2"
+  },
+  "Fully Formed Anatomical Structure": {
+    "ui": "T021",
+    "name": "Fully Formed Anatomical Structure",
+    "definition": "An anatomical structure in a fully formed organism; in mammals, for example, a structure in the body after the birth of the organism.",
+    "parents": [
+      "Anatomical Structure"
+    ],
+    "tree_number": "A1.2.3"
+  },
+  "Body System": {
+    "ui": "T022",
+    "name": "Body System",
+    "definition": "A complex of anatomical structures that performs a common function.",
+    "parents": [
+      "Functional Concept"
+    ],
+    "tree_number": "A2.1.4.1"
+  },
+  "Body Part, Organ, or Organ Component": {
+    "ui": "T023",
+    "name": "Body Part, Organ, or Organ Component",
+    "definition": "A collection of cells and tissues which are localized to a specific area or combine and carry out one or more specialized functions of an organism. This ranges from gross structures to small components of complex organs. These structures are relatively localized in comparison to tissues.",
+    "parents": [
+      "Fully Formed Anatomical Structure"
+    ],
+    "tree_number": "A1.2.3.1"
+  },
+  "Tissue": {
+    "ui": "T024",
+    "name": "Tissue",
+    "definition": "An aggregation of similarly specialized cells and the associated intercellular substance. Tissues are relatively non-localized in comparison to body parts, organs or organ components.",
+    "parents": [
+      "Fully Formed Anatomical Structure"
+    ],
+    "tree_number": "A1.2.3.2"
+  },
+  "Cell": {
+    "ui": "T025",
+    "name": "Cell",
+    "definition": "The fundamental structural and functional unit of living organisms.",
+    "parents": [
+      "Fully Formed Anatomical Structure"
+    ],
+    "tree_number": "A1.2.3.3"
+  },
+  "Cell Component": {
+    "ui": "T026",
+    "name": "Cell Component",
+    "definition": "A part of a cell or the intercellular matrix, generally visible by light microscopy.",
+    "parents": [
+      "Fully Formed Anatomical Structure"
+    ],
+    "tree_number": "A1.2.3.4"
+  },
+  "Gene or Genome": {
+    "ui": "T028",
+    "name": "Gene or Genome",
+    "definition": "A specific sequence, or in the case of the genome the complete sequence, of nucleotides along a molecule of DNA or RNA (in the case of some viruses) which represent the functional units of heredity.",
+    "parents": [
+      "Fully Formed Anatomical Structure"
+    ],
+    "tree_number": "A1.2.3.5"
+  },
+  "Body Location or Region": {
+    "ui": "T029",
+    "name": "Body Location or Region",
+    "definition": "An area, subdivision, or region of the body demarcated for the purpose of topographical description.",
+    "parents": [
+      "Spatial Concept"
+    ],
+    "tree_number": "A2.1.5.2"
+  },
+  "Body Space or Junction": {
+    "ui": "T030",
+    "name": "Body Space or Junction",
+    "definition": "An area enclosed or surrounded by body parts or organs or the place where two anatomical structures meet or connect.",
+    "parents": [
+      "Spatial Concept"
+    ],
+    "tree_number": "A2.1.5.1"
+  },
+  "Body Substance": {
+    "ui": "T031",
+    "name": "Body Substance",
+    "definition": "Extracellular material, or mixtures of cells and extracellular material, produced, excreted, or accreted by the body. Included here are substances such as saliva, dental enamel, sweat, and gastric acid.",
+    "parents": [
+      "Substance"
+    ],
+    "tree_number": "A1.4.2"
+  },
+  "Organism Attribute": {
+    "ui": "T032",
+    "name": "Organism Attribute",
+    "definition": "A property of the organism or its major parts.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.3"
+  },
+  "Finding": {
+    "ui": "T033",
+    "name": "Finding",
+    "definition": "That which is discovered by direct observation or measurement of an organism attribute or condition, including the clinical history of the patient. The history of the presence of a disease is a 'Finding' and is distinguished from the disease itself.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.2"
+  },
+  "Laboratory or Test Result": {
+    "ui": "T034",
+    "name": "Laboratory or Test Result",
+    "definition": "The outcome of a specific test to measure an attribute or to determine the presence, absence, or degree of a condition.",
+    "parents": [
+      "Finding"
+    ],
+    "tree_number": "A2.2.1"
+  },
+  "Injury or Poisoning": {
+    "ui": "T037",
+    "name": "Injury or Poisoning",
+    "definition": "A traumatic wound, injury, or poisoning caused by an external agent or force.",
+    "parents": [
+      "Phenomenon or Process"
+    ],
+    "tree_number": "B2.3"
+  },
+  "Biologic Function": {
+    "ui": "T038",
+    "name": "Biologic Function",
+    "definition": "A state, activity or process of the body or one of its systems or parts.",
+    "parents": [
+      "Natural Phenomenon or Process"
+    ],
+    "tree_number": "B2.2.1"
+  },
+  "Physiologic Function": {
+    "ui": "T039",
+    "name": "Physiologic Function",
+    "definition": "A normal process, activity, or state of the body.",
+    "parents": [
+      "Biologic Function"
+    ],
+    "tree_number": "B2.2.1.1"
+  },
+  "Organism Function": {
+    "ui": "T040",
+    "name": "Organism Function",
+    "definition": "A physiologic function of the organism as a whole, of multiple organ systems, or of multiple organs or tissues.",
+    "parents": [
+      "Physiologic Function"
+    ],
+    "tree_number": "B2.2.1.1.1"
+  },
+  "Mental Process": {
+    "ui": "T041",
+    "name": "Mental Process",
+    "definition": "A physiologic function involving the mind or cognitive processing.",
+    "parents": [
+      "Organism Function"
+    ],
+    "tree_number": "B2.2.1.1.1.1"
+  },
+  "Organ or Tissue Function": {
+    "ui": "T042",
+    "name": "Organ or Tissue Function",
+    "definition": "A physiologic function of a particular organ, organ system, or tissue.",
+    "parents": [
+      "Physiologic Function"
+    ],
+    "tree_number": "B2.2.1.1.2"
+  },
+  "Cell Function": {
+    "ui": "T043",
+    "name": "Cell Function",
+    "definition": "A physiologic function inherent to cells or cell components.",
+    "parents": [
+      "Physiologic Function"
+    ],
+    "tree_number": "B2.2.1.1.3"
+  },
+  "Molecular Function": {
+    "ui": "T044",
+    "name": "Molecular Function",
+    "definition": "A physiologic function occurring at the molecular level.",
+    "parents": [
+      "Physiologic Function"
+    ],
+    "tree_number": "B2.2.1.1.4"
+  },
+  "Genetic Function": {
+    "ui": "T045",
+    "name": "Genetic Function",
+    "definition": "Functions of or related to the maintenance, translation or expression of the genetic material.",
+    "parents": [
+      "Molecular Function"
+    ],
+    "tree_number": "B2.2.1.1.4.1"
+  },
+  "Pathologic Function": {
+    "ui": "T046",
+    "name": "Pathologic Function",
+    "definition": "A disordered process, activity, or state of the organism as a whole, of a body system or systems, or of multiple organs or tissues. Included here are normal responses to a negative stimulus as well as patholologic conditions or states that are less specific than a disease. Pathologic functions frequently have systemic effects.",
+    "parents": [
+      "Biologic Function"
+    ],
+    "tree_number": "B2.2.1.2"
+  },
+  "Disease or Syndrome": {
+    "ui": "T047",
+    "name": "Disease or Syndrome",
+    "definition": "A condition which alters or interferes with a normal process, state, or activity of an organism. It is usually characterized by the abnormal functioning of one or more of the host's systems, parts, or organs. Included here is a complex of symptoms descriptive of a disorder.",
+    "parents": [
+      "Pathologic Function"
+    ],
+    "tree_number": "B2.2.1.2.1"
+  },
+  "Mental or Behavioral Dysfunction": {
+    "ui": "T048",
+    "name": "Mental or Behavioral Dysfunction",
+    "definition": "A clinically significant dysfunction whose major manifestation is behavioral or psychological. These dysfunctions may have identified or presumed biological etiologies or manifestations.",
+    "parents": [
+      "Disease or Syndrome"
+    ],
+    "tree_number": "B2.2.1.2.1.1"
+  },
+  "Cell or Molecular Dysfunction": {
+    "ui": "T049",
+    "name": "Cell or Molecular Dysfunction",
+    "definition": "A pathologic function inherent to cells, parts of cells, or molecules.",
+    "parents": [
+      "Pathologic Function"
+    ],
+    "tree_number": "B2.2.1.2.2"
+  },
+  "Experimental Model of Disease": {
+    "ui": "T050",
+    "name": "Experimental Model of Disease",
+    "definition": "A representation in a non-human organism of a human disease for the purpose of research into its mechanism or treatment.",
+    "parents": [
+      "Pathologic Function"
+    ],
+    "tree_number": "B2.2.1.2.3"
+  },
+  "Event": {
+    "ui": "T051",
+    "name": "Event",
+    "definition": "A broad type for grouping activities, processes and states.",
+    "parents": [
+      ""
+    ],
+    "tree_number": "B"
+  },
+  "Activity": {
+    "ui": "T052",
+    "name": "Activity",
+    "definition": "An operation or series of operations that an organism or machine carries out or participates in.",
+    "parents": [
+      "Event"
+    ],
+    "tree_number": "B1"
+  },
+  "Behavior": {
+    "ui": "T053",
+    "name": "Behavior",
+    "definition": "Any of the psycho-social activities of humans or animals that can be observed directly by others or can be made systematically observable by the use of special strategies.",
+    "parents": [
+      "Activity"
+    ],
+    "tree_number": "B1.1"
+  },
+  "Social Behavior": {
+    "ui": "T054",
+    "name": "Social Behavior",
+    "definition": "Behavior that is a direct result or function of the interaction of humans or animals with their fellows. This includes behavior that may be considered anti-social.",
+    "parents": [
+      "Behavior"
+    ],
+    "tree_number": "B1.1.1"
+  },
+  "Individual Behavior": {
+    "ui": "T055",
+    "name": "Individual Behavior",
+    "definition": "Behavior exhibited by a human or an animal that is not a direct result of interaction with other members of the species, but which may have an effect on others.",
+    "parents": [
+      "Behavior"
+    ],
+    "tree_number": "B1.1.2"
+  },
+  "Daily or Recreational Activity": {
+    "ui": "T056",
+    "name": "Daily or Recreational Activity",
+    "definition": "An activity carried out for recreation or exercise, or as part of daily life.",
+    "parents": [
+      "Activity"
+    ],
+    "tree_number": "B1.2"
+  },
+  "Occupational Activity": {
+    "ui": "T057",
+    "name": "Occupational Activity",
+    "definition": "An activity carried out as part of an occupation or job.",
+    "parents": [
+      "Activity"
+    ],
+    "tree_number": "B1.3"
+  },
+  "Health Care Activity": {
+    "ui": "T058",
+    "name": "Health Care Activity",
+    "definition": "An activity of or relating to the practice of medicine or involving the care of patients.",
+    "parents": [
+      "Occupational Activity"
+    ],
+    "tree_number": "B1.3.1"
+  },
+  "Laboratory Procedure": {
+    "ui": "T059",
+    "name": "Laboratory Procedure",
+    "definition": "A procedure, method, or technique used to determine the composition, quantity, or concentration of a specimen, and which is carried out in a clinical laboratory. Included here are procedures which measure the times and rates of reactions.",
+    "parents": [
+      "Health Care Activity"
+    ],
+    "tree_number": "B1.3.1.1"
+  },
+  "Diagnostic Procedure": {
+    "ui": "T060",
+    "name": "Diagnostic Procedure",
+    "definition": "A procedure, method, or technique used to determine the nature or identity of a disease or disorder. This excludes procedures which are primarily carried out on specimens in a laboratory.",
+    "parents": [
+      "Health Care Activity"
+    ],
+    "tree_number": "B1.3.1.2"
+  },
+  "Therapeutic or Preventive Procedure": {
+    "ui": "T061",
+    "name": "Therapeutic or Preventive Procedure",
+    "definition": "A procedure, method, or technique designed to prevent a disease or a disorder, or to improve physical function, or used in the process of treating a disease or injury.",
+    "parents": [
+      "Health Care Activity"
+    ],
+    "tree_number": "B1.3.1.3"
+  },
+  "Research Activity": {
+    "ui": "T062",
+    "name": "Research Activity",
+    "definition": "An activity carried out as part of research or experimentation.",
+    "parents": [
+      "Occupational Activity"
+    ],
+    "tree_number": "B1.3.2"
+  },
+  "Molecular Biology Research Technique": {
+    "ui": "T063",
+    "name": "Molecular Biology Research Technique",
+    "definition": "Any of the techniques used in the study of or the directed modification of the gene complement of a living organism.",
+    "parents": [
+      "Research Activity"
+    ],
+    "tree_number": "B1.3.2.1"
+  },
+  "Governmental or Regulatory Activity": {
+    "ui": "T064",
+    "name": "Governmental or Regulatory Activity",
+    "definition": "An activity carried out by officially constituted governments, or an activity related to the creation or enforcement of the rules or regulations governing some field of endeavor.",
+    "parents": [
+      "Occupational Activity"
+    ],
+    "tree_number": "B1.3.3"
+  },
+  "Educational Activity": {
+    "ui": "T065",
+    "name": "Educational Activity",
+    "definition": "An activity related to the organization and provision of education.",
+    "parents": [
+      "Occupational Activity"
+    ],
+    "tree_number": "B1.3.4"
+  },
+  "Machine Activity": {
+    "ui": "T066",
+    "name": "Machine Activity",
+    "definition": "An activity carried out primarily or exclusively by machines.",
+    "parents": [
+      "Activity"
+    ],
+    "tree_number": "B1.4"
+  },
+  "Phenomenon or Process": {
+    "ui": "T067",
+    "name": "Phenomenon or Process",
+    "definition": "A process or state which occurs naturally or as a result of an activity.",
+    "parents": [
+      "Event"
+    ],
+    "tree_number": "B2"
+  },
+  "Human-caused Phenomenon or Process": {
+    "ui": "T068",
+    "name": "Human-caused Phenomenon or Process",
+    "definition": "A phenomenon or process that is a result of the activities of human beings.",
+    "parents": [
+      "Phenomenon or Process"
+    ],
+    "tree_number": "B2.1"
+  },
+  "Environmental Effect of Humans": {
+    "ui": "T069",
+    "name": "Environmental Effect of Humans",
+    "definition": "A change in the natural environment that is a result of the activities of human beings.",
+    "parents": [
+      "Human-caused Phenomenon or Process"
+    ],
+    "tree_number": "B2.1.1"
+  },
+  "Natural Phenomenon or Process": {
+    "ui": "T070",
+    "name": "Natural Phenomenon or Process",
+    "definition": "A phenomenon or process that occurs irrespective of the activities of human beings.",
+    "parents": [
+      "Phenomenon or Process"
+    ],
+    "tree_number": "B2.2"
+  },
+  "Entity": {
+    "ui": "T071",
+    "name": "Entity",
+    "definition": "A broad type for grouping physical and conceptual entities.",
+    "parents": [
+      ""
+    ],
+    "tree_number": "A"
+  },
+  "Physical Object": {
+    "ui": "T072",
+    "name": "Physical Object",
+    "definition": "An object perceptible to the sense of vision or touch.",
+    "parents": [
+      "Entity"
+    ],
+    "tree_number": "A1"
+  },
+  "Manufactured Object": {
+    "ui": "T073",
+    "name": "Manufactured Object",
+    "definition": "A physical object made by human beings.",
+    "parents": [
+      "Physical Object"
+    ],
+    "tree_number": "A1.3"
+  },
+  "Medical Device": {
+    "ui": "T074",
+    "name": "Medical Device",
+    "definition": "A manufactured object used primarily in the diagnosis, treatment, or prevention of physiologic or anatomic disorders.",
+    "parents": [
+      "Manufactured Object"
+    ],
+    "tree_number": "A1.3.1"
+  },
+  "Research Device": {
+    "ui": "T075",
+    "name": "Research Device",
+    "definition": "A manufactured object used primarily in carrying out scientific research or experimentation.",
+    "parents": [
+      "Manufactured Object"
+    ],
+    "tree_number": "A1.3.2"
+  },
+  "Conceptual Entity": {
+    "ui": "T077",
+    "name": "Conceptual Entity",
+    "definition": "A broad type for grouping abstract entities or concepts.",
+    "parents": [
+      "Entity"
+    ],
+    "tree_number": "A2"
+  },
+  "Idea or Concept": {
+    "ui": "T078",
+    "name": "Idea or Concept",
+    "definition": "An abstract concept, such as a social, religious or philosophical concept.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.1"
+  },
+  "Temporal Concept": {
+    "ui": "T079",
+    "name": "Temporal Concept",
+    "definition": "A concept which pertains to time or duration.",
+    "parents": [
+      "Idea or Concept"
+    ],
+    "tree_number": "A2.1.1"
+  },
+  "Qualitative Concept": {
+    "ui": "T080",
+    "name": "Qualitative Concept",
+    "definition": "A concept which is an assessment of some quality, rather than a direct measurement.",
+    "parents": [
+      "Idea or Concept"
+    ],
+    "tree_number": "A2.1.2"
+  },
+  "Quantitative Concept": {
+    "ui": "T081",
+    "name": "Quantitative Concept",
+    "definition": "A concept which involves the dimensions, quantity or capacity of something using some unit of measure, or which involves the quantitative comparison of entities.",
+    "parents": [
+      "Idea or Concept"
+    ],
+    "tree_number": "A2.1.3"
+  },
+  "Spatial Concept": {
+    "ui": "T082",
+    "name": "Spatial Concept",
+    "definition": "A location, region, or space, generally having definite boundaries.",
+    "parents": [
+      "Idea or Concept"
+    ],
+    "tree_number": "A2.1.5"
+  },
+  "Geographic Area": {
+    "ui": "T083",
+    "name": "Geographic Area",
+    "definition": "A geographic location, generally having definite boundaries.",
+    "parents": [
+      "Spatial Concept"
+    ],
+    "tree_number": "A2.1.5.4"
+  },
+  "Molecular Sequence": {
+    "ui": "T085",
+    "name": "Molecular Sequence",
+    "definition": "A broad type for grouping the collected sequences of amino acids, carbohydrates, and nucleotide sequences. Descriptions of these sequences are generally reported in the published literature and/or are deposited in and maintained by databanks such as GenBank, European Molecular Biology Laboratory (EMBL), National Biomedical Research Foundation (NBRF), or other sequence repositories.",
+    "parents": [
+      "Spatial Concept"
+    ],
+    "tree_number": "A2.1.5.3"
+  },
+  "Nucleotide Sequence": {
+    "ui": "T086",
+    "name": "Nucleotide Sequence",
+    "definition": "The sequence of purines and pyrimidines in nucleic acids and polynucleotides. Included here are nucleotide-rich regions, conserved sequence, and DNA transforming region.",
+    "parents": [
+      "Molecular Sequence"
+    ],
+    "tree_number": "A2.1.5.3.1"
+  },
+  "Amino Acid Sequence": {
+    "ui": "T087",
+    "name": "Amino Acid Sequence",
+    "definition": "The sequence of amino acids as arrayed in chains, sheets, etc., within the protein molecule. It is of fundamental importance in determining protein structure.",
+    "parents": [
+      "Molecular Sequence"
+    ],
+    "tree_number": "A2.1.5.3.2"
+  },
+  "Carbohydrate Sequence": {
+    "ui": "T088",
+    "name": "Carbohydrate Sequence",
+    "definition": "The sequence of carbohydrates within polysaccharides, glycoproteins, and glycolipids.",
+    "parents": [
+      "Molecular Sequence"
+    ],
+    "tree_number": "A2.1.5.3.3"
+  },
+  "Regulation or Law": {
+    "ui": "T089",
+    "name": "Regulation or Law",
+    "definition": "An intellectual product resulting from legislative or regulatory activity.",
+    "parents": [
+      "Intellectual Product"
+    ],
+    "tree_number": "A2.4.2"
+  },
+  "Occupation or Discipline": {
+    "ui": "T090",
+    "name": "Occupation or Discipline",
+    "definition": "A vocation, academic discipline, or field of study, or a subpart of an occupation or discipline.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.6"
+  },
+  "Biomedical Occupation or Discipline": {
+    "ui": "T091",
+    "name": "Biomedical Occupation or Discipline",
+    "definition": "A vocation, academic discipline, or field of study related to biomedicine.",
+    "parents": [
+      "Occupation or Discipline"
+    ],
+    "tree_number": "A2.6.1"
+  },
+  "Organization": {
+    "ui": "T092",
+    "name": "Organization",
+    "definition": "The result of uniting for a common purpose or function. The continued existence of an organization is not dependent on any of its members, its location, or particular facility. Components or subparts of organizations are also included here. Although the names of organizations are sometimes used to refer to the buildings in which they reside, they are not inherently physical in nature.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.7"
+  },
+  "Health Care Related Organization": {
+    "ui": "T093",
+    "name": "Health Care Related Organization",
+    "definition": "An established organization which carries out specific functions related to health care delivery or research in the life sciences.",
+    "parents": [
+      "Organization"
+    ],
+    "tree_number": "A2.7.1"
+  },
+  "Professional Society": {
+    "ui": "T094",
+    "name": "Professional Society",
+    "definition": "An organization uniting those who have a common vocation or who are involved with a common field of study.",
+    "parents": [
+      "Organization"
+    ],
+    "tree_number": "A2.7.2"
+  },
+  "Self-help or Relief Organization": {
+    "ui": "T095",
+    "name": "Self-help or Relief Organization",
+    "definition": "An organization whose purpose and function is to provide assistance to the needy or to offer support to those sharing similar problems.",
+    "parents": [
+      "Organization"
+    ],
+    "tree_number": "A2.7.3"
+  },
+  "Group": {
+    "ui": "T096",
+    "name": "Group",
+    "definition": "A conceptual entity referring to the classification of individuals according to certain shared characteristics.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.9"
+  },
+  "Professional or Occupational Group": {
+    "ui": "T097",
+    "name": "Professional or Occupational Group",
+    "definition": "An individual or individuals classified according to their vocation.",
+    "parents": [
+      "Group"
+    ],
+    "tree_number": "A2.9.1"
+  },
+  "Population Group": {
+    "ui": "T098",
+    "name": "Population Group",
+    "definition": "An indivdual or individuals classified according to their sex, racial origin, religion, common place of living, financial or social status, or some other cultural or behavioral attribute.",
+    "parents": [
+      "Group"
+    ],
+    "tree_number": "A2.9.2"
+  },
+  "Family Group": {
+    "ui": "T099",
+    "name": "Family Group",
+    "definition": "An individual or individuals classified according to their family relationships or relative position in the family unit.",
+    "parents": [
+      "Group"
+    ],
+    "tree_number": "A2.9.3"
+  },
+  "Age Group": {
+    "ui": "T100",
+    "name": "Age Group",
+    "definition": "An individual or individuals classified according to their age.",
+    "parents": [
+      "Group"
+    ],
+    "tree_number": "A2.9.4"
+  },
+  "Patient or Disabled Group": {
+    "ui": "T101",
+    "name": "Patient or Disabled Group",
+    "definition": "An individual or individuals classified according to a disability, disease, condition or treatment.",
+    "parents": [
+      "Group"
+    ],
+    "tree_number": "A2.9.5"
+  },
+  "Group Attribute": {
+    "ui": "T102",
+    "name": "Group Attribute",
+    "definition": "A conceptual entity which refers to the frequency or distribution of certain characteristics or phenomena in certain groups.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.8"
+  },
+  "Chemical": {
+    "ui": "T103",
+    "name": "Chemical",
+    "definition": "Compounds or substances of definite molecular composition. Chemicals are viewed from two distinct perspectives in the network, functionally and structurally. Almost every chemical concept is assigned at least two types, generally one from the structure hierarchy and at least one from the function hierarchy.",
+    "parents": [
+      "Substance"
+    ],
+    "tree_number": "A1.4.1"
+  },
+  "Chemical Viewed Structurally": {
+    "ui": "T104",
+    "name": "Chemical Viewed Structurally",
+    "definition": "A chemical or chemicals viewed from the perspective of their structural characteristics. Included here are concepts which can mean either a salt, an ion, or a compound (e.g., \"Bromates\" and \"Bromides\").",
+    "parents": [
+      "Chemical"
+    ],
+    "tree_number": "A1.4.1.2"
+  },
+  "Organic Chemical": {
+    "ui": "T109",
+    "name": "Organic Chemical",
+    "definition": "The general class of carbon-containing compounds, usually based on carbon chains or rings, and also containing hydrogen (hydrocarbons), with or without nitrogen, oxygen, or other elements in which the bonding between elements is generally covalent.",
+    "parents": [
+      "Chemical Viewed Structurally"
+    ],
+    "tree_number": "A1.4.1.2.1"
+  },
+  "Nucleic Acid, Nucleoside, or Nucleotide": {
+    "ui": "T114",
+    "name": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "definition": "A complex compound of high molecular weight occurring in living cells. These are basically of two types, ribonucleic (RNA) and deoxyribonucleic (DNA) acids. Nucleic acids are made of nucleotides (nitrogen-containing base, a 5-carbon sugar, and one or more phosphate group) linked together by a phosphodiester bond between the 5' and 3' carbon atoms. Nucleosides are compounds composed of a purine or pyrimidine base (usually adenine, cytosine, guanine, thymine, uracil) linked to either a ribose or a deoxyribose sugar.",
+    "parents": [
+      "Organic Chemical"
+    ],
+    "tree_number": "A1.4.1.2.1.5"
+  },
+  "Amino Acid, Peptide, or Protein": {
+    "ui": "T116",
+    "name": "Amino Acid, Peptide, or Protein",
+    "definition": "Amino acids and chains of amino acids connected by peptide linkages.",
+    "parents": [
+      "Organic Chemical"
+    ],
+    "tree_number": "A1.4.1.2.1.7"
+  },
+  "Chemical Viewed Functionally": {
+    "ui": "T120",
+    "name": "Chemical Viewed Functionally",
+    "definition": "A chemical viewed from the perspective of its functional characteristics or pharmacological activities.",
+    "parents": [
+      "Chemical"
+    ],
+    "tree_number": "A1.4.1.1"
+  },
+  "Pharmacologic Substance": {
+    "ui": "T121",
+    "name": "Pharmacologic Substance",
+    "definition": "A substance used in the treatment or prevention of pathologic disorders. This includes substances that occur naturally in the body and are administered therapeutically.",
+    "parents": [
+      "Chemical Viewed Functionally"
+    ],
+    "tree_number": "A1.4.1.1.1"
+  },
+  "Biomedical or Dental Material": {
+    "ui": "T122",
+    "name": "Biomedical or Dental Material",
+    "definition": "A substance used in biomedicine or dentistry predominantly for its physical, as opposed to chemical, properties. Included here are biocompatible materials, tissue adhesives, bone cements, resins, toothpastes, etc.",
+    "parents": [
+      "Chemical Viewed Functionally"
+    ],
+    "tree_number": "A1.4.1.1.2"
+  },
+  "Biologically Active Substance": {
+    "ui": "T123",
+    "name": "Biologically Active Substance",
+    "definition": "A generally endogenous substance produced or required by an organism, of primary interest because of its role in the biologic functioning of the organism that produces it.",
+    "parents": [
+      "Chemical Viewed Functionally"
+    ],
+    "tree_number": "A1.4.1.1.3"
+  },
+  "Hormone": {
+    "ui": "T125",
+    "name": "Hormone",
+    "definition": "In animals, a chemical usually secreted by an endocrine gland whose products are released into the circulating fluid. Hormones act as chemical messengers and regulate various physiologic processes such as growth, reproduction, metabolism, etc. They usually fall into two broad classes, steroid hormones and peptide hormones.",
+    "parents": [
+      "Biologically Active Substance"
+    ],
+    "tree_number": "A1.4.1.1.3.2"
+  },
+  "Enzyme": {
+    "ui": "T126",
+    "name": "Enzyme",
+    "definition": "A complex chemical, usually a protein, that is produced by living cells and which catalyzes specific biochemical reactions. There are six main types of enzymes: oxidoreductases, transferases, hydrolases, lyases, isomerases, and ligases.",
+    "parents": [
+      "Biologically Active Substance"
+    ],
+    "tree_number": "A1.4.1.1.3.3"
+  },
+  "Vitamin": {
+    "ui": "T127",
+    "name": "Vitamin",
+    "definition": "A substance, usually an organic chemical complex, present in natural products or made synthetically, which is essential in the diet of man or other higher animals. Included here are vitamin precursors, provitamins, and vitamin supplements.",
+    "parents": [
+      "Biologically Active Substance"
+    ],
+    "tree_number": "A1.4.1.1.3.4"
+  },
+  "Immunologic Factor": {
+    "ui": "T129",
+    "name": "Immunologic Factor",
+    "definition": "A biologically active substance whose activities affect or play a role in the functioning of the immune system.",
+    "parents": [
+      "Biologically Active Substance"
+    ],
+    "tree_number": "A1.4.1.1.3.5"
+  },
+  "Indicator, Reagent, or Diagnostic Aid": {
+    "ui": "T130",
+    "name": "Indicator, Reagent, or Diagnostic Aid",
+    "definition": "A substance primarily of interest for its use in laboratory or diagnostic tests and procedures to detect, measure, examine, or analyze other chemicals, processes, or conditions.",
+    "parents": [
+      "Chemical Viewed Functionally"
+    ],
+    "tree_number": "A1.4.1.1.4"
+  },
+  "Hazardous or Poisonous Substance": {
+    "ui": "T131",
+    "name": "Hazardous or Poisonous Substance",
+    "definition": "A substance of concern because of its potentially hazardous or toxic effects. This would include most drugs of abuse, as well as agents that require special handling because of their toxicity.",
+    "parents": [
+      "Chemical Viewed Functionally"
+    ],
+    "tree_number": "A1.4.1.1.5"
+  },
+  "Substance": {
+    "ui": "T167",
+    "name": "Substance",
+    "definition": "A material with definite or fairly definite chemical composition.",
+    "parents": [
+      "Physical Object"
+    ],
+    "tree_number": "A1.4"
+  },
+  "Food": {
+    "ui": "T168",
+    "name": "Food",
+    "definition": "Any substance generally containing nutrients, such as carbohydrates, proteins, and fats, that can be ingested by a living organism and metabolized into energy and body tissue. Some foods are naturally occurring, others are either partially or entirely made by humans.",
+    "parents": [
+      "Substance"
+    ],
+    "tree_number": "A1.4.3"
+  },
+  "Functional Concept": {
+    "ui": "T169",
+    "name": "Functional Concept",
+    "definition": "A concept which is of interest because it pertains to the carrying out of a process or activity.",
+    "parents": [
+      "Idea or Concept"
+    ],
+    "tree_number": "A2.1.4"
+  },
+  "Intellectual Product": {
+    "ui": "T170",
+    "name": "Intellectual Product",
+    "definition": "A conceptual entity resulting from human endeavor. Concepts assigned to this type generally refer to information created by humans for some purpose.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.4"
+  },
+  "Language": {
+    "ui": "T171",
+    "name": "Language",
+    "definition": "The system of communication used by a particular nation or people.",
+    "parents": [
+      "Conceptual Entity"
+    ],
+    "tree_number": "A2.5"
+  },
+  "Sign or Symptom": {
+    "ui": "T184",
+    "name": "Sign or Symptom",
+    "definition": "An observable manifestation of a disease or condition based on clinical judgment, or a manifestation of a disease or condition which is experienced by the patient and reported as a subjective observation.",
+    "parents": [
+      "Finding"
+    ],
+    "tree_number": "A2.2.2"
+  },
+  "Classification": {
+    "ui": "T185",
+    "name": "Classification",
+    "definition": "A term or system of terms denoting an arrangement by class or category.",
+    "parents": [
+      "Intellectual Product"
+    ],
+    "tree_number": "A2.4.1"
+  },
+  "Anatomical Abnormality": {
+    "ui": "T190",
+    "name": "Anatomical Abnormality",
+    "definition": "An abnormal structure, or one that is abnormal in size or location.",
+    "parents": [
+      "Anatomical Structure"
+    ],
+    "tree_number": "A1.2.2"
+  },
+  "Neoplastic Process": {
+    "ui": "T191",
+    "name": "Neoplastic Process",
+    "definition": "A new and abnormal growth of tissue in which the growth is uncontrolled and progressive. The growths may be malignant or benign.",
+    "parents": [
+      "Disease or Syndrome"
+    ],
+    "tree_number": "B2.2.1.2.1.2"
+  },
+  "Receptor": {
+    "ui": "T192",
+    "name": "Receptor",
+    "definition": "A specific structure or site on the cell surface or within its cytoplasm that recognizes and binds with other specific molecules. These include the proteins on the surface of an immunocompetent cell that binds with antigens, or proteins found on the surface molecules that bind with hormones or neurotransmitters and react with other molecules that respond in a specific way.",
+    "parents": [
+      "Biologically Active Substance"
+    ],
+    "tree_number": "A1.4.1.1.3.6"
+  },
+  "Archaeon": {
+    "ui": "T194",
+    "name": "Archaeon",
+    "definition": "A member of one of the three domains of life, formerly called Archaebacteria under the taxon Bacteria, but now considered separate and distinct. Archaea are characterized by: 1) the presence of characteristic tRNAs and ribosomal RNAs; 2) the absence of peptidoglycan cell walls; 3) the presence of ether-linked lipids built from branched-chain subunits; and 4) their occurrence in unusual habitats. While archaea resemble bacteria in morphology and genomic organization, they resemble eukarya in their method of genomic replication.",
+    "parents": [
+      "Organism"
+    ],
+    "tree_number": "A1.1.1"
+  },
+  "Antibiotic": {
+    "ui": "T195",
+    "name": "Antibiotic",
+    "definition": "A pharmacologically active compound produced by growing microorganisms which kill or inhibit growth of other microorganisms.",
+    "parents": [
+      "Pharmacologic Substance"
+    ],
+    "tree_number": "A1.4.1.1.1.1"
+  },
+  "Element, Ion, or Isotope": {
+    "ui": "T196",
+    "name": "Element, Ion, or Isotope",
+    "definition": "One of the 109 presently known fundamental substances that comprise all matter at and above the atomic level. This includes elemental metals, rare gases, and most abundant naturally occurring radioactive elements, as well as the ionic counterparts of elements (NA+, Cl-), and the less abundant isotopic forms. This does not include organic ions such as iodoacetate to which the type 'Organic Chemical' is assigned.",
+    "parents": [
+      "Chemical Viewed Structurally"
+    ],
+    "tree_number": "A1.4.1.2.3"
+  },
+  "Inorganic Chemical": {
+    "ui": "T197",
+    "name": "Inorganic Chemical",
+    "definition": "Chemical elements and their compounds, excluding the hydrocarbons and their derivatives (except carbides, carbonates, cyanides, cyanates and carbon disulfide). Generally inorganic compounds contain ionic bonds. Included here are inorganic acids and salts, alloys, alkalies, and minerals.",
+    "parents": [
+      "Chemical Viewed Structurally"
+    ],
+    "tree_number": "A1.4.1.2.2"
+  },
+  "Clinical Drug": {
+    "ui": "T200",
+    "name": "Clinical Drug",
+    "definition": "A pharmaceutical preparation as produced by the manufacturer. The name usually includes the substance, its strength, and the form, but may include the substance and only one of the other two items.",
+    "parents": [
+      "Manufactured Object"
+    ],
+    "tree_number": "A1.3.3"
+  },
+  "Clinical Attribute": {
+    "ui": "T201",
+    "name": "Clinical Attribute",
+    "definition": "An observable or measurable property or state of an organism of clinical interest.",
+    "parents": [
+      "Organism Attribute"
+    ],
+    "tree_number": "A2.3.1"
+  },
+  "Drug Delivery Device": {
+    "ui": "T203",
+    "name": "Drug Delivery Device",
+    "definition": "A medical device that contains a clinical drug or drugs.",
+    "parents": [
+      "Medical Device"
+    ],
+    "tree_number": "A1.3.1.1"
+  },
+  "Eukaryote": {
+    "ui": "T204",
+    "name": "Eukaryote",
+    "definition": "One of the three domains of life (the others being Bacteria and Archaea), also called Eukarya. These are organisms whose cells are enclosed in membranes and possess a nucleus. They comprise almost all multicellular and many unicellular organisms, and are traditionally divided into groups (sometimes called kingdoms) including Animals, Plants, Fungi, various Algae, and other taxa that were previously part of the old kingdom Protista.",
+    "parents": [
+      "Organism"
+    ],
+    "tree_number": "A1.1.3"
+  }
+}

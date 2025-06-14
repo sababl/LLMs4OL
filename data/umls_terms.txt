@@ -1,0 +1,297 @@
+, bromates and bromides
+, hernias incarcerate
+abnormality
+acid
+acquired
+acquired abnormality
+active
+activity
+age
+age group
+aid
+amino
+amino acid sequence
+amino acid, peptide, or protein
+amphibian
+anatomical
+anatomical abnormality
+anatomical structure
+anatomy
+and
+animal
+antibiotic
+archaeon
+area
+attribute
+bacteria
+bacterium
+behavior
+behavioral
+biologic
+biologic function
+biologically
+biologically active substance
+biology
+biomedical
+biomedical occupation or discipline
+biomedical or dental material
+bird
+blood
+body
+body location or region
+body part, organ, or organ component
+body space or junction
+body substance
+body system
+brain
+bromates
+bromides
+cancer
+carbohydrate
+carbohydrate sequence
+care
+cell
+cell component
+cell function
+cell or molecular dysfunction
+chemical
+chemical viewed functionally
+chemical viewed structurally
+classification
+clinic
+clinical
+clinical attribute
+clinical drug
+component
+concept
+conceptual
+conceptual entity
+condition
+congenital
+congenital abnormality
+daily
+daily or recreational activity
+delivery
+dental
+device
+diagnosis
+diagnostic
+diagnostic procedure
+disabled
+discipline
+disease
+disease or syndrome
+disorder
+doctor
+drug
+drug delivery device
+dysfunction
+educational
+educational activity
+effect
+element
+element, ion, or isotope
+embryonic
+embryonic structure
+entity
+environmental
+environmental effect of humans
+enzyme
+eukaryote
+event
+examination
+experimental
+experimental model of disease
+factor
+family
+family group
+fever
+finding
+fish
+food
+formed
+fully
+fully formed anatomical structure
+function
+functional
+functional concept
+functionally
+fungus
+gene
+gene or genome
+genetic
+genetic function
+genome
+geographic
+geographic area
+governmental
+governmental or regulatory activity
+group
+group attribute
+hazardous
+hazardous or poisonous substance
+healing
+health
+health care activity
+health care related organization
+heart
+hernias
+hormone
+hospital
+human
+human-caused
+human-caused phenomenon or process
+humans
+idea
+idea or concept
+immunologic
+immunologic factor
+incarcerate
+indicator
+indicator, reagent, or diagnostic aid
+individual
+individual behavior
+infection
+inflammation
+injury
+injury or poisoning
+inorganic
+inorganic chemical
+intellectual
+intellectual product
+ion
+isotope
+junction
+kidney
+laboratory
+laboratory or test result
+laboratory procedure
+language
+law
+liver
+location
+lung
+machine
+machine activity
+mammal
+manufactured
+manufactured object
+material
+medical
+medical device
+medication
+mental
+mental or behavioral dysfunction
+mental process
+model
+molecular
+molecular biology research technique
+molecular function
+molecular sequence
+natural
+natural phenomenon or process
+neoplastic
+neoplastic process
+nucleic
+nucleic acid, nucleoside, or nucleotide
+nucleoside
+nucleotide
+nucleotide sequence
+nurse
+object
+occupation
+occupation or discipline
+occupational
+occupational activity
+operation
+organ
+organ or tissue function
+organic
+organic chemical
+organism
+organism attribute
+organism function
+organization
+pain
+part
+pathologic
+pathologic function
+pathology
+patient
+patient or disabled group
+peptide
+pharmacologic
+pharmacologic substance
+phenomenon
+phenomenon or process
+physical
+physical object
+physiologic
+physiologic function
+physiology
+plant
+poisoning
+poisonous
+population
+population group
+preventive
+procedure
+process
+product
+professional
+professional or occupational group
+professional society
+protein
+qualitative
+qualitative concept
+quantitative
+quantitative concept
+reagent
+receptor
+recovery
+recreational
+region
+regulation
+regulation or law
+regulatory
+related
+relief
+reptile
+research
+research activity
+research device
+result
+self-help
+self-help or relief organization
+sequence
+sign
+sign or symptom
+social
+social behavior
+society
+space
+spatial
+spatial concept
+structurally
+structure
+substance
+surgery
+symptom
+syndrome
+system
+technique
+temporal
+temporal concept
+test
+therapeutic
+therapeutic or preventive procedure
+therapy
+tissue
+trauma
+treatment
+tumor
+vertebrate
+viewed
+virus
+vitamin
+wound
