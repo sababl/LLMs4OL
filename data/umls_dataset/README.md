@@ -77,12 +77,12 @@ The dataset includes semantic types across these categories:
 ## Examples
 
 ### Common Medical Terms and Their Classifications:
-- heart → Body Part, Organ, or Organ Component
-- diabetes → Disease or Syndrome
-- aspirin → Pharmacologic Substance  
-- surgery → Therapeutic or Preventive Procedure
-- fever → Sign or Symptom
-- bacteria → Bacterium
+- heart -> Body Part, Organ, or Organ Component
+- diabetes -> Disease or Syndrome
+- aspirin -> Pharmacologic Substance  
+- surgery -> Therapeutic or Preventive Procedure
+- fever -> Sign or Symptom
+- bacteria -> Bacterium
 
 ## Integration
 

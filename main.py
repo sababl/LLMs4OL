@@ -1,84 +1,156 @@
 #!/usr/bin/env python3
 """
-LLMs4OL - Large Language Models for Ontology Learning
-UMLS Domain Implementation (Clean Version)
+UMLS Ontology Learning - Simplified Main Entry Point
 
-This script demonstrates ontology learning tasks using the UMLS (Unified Medical Language System)
-domain with Google's Gemini model. Uses the consolidated clean implementation.
+This is the single entry point for the UMLS ontology learning system.
+Replaces the cluttered main.py with a clean, focused interface.
 """
 
-import time
-import os
-from umls_typer import UMLSTermTyper
-from umls_data_utils import UMLSDataManager
+import sys
+import argparse
+from pathlib import Path
 
-if __name__ == "__main__":
-    print("=== LLMs4OL - UMLS Domain Ontology Learning ===\n")
+from src.umls_ontology.core import UMLSOntologyLearner
+from tests.test_suite import UMLSTestSuite
+
+
+def run_demo():
+    """Run a simple demonstration of the system."""
+    print("=== UMLS Ontology Learning Demo ===\n")
     
-    # Initialize UMLS system
-    print("Initializing UMLS medical term classification system...")
     try:
-        # Initialize the typer and data manager
-        typer = UMLSTermTyper()
-        data_manager = UMLSDataManager()
+        # Initialize the system
+        learner = UMLSOntologyLearner()
         
-        # Show stats
-        stats = typer.get_stats()
-        print(f"✓ Loaded {stats['semantic_types_count']} semantic types and {stats['terms_count']} terms")
-        print(f"Sample semantic types: {stats['semantic_types'][:5]}")
-        print(f"Sample terms: {typer.umls_terms[:10]}\n")
+        # Show system statistics
+        stats = learner.get_system_stats()
+        print("System Statistics:")
+        print(f"  - Semantic Types: {stats['semantic_types_count']}")
+        print(f"  - Medical Terms: {stats['terms_count']}")
+        print(f"  - Hierarchy Entries: {stats['hierarchy_entries']}")
         
-        # Test medical term classification
-        print("1. Testing medical term classification...")
+        # Run classification demo
+        print("\n1. Term Classification Demo:")
+        print("-" * 30)
+        classification_results = learner.run_classification_demo(num_terms=3)
+        for term, semantic_type in classification_results['results']:
+            print(f"  '{term}' -> {semantic_type}")
         
-        sample_terms = typer.umls_terms[:5]  # Use first 5 terms for testing
+        # Run hierarchy demo
+        print("\n2. Hierarchy Detection Demo:")
+        print("-" * 30)
+        hierarchy_results = learner.run_hierarchy_demo()
+        for child, parent, relationship in hierarchy_results['results']:
+            status = "[PASS]" if relationship else "[FAIL]"
+            print(f"  {status} '{child}' is subtype of '{parent}': {relationship}")
         
-        classification_results = []
-        for term in sample_terms:
-            print(f"Classifying: {term}")
-            classified_type = typer.classify_term(term)
-            classification_results.append((term, classified_type))
-            print(f"  {term} -> {classified_type}")
-            time.sleep(2)  # Rate limiting
-        
-        print("\n" + "="*50 + "\n")
-        
-        # Test hierarchical relationship detection
-        print("2. Testing medical relationship detection...")
-        
-        # Test some hierarchical relationships
-        test_relationships = [
-            ("Human", "Animal"),
-            ("Disease or Syndrome", "Pathologic Function"),
-            ("Body Part, Organ, or Organ Component", "Anatomical Structure"),
-            ("Pharmacologic Substance", "Chemical")
-        ]
-        
-        relationship_results = []
-        for child, parent in test_relationships:
-            result = typer.check_hierarchical_relationship(child, parent)
-            relationship_results.append((child, parent, result))
-            print(f"Is '{child}' a subtype of '{parent}'? {result}")
-            time.sleep(2)
-        
-        print("\n" + "="*50 + "\n")
-        
-        # Show summary
-        print("3. Summary and next steps...")
-        print("✅ UMLS term classification system is working")
-        print("✅ Hierarchical relationship detection is functional")
-        print(f"✅ Processed {len(classification_results)} terms")
-        print(f"✅ Tested {len(relationship_results)} relationships")
-        
+        print("\nDemo completed successfully!")
         print("\nNext steps:")
-        print("- Run 'python test_umls_comprehensive.py' for detailed testing")
-        print("- Use 'python umls_typer.py' for interactive demo")
-        print("- Check 'python umls_data_utils.py' for data management")
-        
-    except FileNotFoundError as e:
-        print(f"Error: Could not find required data files: {e}")
-        print("Please run 'python umls_data_utils.py' to create sample data")
+        print("  - Run full tests: python main.py --test")
+        print("  - Interactive mode: python main.py --interactive")
         
     except Exception as e:
-        print(f"Unexpected error: {e}")
-        print("Please check your configuration and data files.")
+        print(f"ERROR: Demo failed: {e}")
+        sys.exit(1)
+
+
+def run_tests():
+    """Run the comprehensive test suite."""
+    print("Running comprehensive test suite...\n")
+    
+    try:
+        test_suite = UMLSTestSuite()
+        test_suite.run_all_tests()
+    except Exception as e:
+        print(f"ERROR: Tests failed: {e}")
+        sys.exit(1)
+
+
+def run_interactive():
+    """Run interactive mode for manual testing."""
+    print("=== Interactive UMLS Ontology Learning ===\n")
+    
+    try:
+        learner = UMLSOntologyLearner()
+        
+        while True:
+            print("\nOptions:")
+            print("1. Classify a medical term")
+            print("2. Check hierarchical relationship")
+            print("3. System statistics")
+            print("4. Exit")
+            
+            choice = input("\nEnter your choice (1-4): ").strip()
+            
+            if choice == "1":
+                term = input("Enter medical term to classify: ").strip()
+                if term:
+                    result = learner.classifier.classify_term(term)
+                    print(f"Result: '{term}' -> {result}")
+            
+            elif choice == "2":
+                child = input("Enter child concept: ").strip()
+                parent = input("Enter parent concept: ").strip()
+                if child and parent:
+                    result = learner.relationship_analyzer.check_hierarchy(child, parent)
+                    print(f"Result: '{child}' is subtype of '{parent}': {result}")
+            
+            elif choice == "3":
+                stats = learner.get_system_stats()
+                print("\nSystem Statistics:")
+                for key, value in stats.items():
+                    if isinstance(value, list):
+                        value = f"{len(value)} items"
+                    print(f"  {key}: {value}")
+            
+            elif choice == "4":
+                print("Goodbye!")
+                break
+            
+            else:
+                print("Invalid choice. Please try again.")
+    
+    except KeyboardInterrupt:
+        print("\n\nExiting interactive mode.")
+    except Exception as e:
+        print(f"ERROR: Interactive mode failed: {e}")
+        sys.exit(1)
+
+
+def main():
+    """Main entry point with command-line argument parsing."""
+    parser = argparse.ArgumentParser(
+        description="UMLS Ontology Learning System",
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog="""
+Examples:
+  python main.py                 # Run demo
+  python main.py --test          # Run full test suite
+  python main.py --interactive   # Interactive mode
+        """
+    )
+    
+    parser.add_argument(
+        "--test",
+        action="store_true",
+        help="Run comprehensive test suite"
+    )
+    
+    parser.add_argument(
+        "--interactive",
+        action="store_true", 
+        help="Run in interactive mode"
+    )
+    
+    args = parser.parse_args()
+    
+    if args.test:
+        run_tests()
+    elif args.interactive:
+        run_interactive()
+    else:
+        run_demo()
+
+
+if __name__ == "__main__":
+    main()
