@@ -24,9 +24,9 @@ class Config:
     MODEL_NAME = os.getenv("MODEL_NAME", "gemini-2.0-flash")
     
     # Data files
-    UMLS_CLASSES_FILE = DATA_DIR / "umls_classes.json"
-    UMLS_TERMS_FILE = DATA_DIR / "umls_terms.txt"
-    UMLS_HIERARCHY_FILE = DATA_DIR / "umls_hierarchy.json"
+    UMLS_CLASSES_FILE = DATA_DIR / "umls_dataset" / "umls_classes.json"
+    UMLS_TERMS_FILE = DATA_DIR / "umls_dataset" / "umls_terms.txt"
+    UMLS_HIERARCHY_FILE = DATA_DIR / "umls_dataset" / "umls_hierarchy.json"
     UMLS_RELATIONSHIPS_FILE = DATA_DIR / "umls_relationship_samples.json"
     
     # Rate limiting
