@@ -1,0 +1,16 @@
+{
+  "entity_typing": [
+    "What is the semantic type of the medical term '{entity}'?",
+    "Classify the medical term '{entity}' according to UMLS semantic types.",
+    "What category does the medical term '{entity}' belong to in UMLS?",
+    "Identify the UMLS semantic type for '{entity}'.",
+    "What is the medical classification of '{entity}'?"
+  ],
+  "context_templates": [
+    "In medical terminology, {entity} is classified as {type}.",
+    "The medical term {entity} belongs to the category {type}.",
+    "According to UMLS, {entity} is a type of {type}.",
+    "{entity} is categorized as {type} in medical classification.",
+    "The semantic type of {entity} is {type}."
+  ]
+}

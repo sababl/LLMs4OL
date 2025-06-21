@@ -1,0 +1,9 @@
+{
+  "total_semantic_types": 127,
+  "total_terms": 297,
+  "entity_typing_samples": 297,
+  "hierarchy_levels": 6,
+  "label_mapper_entries": 127,
+  "unique_tree_numbers": 127,
+  "templates": 5
+}

@@ -1,0 +1,23 @@
+{
+  "classification_prompts": [
+    "Classify the medical term '{term}' according to UMLS semantic types.",
+    "What is the UMLS semantic type of the medical term '{term}'?",
+    "Identify the appropriate medical category for '{term}' using UMLS classification.",
+    "Determine the semantic type of the medical concept '{term}'.",
+    "Categorize '{term}' according to the UMLS semantic network."
+  ],
+  "context_templates": [
+    "In medical terminology, {term} is classified as {semantic_type}.",
+    "The medical term {term} belongs to the semantic type {semantic_type}.",
+    "According to UMLS, {term} is categorized as {semantic_type}.",
+    "{term} is a medical concept of type {semantic_type}.",
+    "The semantic classification of {term} is {semantic_type}."
+  ],
+  "validation_templates": [
+    "Is '{term}' correctly classified as {semantic_type}?",
+    "Does the medical term '{term}' belong to the category {semantic_type}?",
+    "Is {semantic_type} the appropriate classification for '{term}'?",
+    "Verify if '{term}' is a type of {semantic_type}.",
+    "Confirm the classification: {term} -> {semantic_type}"
+  ]
+}

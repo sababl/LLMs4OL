@@ -1,0 +1,11 @@
+{
+  "total_semantic_types": 127,
+  "total_terms": 297,
+  "entity_typing_samples": 297,
+  "training_samples": 594,
+  "classification_templates": 5,
+  "semantic_categories": 9,
+  "dataset_version": "1.0",
+  "domain": "UMLS",
+  "created_date": "2025-06-13"
+}
